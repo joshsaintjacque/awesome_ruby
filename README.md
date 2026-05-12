@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 263
+- Resources: 264
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 72, guide: 12, project: 33, gem: 16, release: 117, talk: 2, news: 11
-- Provenance: 263 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 73, guide: 12, project: 33, gem: 16, release: 117, talk: 2, news: 11
+- Provenance: 264 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (19)
 - [Gems & Libraries](#gems-libraries) (27)
 - [Testing & Quality](#testing-quality) (16)
-- [Databases, Search & Storage](#databases-search-storage) (9)
+- [Databases, Search & Storage](#databases-search-storage) (10)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (4)
@@ -238,6 +238,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [npmx.dev](https://npmx.dev) - Different ecosystem, but if you ever have to search for or deal with npm packages, npmx.dev is a fresh, fast way to browse the official npm registry. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [Planet Ruby](https://planetruby.org) - is a prototype we're noodling on that's like a traditional 'planet' site (e.g. Planet PostgreSQL) bringing together items from a variety of feeds in one place, but filtered down to just the Ruby-related items (mostly successfully). _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [recreate something like SQLite with a swarm of agents?](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html) - 🤖 Can you recreate something like SQLite with a swarm of agents? Kian Kyars had a try, as part of an agent coordination experiment. _(article; Ruby Weekly #788; seen 2026-02-19)_
+- [the story of how it's scaled Postgres to serve 800+ million users.](https://openai.com/index/scaling-postgresql) - OpenAI shares the story of how it's scaled Postgres to serve 800+ million users. The interesting technical point is they're only using a single primary (coupled with many read replicas) to do so. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Elasticsearch 9.3](https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0) - – Official Ruby client for Elasticsearch. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Windows 3.11 experience in your browser.](https://pieter.com) - Play with a full Windows 3.11 experience in your browser. There's a recreation of '90s search engine AltaVista, a version of mIRC that connects to an actual IRC server, and a variety of classic games. _(release; Ruby Weekly #789; seen 2026-02-26)_
