@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 472
+- Resources: 473
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 199, gem: 25, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 172 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 200, gem: 25, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 173 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
-- [Rails & Hotwire](#rails-hotwire) (104)
+- [Rails & Hotwire](#rails-hotwire) (105)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
 - [Gems & Libraries](#gems-libraries) (110)
 - [Testing & Quality](#testing-quality) (21)
@@ -132,6 +132,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [TutorialKit.rb: The ruby.wasm Journey Goes Onward](https://evilmartians.com/chronicles/tutorialkit-rb-the-ruby-wasm-journey-goes-onward) - TutorialKit.rb is a toolkit for building interactive Ruby and Rails tutorials that run entirely in the browser using WebAssembly and WebContainers – here's a live example. A fantastic look at what's possible with Ruby in the browser right now. _(guide; Ruby Weekly #787; seen 2026-02-12)_
 - [Using Claude Code to Build Rails Apps](https://www.driftingruby.com/episodes/claude-code) - 📺 Using Claude Code to Build Rails Apps – A 24 minute walkthrough. Drifting Ruby. _(guide; Ruby Weekly #786; seen 2026-02-05)_
 - [about to land in Rails.](https://github.com/rails/rails/pull/55770) - this_week?/this_month?/this_year? are about to land in Rails. _(project; Ruby Weekly #789; seen 2026-02-26)_
+- [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) - The administration framework for Ruby on Rails applications. Stars: 9686; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ActiveCanvas: An AI-Powered CMS Engine for Rails](https://www.active-canvas.com) - A new Rails 8-focused CMS engine with a visual page builder, Tailwind CSS styling and AI integration for editing copy or generating images. Drop it into your Rails app and turn it into a full-featured CMS. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
