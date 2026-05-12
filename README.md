@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 392
+- Resources: 393
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 126, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 92 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 127, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 93 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (91)
 - [Web Frameworks & APIs](#web-frameworks-apis) (32)
-- [Gems & Libraries](#gems-libraries) (78)
+- [Gems & Libraries](#gems-libraries) (79)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (12)
@@ -232,6 +232,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [super-technical look behind the scenes](https://bernsteinbear.com/blog/multiple-entry) - Max Bernstein, who works on ZJIT, shares a brief but super-technical look behind the scenes at just one of many design decisions taking place in the deepest parts of Ruby. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [tiny ruby conf](https://helsinkiruby.fi/tinyruby) - 🇫🇮 tiny ruby conf is headed back to Helsinki this October 1. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP) Stars: 579; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [alphanodes/additionals](https://github.com/alphanodes/additionals) - Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins. Stars: 160; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you Stars: 304; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
