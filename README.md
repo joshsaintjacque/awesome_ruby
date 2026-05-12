@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 204
+- Resources: 205
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 51, guide: 7, project: 27, gem: 13, release: 97, talk: 1, news: 8
-- Provenance: 204 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 51, guide: 7, project: 27, gem: 13, release: 98, talk: 1, news: 8
+- Provenance: 205 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -32,7 +32,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [AI & LLMs](#ai-llms) (12)
 - [Frontend, Assets & UI](#frontend-assets-ui) (17)
 - [Data, APIs & Integration](#data-apis-integration) (6)
-- [Learning, Articles & Talks](#learning-articles-talks) (2)
+- [Learning, Articles & Talks](#learning-articles-talks) (3)
 - [Community, News & Events](#community-news-events) (5)
 
 ## Ruby Language & Internals
@@ -272,6 +272,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [WP2TXT](https://github.com/yohasebe/wp2txt) - is a Ruby-powered toolkit for extracting text content from Wikipedia dump files – it'll even download the dumps for you, and can extract specific articles without downloading the full dumps. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [How to Publish Gems with Trusted Publishing](https://guides.rubygems.org/trusted-publishing) - 📄 How to Publish Gems with Trusted Publishing – Once set up, it's as easy as pushing a tag to GitHub. RubyGems Guides. _(gem; Ruby Weekly #795; seen 2026-04-09)_
+- [Rumale 2.1](https://github.com/yoshoku/rumale) - – Scikit-Learn-style machine learning in Ruby. _(release; Ruby Weekly #787; seen 2026-02-12)_
 
 ## Community, News & Events
 
