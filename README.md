@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 456
+- Resources: 457
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 185, gem: 23, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 156 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 186, gem: 23, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 157 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (108)
 - [Testing & Quality](#testing-quality) (21)
-- [Databases, Search & Storage](#databases-search-storage) (20)
+- [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (13)
 - [DevOps & Deployment](#devops-deployment) (13)
@@ -376,6 +376,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [berkmancenter/lumendatabase](https://github.com/berkmancenter/lumendatabase) - The Lumen Database collects and analyzes legal complaints and requests for removal of online materials. Stars: 161; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [GSA/search-gov](https://github.com/GSA/search-gov) - Source code for the GSA's Search.gov search engine Stars: 68; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [how they implemented a new, fast client-side docs search system](https://code.visualstudio.com/blogs/2026/01/15/docfind) - 🔎 The VS Code team has explained how they implemented a new, fast client-side docs search system for the VS Code site using WebAssembly. You can use their docfind engine yourself too, and there's a live demo showing off its speed on an index of 50,000 articles. _(project; Ruby Weekly #784; seen 2026-01-22)_
+- [noraj/pass-station](https://github.com/noraj/pass-station) - CLI & library to search for default credentials among thousands of Products / Vendors Stars: 55; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) - Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools Stars: 170; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [sul-dlss/SearchWorks](https://github.com/sul-dlss/SearchWorks) - SearchWorks (Stanford University Libraries) Stars: 53; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [taginfo/taginfo](https://github.com/taginfo/taginfo) - Brings together information about OpenStreetMap tags and makes it searchable and browsable Stars: 135; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
