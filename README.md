@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 382
+- Resources: 383
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 116, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 82 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 117, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 83 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
-- [Rails & Hotwire](#rails-hotwire) (90)
+- [Rails & Hotwire](#rails-hotwire) (91)
 - [Web Frameworks & APIs](#web-frameworks-apis) (32)
 - [Gems & Libraries](#gems-libraries) (72)
 - [Testing & Quality](#testing-quality) (18)
@@ -138,6 +138,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [kiskolabs/carpentry](https://github.com/kiskolabs/carpentry) - Handcrafted prototypes for Rails Stars: 57; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [Mudis: Fast, Thread-Safe, In-Memory, Sharded LRU Cache](https://github.com/kiebor81/mudis) - A pure Ruby in-memory cache (with a snapshot-based ‘soft persistence’ option). Useful for apps where a full Redis install is overkill for doing a little caching. Can integrate with Rails and Hanami. _(project; Ruby Weekly #785; seen 2026-01-29)_
+- [rails/bootsnap](https://github.com/rails/bootsnap) - Boot large Ruby/Rails apps faster Stars: 2725; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails Stars: 58425; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance. Stars: 5195; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
