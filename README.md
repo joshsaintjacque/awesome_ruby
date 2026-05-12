@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 176
+- Resources: 177
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 42, guide: 5, project: 26, gem: 12, release: 84, talk: 1, news: 6
-- Provenance: 176 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 42, guide: 5, project: 26, gem: 13, release: 84, talk: 1, news: 6
+- Provenance: 177 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (33)
-- [Rails & Hotwire](#rails-hotwire) (47)
+- [Rails & Hotwire](#rails-hotwire) (48)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (9)
@@ -103,6 +103,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Building a Faster Bundler](https://railsatscale.com/2026-03-09-faster-bundler) - The Shopify team has been working on improvements to Bundler and RubyGems with the goal of reducing bundle install times. Increasing the HTTP connection pool size, parallel git clones, and optimizing hotspots in the codebase provide big wins, but they seek our help with another area in particular: precompiled gems. _(gem; Ruby Weekly #791; seen 2026-03-12)_
 - [How I Audit a Legacy Rails Codebase](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase) - A methodical walkthrough of how to approach an inherited codebase, including checking versions, scanning the Gemfile for red flags, reviewing the schema, and identifying perf hotspots. _(gem; Ruby Weekly #791; seen 2026-03-12)_
+- [Rails Multi-Tenancy](https://dev.37signals.com/rails-multi-tenancy) - 📺 Rails Multi-Tenancy – Mike Dalessio shares the benefits of multi-tenant databases and how the Active Record Tenanted gem came to be. 37Signals. _(gem; Ruby Weekly #788; seen 2026-02-19)_
 - [Active Admin 3.5](https://activeadmin.info) - – Admin engine for Rails apps. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Formtastic 6.0](https://github.com/formtastic/formtastic/releases/tag/v6.0.0) - – Build accessible, easily-stylable forms in Rails apps. _(release; Ruby Weekly #789; seen 2026-02-26)_
