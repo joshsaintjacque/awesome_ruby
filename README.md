@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 110
+- Resources: 111
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 26, guide: 4, project: 11, gem: 10, release: 53, talk: 1, news: 5
-- Provenance: 110 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 26, guide: 4, project: 11, gem: 10, release: 54, talk: 1, news: 5
+- Provenance: 111 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (13)
 - [Testing & Quality](#testing-quality) (3)
 - [Databases, Search & Storage](#databases-search-storage) (2)
-- [Performance & Observability](#performance-observability) (6)
+- [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (4)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (4)
@@ -135,6 +135,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [From 40 Minutes to 4 with Tests Parallelization](https://www.fastruby.io/blog/speed-up-tests-from-40-to-4-minutes.html) - 📄 From 40 Minutes to 4 with Tests Parallelization Ariel Juodziukynas (Ombulabs). _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubydex: A Static Analysis Toolkit for Ruby](https://github.com/Shopify/rubydex) - A new high-performance Ruby indexer with an MCP server designed for LLM tooling. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [Falcon 0.55](https://github.com/socketry/falcon) - – High-performance Ruby web server. Used in production by Shopify, this is the first release in some time. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [pure-jpeg 0.3](https://github.com/peterc/pure_jpeg) - 🖼️ pure-jpeg 0.3 – My pure Ruby JPEG encoder/decoder library is now much faster (0.2s on a 1024x1024 image) thanks to some third-party contributors 🎉. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [SmarterCSV v1.16](https://github.com/tilo/smarter_csv/blob/main/CHANGELOG.md) - – Performance-focused CSV reading/writing library. The recent CHANGELOG entries are very thorough. _(release; Ruby Weekly #792; seen 2026-03-19)_
 
