@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 386
+- Resources: 387
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 120, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 86 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 121, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 87 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (91)
 - [Web Frameworks & APIs](#web-frameworks-apis) (32)
-- [Gems & Libraries](#gems-libraries) (75)
+- [Gems & Libraries](#gems-libraries) (76)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (12)
@@ -251,6 +251,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) Stars: 47973; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries Stars: 22013; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) Stars: 15282; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [IBM/aspera-cli](https://github.com/IBM/aspera-cli) - IBM Aspera CLI Stars: 95; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones Stars: 1623; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [itamae-kitchen/mitamae](https://github.com/itamae-kitchen/mitamae) - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef Stars: 389; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [jgraichen/redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups. Stars: 452; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
