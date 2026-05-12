@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 238
+- Resources: 239
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 65, guide: 12, project: 29, gem: 14, release: 107, talk: 2, news: 9
-- Provenance: 238 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 65, guide: 12, project: 29, gem: 14, release: 107, talk: 2, news: 10
+- Provenance: 239 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (40)
-- [Rails & Hotwire](#rails-hotwire) (66)
+- [Rails & Hotwire](#rails-hotwire) (67)
 - [Web Frameworks & APIs](#web-frameworks-apis) (16)
 - [Gems & Libraries](#gems-libraries) (24)
 - [Testing & Quality](#testing-quality) (14)
@@ -144,6 +144,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Spree 5.3](https://spreecommerce.org/announcing-spree-commerce-5-3-with-price-lists-customer-groups-new-admin-tools) - – Popular Rails-based ecommerce platform. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [The Ultimate Turbo Modal for Rails (UTMR) 3.0](https://github.com/cmer/ultimate_turbo_modal) - – Tailwind or vanilla CSS modal dialog implementation for modern Rails apps. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Teaching Claude Code to Upgrade Rails](https://www.youtube.com/watch?v=_BmHYkiDRYo) - 📺 Teaching Claude Code to Upgrade Rails – A lightning talk from Artificial Ruby, a New York-based Ruby group. Ernesto Tagwerker. _(talk; Ruby Weekly #795; seen 2026-04-09)_
+- [Optimistic UI in Rails with Optimism and Inertia](https://evilmartians.com/chronicles/optimistic-ui-in-rails-with-optimism-and-inertia) - Your users want expect snappy UIs and implementing a so-called ‘optimistic’ UI can help provide that experience, even while things are still working in the background. This post shows off using Inertia to make implementing an optimistic UI in a Rails app trivial in a mock Kanban board app called Izzy (inspired by Fizzy, we suspect!). _(news; Ruby Weekly #785; seen 2026-01-29)_
 - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit) - The ZJIT team has added Perfetto tracing support to visualize and query slow events in Ruby's next-gen JIT. Deep technical content from the people building Ruby's performance future. _(news; Ruby Weekly #794; seen 2026-04-02)_
 - [What I've Learned From Shipping 25+ Mobile Apps](https://newsletter.masilotti.com/p/what-ive-learned-from-shipping-25) - 📄 What I've Learned From Shipping 25+ Mobile Apps – Hotwire Native has a lot of potential for Rails devs who need to go mobile. Joe Masilotti. _(news; Ruby Weekly #788; seen 2026-02-19)_
 
