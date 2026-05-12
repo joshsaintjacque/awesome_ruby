@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 50
+- Resources: 51
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, guide: 1, project: 4, gem: 7, release: 24, talk: 1, news: 2
-- Provenance: 50 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, guide: 1, project: 4, gem: 7, release: 25, talk: 1, news: 2
+- Provenance: 51 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (10)
+- [Ruby Language & Internals](#ruby-language-internals) (11)
 - [Rails & Hotwire](#rails-hotwire) (13)
 - [Web Frameworks & APIs](#web-frameworks-apis) (5)
 - [Gems & Libraries](#gems-libraries) (7)
@@ -45,6 +45,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Parallel 4.0: Parallel Processing Made Simple](https://github.com/grosser/parallel) - Run blocks of code in parallel processes, threads, or ractors using map, each, any?, and all?. v4.0 requires Ruby 3.3+ and adds ractor support for Ruby 4.x. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [rbspy v0.45](https://github.com/rbspy/rbspy) - 🔎 rbspy v0.45 – Sampling profiler for Ruby processes that can be used without restarting them. Now supports Ruby 3.2.11 and 3.3.11. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [Ruby 3.3.11 has been released](https://www.ruby-lang.org/en/news/2026/03/26/ruby-3-3-11-released) - with a fix for the recent zlib vulnerability. This is the final normal maintenance release of Ruby 3.3, so it's time to plan an upgrade to 3.4 or 4.0. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [ruby.wasm 2.9.0](https://github.com/ruby/ruby.wasm) - – An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet. _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Rails & Hotwire
