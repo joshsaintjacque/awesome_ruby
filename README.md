@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 480
+- Resources: 481
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 206, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 180 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 207, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 181 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
-- [Gems & Libraries](#gems-libraries) (113)
+- [Gems & Libraries](#gems-libraries) (114)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
@@ -258,6 +258,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests) - :christmas_tree: Giving back to open source for the holidays Stars: 1705; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK Stars: 134; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK Stars: 179; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [alphagov/whitehall](https://github.com/alphagov/whitehall) - Publishes government content on GOV.UK Stars: 1000; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [alphanodes/additionals](https://github.com/alphanodes/additionals) - Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins. Stars: 160; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [approvals/ApprovalTests.Ruby](https://github.com/approvals/ApprovalTests.Ruby) - Approval Tests for Ruby Stars: 231; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
