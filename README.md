@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 180
+- Resources: 181
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 84, talk: 1, news: 7
-- Provenance: 180 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 85, talk: 1, news: 7
+- Provenance: 181 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (3)
 - [Performance & Observability](#performance-observability) (8)
 - [Security & Authentication](#security-authentication) (6)
-- [DevOps & Deployment](#devops-deployment) (2)
+- [DevOps & Deployment](#devops-deployment) (3)
 - [AI & LLMs](#ai-llms) (10)
 - [Frontend, Assets & UI](#frontend-assets-ui) (16)
 - [Data, APIs & Integration](#data-apis-integration) (6)
@@ -202,6 +202,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Secretlint](https://github.com/secretlint/secretlint) - 🔒 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Gemstash 2.8](https://github.com/rubygems/gemstash) - – Run your own local gem server and caching proxy for RubyGems.org. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [MCP Ruby SDK 0.7](https://github.com/modelcontextprotocol/ruby-sdk/releases/tag/v0.7.0) - – Ruby SDK for implementing MCP servers and clients. _(release; Ruby Weekly #788; seen 2026-02-19)_
 
 ## AI & LLMs
 
