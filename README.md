@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 272
+- Resources: 273
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 76, guide: 13, project: 34, gem: 16, release: 120, talk: 2, news: 11
-- Provenance: 272 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 76, guide: 13, project: 34, gem: 16, release: 121, talk: 2, news: 11
+- Provenance: 273 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (43)
+- [Ruby Language & Internals](#ruby-language-internals) (44)
 - [Rails & Hotwire](#rails-hotwire) (77)
 - [Web Frameworks & APIs](#web-frameworks-apis) (20)
 - [Gems & Libraries](#gems-libraries) (29)
@@ -80,6 +80,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ruby-prof 2.0: The Tracing Profiler for CRuby](https://ruby-prof.github.io) - Now celebrating its 21st birthday(!), ruby-prof remains a great way to figure out what’s slowing your app down, particularly if you want to see exact call counts and precise timings that tracing profilers offer (as opposed to sampling profilers - see a comparison here). v2.0 adds Ruby 4.0 support, flame graph visualizations, improved docs, and more. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [ruby.wasm 2.9.0](https://github.com/ruby/ruby.wasm) - – An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [TestProf 1.6](https://github.com/test-prof/test-prof/releases/tag/v1.6.0) - 📈 TestProf 1.6 – Collection of tools to analyze and optimize Ruby test suite performance. Adds a TPS (tests-per-second) profiler and a GC profiling mode. _(release; Ruby Weekly #792; seen 2026-03-19)_
+- [The 6th edition of Programming Ruby is now in beta.](https://pragprog.com/titles/ruby6/programming-ruby-4-6th-edition) - 📕 The 6th edition of Programming Ruby is now in beta. The Pickaxe book, as it is commonly known, is set for final publication in March and covers Ruby 4.0 in depth. _(release; Ruby Weekly #784; seen 2026-01-22)_
 
 ## Rails & Hotwire
 
