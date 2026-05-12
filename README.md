@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 210
+- Resources: 211
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 54, guide: 8, project: 27, gem: 13, release: 99, talk: 1, news: 8
-- Provenance: 210 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 55, guide: 8, project: 27, gem: 13, release: 99, talk: 1, news: 8
+- Provenance: 211 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (36)
+- [Ruby Language & Internals](#ruby-language-internals) (37)
 - [Rails & Hotwire](#rails-hotwire) (55)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (22)
@@ -37,6 +37,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Ruby Language & Internals
 
+- [asdf](https://asdf-vm.com) - In personal news, I finally switched from asdf to mise for managing my Ruby (and Python, et al.) versions and wow, what a breath of fresh air. 'Just Use Mise', indeed. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking](https://bugs.ruby-lang.org/issues/21930) - 📄 Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking Ruby Issue Tracker. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [How We Fixed YAML Comment Preservation in Ruby](https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it) - Discourse sponsored Kevin Newton to stabilize Psych::Pure, a pure-Ruby alternative to the Psych YAML parser, in order to solve some of Discourse’s long standing requirements, such as needing to maintain comments in YAML files. This work is ultimately good news for all of us. _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [JSLinux](https://bellard.org/jslinux) - is Fabrice Bellard's JavaScript-powered Linux VM that runs in the browser. It's not new, but it now supports x86_64. I was happy to see Ruby is ready to go, too, if you drop into this full Alpine Linux environment, though irb is broken, alas. _(article; Ruby Weekly #791; seen 2026-03-12)_
