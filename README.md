@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 329
+- Resources: 330
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 64, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 29 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 65, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 30 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (6)
-- [AI & LLMs](#ai-llms) (17)
+- [AI & LLMs](#ai-llms) (18)
 - [Frontend, Assets & UI](#frontend-assets-ui) (22)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
@@ -338,6 +338,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [How to Enable Ruby LSP in Claude Code](https://allaboutcoding.ghinda.com/configure-claude-code-with-ruby-lsp) - 🤖 How to Enable Ruby LSP in Claude Code – Claude Code has official support for Ruby LSP meaning it can navigate Ruby code more efficiently. Lucian Ghinda. _(guide; Ruby Weekly #791; seen 2026-03-12)_
 - [raullenchai/homebrew-rapid-mlx](https://github.com/raullenchai/homebrew-rapid-mlx) - Homebrew tap for Rapid-MLX — AI inference for Apple Silicon Stars: 123; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [starting a petition to say 'no' to contributions built with AI assistance.](https://github.com/indutny/no-slop-in-nodejs-core) - 🤖 The Node.js community is wrestling with the role that LLM-produced code should play in its implementation, with the former creator of the io.js fork starting a petition to say 'no' to contributions built with AI assistance. _(project; Ruby Weekly #792; seen 2026-03-19)_
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎 Stars: 797; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [EasyTalk: Define, Generate and Validate JSON Schemas in Ruby](https://github.com/sergiobayona/easy_talk) - Reduce complexity with a single Ruby DSL for generating JSON Schema, validations, and error messages. This week’s v3.3.1 release also integrates with RubyLLM for building structured output schemas. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Gemini 3.1 Pro LLM](https://deepmind.google/models/model-cards/gemini-3-1-pro) - 🤖 Google has just dropped its latest Gemini 3.1 Pro LLM, coupled with SOTA coding benchmarks. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [MCP Ruby SDK v0.6](https://github.com/modelcontextprotocol/ruby-sdk) - 🤖 MCP Ruby SDK v0.6 – Official Ruby SDK for the Model Context Protocol. _(release; Ruby Weekly #784; seen 2026-01-22)_
