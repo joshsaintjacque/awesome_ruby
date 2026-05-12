@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 254
+- Resources: 255
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 70, guide: 12, project: 32, gem: 16, release: 111, talk: 2, news: 11
-- Provenance: 254 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 70, guide: 12, project: 32, gem: 16, release: 112, talk: 2, news: 11
+- Provenance: 255 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
-- [Rails & Hotwire](#rails-hotwire) (72)
+- [Rails & Hotwire](#rails-hotwire) (73)
 - [Web Frameworks & APIs](#web-frameworks-apis) (17)
 - [Gems & Libraries](#gems-libraries) (26)
 - [Testing & Quality](#testing-quality) (15)
@@ -130,6 +130,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails Multi-Tenancy](https://dev.37signals.com/rails-multi-tenancy) - 📺 Rails Multi-Tenancy – Mike Dalessio shares the benefits of multi-tenant databases and how the Active Record Tenanted gem came to be. 37Signals. _(gem; Ruby Weekly #788; seen 2026-02-19)_
 - [Active Admin 3.5](https://activeadmin.info) - – Admin engine for Rails apps. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [ActiveType v2.8.0](https://github.com/makandra/active_type) - – Rails presenter and form model library providing ActiveRecord-like features for non-database-backed or extended models. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [Ancestry 5.0: Organize an Active Record Model into a Tree Structure](https://github.com/stefankroes/ancestry) - Uses the materialized path pattern to efficiently model tree structures or hierarchies in a model, giving methods like parent, children, siblings, and many more to your objects. Now supports Rails 8. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Brakeman 8.0: The Vulnerability Scanner for Rails Apps](https://brakemanscanner.org) - A long-standing command-line tool that analyzes the source code of your Rails apps and highlights potential security vulnerabilities. More useful than ever both in the current security climate, and especially if you’re letting AI write any code. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Build a Resumable CSV Import with ActiveJob::Continuable](https://codewithrails.com/blog/rails-resumable-csv-import-continuable) - Rails 8.1 introduced a feature that allows for jobs to be interrupted and resumed, making it easy to break up laborious tasks into multiple steps. _(release; Ruby Weekly #787; seen 2026-02-12)_
