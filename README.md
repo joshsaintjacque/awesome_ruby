@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 105
+- Resources: 106
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 25, guide: 3, project: 11, gem: 10, release: 52, talk: 1, news: 3
-- Provenance: 105 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 25, guide: 3, project: 11, gem: 10, release: 52, talk: 1, news: 4
+- Provenance: 106 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (4)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (3)
-- [Frontend, Assets & UI](#frontend-assets-ui) (7)
+- [Frontend, Assets & UI](#frontend-assets-ui) (8)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (3)
@@ -163,6 +163,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems 4.0.9](https://blog.rubygems.org/2026/03/25/4.0.9-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [download precompiled Ruby binaries](https://mise.jdx.dev/lang/ruby.html) - We recently mentioned that the mise version manager can now download precompiled Ruby binaries. Jeff Dickey, the creator of Mise has ▶️ gone on the Remote Ruby podcast to talk about the feature and Mise in general. _(news; Ruby Weekly #791; seen 2026-03-12)_
 
 ## Data, APIs & Integration
 
