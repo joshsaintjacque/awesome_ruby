@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 256
+- Resources: 257
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 70, guide: 12, project: 32, gem: 16, release: 113, talk: 2, news: 11
-- Provenance: 256 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 70, guide: 12, project: 33, gem: 16, release: 113, talk: 2, news: 11
+- Provenance: 257 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
 - [Rails & Hotwire](#rails-hotwire) (73)
-- [Web Frameworks & APIs](#web-frameworks-apis) (17)
+- [Web Frameworks & APIs](#web-frameworks-apis) (18)
 - [Gems & Libraries](#gems-libraries) (26)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (9)
@@ -161,6 +161,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Implementing Infinite Scroll with htmx in a Hanami App](https://alchemists.io/articles/htmx_infinite_scroll) - 📄 Implementing Infinite Scroll with htmx in a Hanami App Brooke Kuhlmann. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Ruby dev meeting is taking place today](https://bugs.ruby-lang.org/issues/21839) - An official Ruby dev meeting is taking place today where lead core team members, like Matz, answer questions about features and bugs. A few fun things in the agenda, like autoload_relative and a new API to scan directories efficiently. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [The Hanami project thanks Mike Perham and Sidekiq](https://hanamirb.org/blog/2026/03/12/thank-you-sidekiq-2026) - for their continued support in 2026. _(article; Ruby Weekly #791; seen 2026-03-12)_
+- [AcceptLanguage](https://github.com/cyril/accept_language.rb) - – Accept-Language HTTP header parsing library. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [Semian: Get Resiliency When Calling External Services](https://github.com/Shopify/semian) - Intercepts resource access from several different libraries (e.g. mysql2, redis, Net::HTTP) and ‘fails fast’ when said external resources are slow or unresponsive. _(project; Ruby Weekly #786; seen 2026-02-05)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [excon 1.4](https://github.com/excon/excon) - – Fast HTTP 1.1 client library. _(release; Ruby Weekly #790; seen 2026-03-05)_
