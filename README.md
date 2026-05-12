@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 73
+- Resources: 74
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 14, guide: 2, project: 7, gem: 8, release: 38, talk: 1, news: 3
-- Provenance: 73 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 14, guide: 2, project: 8, gem: 8, release: 38, talk: 1, news: 3
+- Provenance: 74 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (13)
-- [Rails & Hotwire](#rails-hotwire) (20)
+- [Rails & Hotwire](#rails-hotwire) (21)
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
 - [Gems & Libraries](#gems-libraries) (8)
 - [Testing & Quality](#testing-quality) (3)
@@ -64,6 +64,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Deploying a Rails 8 App with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal) - 📄 Deploying a Rails 8 App with Kamal on Hetzner – An exhaustive step-by-step walkthrough of the process. Mooktakim Ahmed. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [How ZJIT Removes Redundant Object Loads and Stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores) - ZJIT, optionally available in Ruby 4.0, is a new, alternative JIT compiler with the potential for being faster and easier to work on than YJIT over time. This article shows off some of how that potential is now bearing performance-shaped fruit. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Inertia.js 3.0](https://inertiajs.com) - – Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3. _(release; Ruby Weekly #794; seen 2026-04-02)_
