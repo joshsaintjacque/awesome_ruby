@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 429
+- Resources: 430
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 160, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 129 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 161, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 130 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
 - [Gems & Libraries](#gems-libraries) (97)
 - [Testing & Quality](#testing-quality) (18)
-- [Databases, Search & Storage](#databases-search-storage) (19)
+- [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (10)
 - [DevOps & Deployment](#devops-deployment) (11)
@@ -359,6 +359,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [how they implemented a new, fast client-side docs search system](https://code.visualstudio.com/blogs/2026/01/15/docfind) - 🔎 The VS Code team has explained how they implemented a new, fast client-side docs search system for the VS Code site using WebAssembly. You can use their docfind engine yourself too, and there's a live demo showing off its speed on an index of 50,000 articles. _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) - Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools Stars: 170; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [sul-dlss/SearchWorks](https://github.com/sul-dlss/SearchWorks) - SearchWorks (Stanford University Libraries) Stars: 53; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [taginfo/taginfo](https://github.com/taginfo/taginfo) - Brings together information about OpenStreetMap tags and makes it searchable and browsable Stars: 135; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. Stars: 12043; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) - A database of vulnerable Ruby Gems Stars: 1060; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
