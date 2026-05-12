@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 469
+- Resources: 470
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 197, gem: 24, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 169 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 197, gem: 25, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 170 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (13)
-- [DevOps & Deployment](#devops-deployment) (15)
+- [DevOps & Deployment](#devops-deployment) (16)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (16)
@@ -443,6 +443,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Secretlint](https://github.com/secretlint/secretlint) - 🔒 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [simpledotorg/simple-server](https://github.com/simpledotorg/simple-server) - The web app behind Simple.org Stars: 78; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers Stars: 2862; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) - The Ruby community's gem hosting service. Stars: 2426; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [Gemstash 2.8](https://github.com/rubygems/gemstash) - – Run your own local gem server and caching proxy for RubyGems.org. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [MCP Ruby SDK 0.7](https://github.com/modelcontextprotocol/ruby-sdk/releases/tag/v0.7.0) - – Ruby SDK for implementing MCP servers and clients. _(release; Ruby Weekly #788; seen 2026-02-19)_
 
