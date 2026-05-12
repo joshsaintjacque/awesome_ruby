@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 313
+- Resources: 314
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 49, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 13 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 50, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 14 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (25)
 - [Gems & Libraries](#gems-libraries) (44)
 - [Testing & Quality](#testing-quality) (17)
-- [Databases, Search & Storage](#databases-search-storage) (14)
+- [Databases, Search & Storage](#databases-search-storage) (15)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (5)
@@ -280,6 +280,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [this article on alternatives to 'soft deleting'](https://atlas9.dev/blog/soft-delete.html) - 🐘 If you're a Postgres user, you might enjoy this article on alternatives to 'soft deleting' where rather than use a boolean or datetime flag, you could use a trigger to move a row to an archive table or capture deleted rows from the WAL for archival. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [GSA/search-gov](https://github.com/GSA/search-gov) - Source code for the GSA's Search.gov search engine Stars: 68; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [how they implemented a new, fast client-side docs search system](https://code.visualstudio.com/blogs/2026/01/15/docfind) - 🔎 The VS Code team has explained how they implemented a new, fast client-side docs search system for the VS Code site using WebAssembly. You can use their docfind engine yourself too, and there's a live demo showing off its speed on an index of 50,000 articles. _(project; Ruby Weekly #784; seen 2026-01-22)_
+- [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) - Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools Stars: 170; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Elasticsearch 9.3](https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0) - – Official Ruby client for Elasticsearch. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Redis::Objects 2.0: Map Redis Types Directly to Ruby Objects](https://github.com/nateware/redis-objects) - An idiomatically Ruby interface to the Redis data structure server that avoids the usual mess of ORMs (since ORMs don’t naturally fit with the lighter Redis approach). _(release; Ruby Weekly #784; seen 2026-01-22)_
