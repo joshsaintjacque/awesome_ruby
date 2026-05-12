@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 367
+- Resources: 368
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 101, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 67 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 102, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 68 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (86)
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
-- [Gems & Libraries](#gems-libraries) (68)
+- [Gems & Libraries](#gems-libraries) (69)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (11)
@@ -228,6 +228,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP) Stars: 579; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you Stars: 304; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [brave-intl/publishers](https://github.com/brave-intl/publishers) - Publisher interface for Brave Payments Stars: 65; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧 Stars: 134; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 Stars: 29173; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
