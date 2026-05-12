@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 95
+- Resources: 96
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 22, guide: 3, project: 9, gem: 8, release: 49, talk: 1, news: 3
-- Provenance: 95 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 23, guide: 3, project: 9, gem: 8, release: 49, talk: 1, news: 3
+- Provenance: 96 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
 - [Gems & Libraries](#gems-libraries) (12)
 - [Testing & Quality](#testing-quality) (3)
-- [Databases, Search & Storage](#databases-search-storage) (1)
+- [Databases, Search & Storage](#databases-search-storage) (2)
 - [Performance & Observability](#performance-observability) (4)
 - [Security & Authentication](#security-authentication) (3)
 - [DevOps & Deployment](#devops-deployment) (2)
@@ -119,6 +119,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Databases, Search & Storage
 
+- [how a single query blew up and consumed 2 terabytes of memory](https://mydbanotebook.org/posts/work_mem-its-a-trap) - One from the Postgres world: how a single query blew up and consumed 2 terabytes of memory before being taken down by Linux's OOM killer. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 
 ## Performance & Observability
