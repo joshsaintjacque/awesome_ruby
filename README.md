@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 483
+- Resources: 484
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 209, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 183 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 210, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 184 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (13)
-- [DevOps & Deployment](#devops-deployment) (17)
+- [DevOps & Deployment](#devops-deployment) (18)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (17)
@@ -450,6 +450,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [heroku/heroku-buildpack-clojure](https://github.com/heroku/heroku-buildpack-clojure) - Heroku's classic buildpack for Clojure applications. Stars: 117; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [heroku/heroku-buildpack-scala](https://github.com/heroku/heroku-buildpack-scala) - Heroku's classic buildpack for Scala applications. Stars: 190; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Turn almost any website into an RSS feed and serve it instantly. Automatic scraping. Start fast with Docker. Stars: 156; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [jabbrwcky/prawn-qrcode](https://github.com/jabbrwcky/prawn-qrcode) - An extension to prawn for easy QR Code generation/rendering Stars: 53; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles) - Collection of Dockerfiles Stars: 77; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [openstreetmap/chef](https://github.com/openstreetmap/chef) - Chef configuration management repo for configuring & maintaining the OpenStreetMap servers. Stars: 112; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Secretlint](https://github.com/secretlint/secretlint) - 🔒 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language. _(project; Ruby Weekly #793; seen 2026-03-26)_
