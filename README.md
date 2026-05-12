@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 304
+- Resources: 305
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 40, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 4 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 41, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 5 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (82)
 - [Web Frameworks & APIs](#web-frameworks-apis) (24)
-- [Gems & Libraries](#gems-libraries) (39)
+- [Gems & Libraries](#gems-libraries) (40)
 - [Testing & Quality](#testing-quality) (17)
 - [Databases, Search & Storage](#databases-search-storage) (13)
 - [Performance & Observability](#performance-observability) (10)
@@ -216,6 +216,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [tiny ruby conf](https://helsinkiruby.fi/tinyruby) - 🇫🇮 tiny ruby conf is headed back to Helsinki this October 1. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries Stars: 22013; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant Stars: 795; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
