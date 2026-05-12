@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 158
+- Resources: 159
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 74, talk: 1, news: 5
-- Provenance: 158 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 75, talk: 1, news: 5
+- Provenance: 159 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
-- [AI & LLMs](#ai-llms) (7)
+- [AI & LLMs](#ai-llms) (8)
 - [Frontend, Assets & UI](#frontend-assets-ui) (13)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
@@ -196,6 +196,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [How to Enable Ruby LSP in Claude Code](https://allaboutcoding.ghinda.com/configure-claude-code-with-ruby-lsp) - 🤖 How to Enable Ruby LSP in Claude Code – Claude Code has official support for Ruby LSP meaning it can navigate Ruby code more efficiently. Lucian Ghinda. _(guide; Ruby Weekly #791; seen 2026-03-12)_
 - [starting a petition to say 'no' to contributions built with AI assistance.](https://github.com/indutny/no-slop-in-nodejs-core) - 🤖 The Node.js community is wrestling with the role that LLM-produced code should play in its implementation, with the former creator of the io.js fork starting a petition to say 'no' to contributions built with AI assistance. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [RubyLLM 1.13.0](https://github.com/crmne/ruby_llm/releases/tag/1.13.0) - 🤖 RubyLLM 1.13.0 – A big stabilization release for the popular LLM integration library. Tool calling is now even more robust and controllable. _(release; Ruby Weekly #790; seen 2026-03-05)_
+- [RubyLLM::MCP v1.0.0](https://github.com/patvice/ruby_llm-mcp/releases/tag/v1.0.0) - 🤖 RubyLLM::MCP v1.0.0 – Ruby client for the Model Context Protocol with seamless integration with RubyLLM. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyMine 2026.1](https://blog.jetbrains.com/ruby/2026/03/rubymine-2026-1-ai-chat-upgrades-new-code-insight-stable-remote-development-and-more) - JetBrains released RubyMine 2026.1, the latest version of its Ruby IDE. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby AI News newsletter](https://rubyai.beehiiv.com/p/ruby-ai-news-march-27th-2026) - 🤖 The Ruby AI News newsletter is celebrating its first birthday and is absolutely packed with stuff. _(news; Ruby Weekly #794; seen 2026-04-02)_
 
