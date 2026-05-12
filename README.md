@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 450
+- Resources: 451
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 181, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 150 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 182, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 151 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (97)
-- [Web Frameworks & APIs](#web-frameworks-apis) (35)
+- [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (105)
 - [Testing & Quality](#testing-quality) (20)
 - [Databases, Search & Storage](#databases-search-storage) (20)
@@ -200,6 +200,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) - An open API service providing repository metadata for many open source software ecosystems. Stars: 61; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [fleetyards/fleetyards](https://github.com/fleetyards/fleetyards) - A Ship Database and Web API based on the official Star Citizen Ship Matrix. Stars: 60; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [getlago/lago-api](https://github.com/getlago/lago-api) - Open Source Metering and Usage Based Billing Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) - (Mirror) An HTTP client library for ruby Stars: 237; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [open-telemetry/opentelemetry-ruby-contrib](https://github.com/open-telemetry/opentelemetry-ruby-contrib) - Contrib Packages for the OpenTelemetry Ruby API and SDK implementation. Stars: 121; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [projectblacklight/blacklight](https://github.com/projectblacklight/blacklight) - Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index. Stars: 785; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL Stars: 5433; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
