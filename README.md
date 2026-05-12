@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 353
+- Resources: 354
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 88, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 53 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 88, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 54 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (7)
 - [AI & LLMs](#ai-llms) (19)
-- [Frontend, Assets & UI](#frontend-assets-ui) (23)
+- [Frontend, Assets & UI](#frontend-assets-ui) (24)
 - [Data, APIs & Integration](#data-apis-integration) (8)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
 - [Community, News & Events](#community-news-events) (14)
@@ -384,6 +384,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. Stars: 909; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [A Simple Tailwind CSS Setup for Jekyll](https://andycroll.com/ruby/simple-tailwind-css-4-setup-for-jekyll) - 📄 A Simple Tailwind CSS Setup for Jekyll – How to set up Tailwind with Jekyll using the jekyll-tailwind gem. Andy Croll. _(gem; Ruby Weekly #785; seen 2026-01-29)_
 - [Organizations" feature on RubyGems.org](https://blog.rubygems.org/2026/02/16/organizations-beta.html) - The "Organizations" feature on RubyGems.org is now in private beta for gem publishers with large teams who manage gem publishing workflows. _(gem; Ruby Weekly #788; seen 2026-02-19)_
+- [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components Stars: 996; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Premailer 1.28](https://github.com/premailer/premailer) - ✉️ Premailer 1.28 – Inlines CSS into HTML emails and creates plain text alternatives. It's long been a part of our toolchain for Ruby Weekly. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
