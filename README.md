@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 19
+- Resources: 20
 - Categories: 10
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 4, project: 1, gem: 6, release: 7, talk: 1
-- Provenance: 19 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 4, project: 1, gem: 6, release: 8, talk: 1
+- Provenance: 20 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (5)
 - [Rails & Hotwire](#rails-hotwire) (4)
-- [Web Frameworks & APIs](#web-frameworks-apis) (1)
+- [Web Frameworks & APIs](#web-frameworks-apis) (2)
 - [Gems & Libraries](#gems-libraries) (3)
 - [Testing & Quality](#testing-quality) (1)
 - [Security & Authentication](#security-authentication) (1)
@@ -48,6 +48,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Web Frameworks & APIs
 
+- [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Gems & Libraries
