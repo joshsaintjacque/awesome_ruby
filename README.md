@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 63
+- Resources: 64
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 13, guide: 2, project: 5, gem: 7, release: 32, talk: 1, news: 3
-- Provenance: 63 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 5, gem: 7, release: 33, talk: 1, news: 3
+- Provenance: 64 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -31,7 +31,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (1)
 - [AI & LLMs](#ai-llms) (2)
 - [Frontend, Assets & UI](#frontend-assets-ui) (4)
-- [Data, APIs & Integration](#data-apis-integration) (3)
+- [Data, APIs & Integration](#data-apis-integration) (4)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (3)
 
@@ -128,6 +128,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Transfer Manager Directory Support for AWS SDK for Ruby](https://aws.amazon.com/blogs/developer/transfer-manager-directory-support-for-aws-sdk-for-ruby) - 📄 Transfer Manager Directory Support for AWS SDK for Ruby – The AWS SDK for Ruby Transfer Manager now supports directory uploads and downloads. Juli Tera (AWS). _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Bunny 3.0/3.1](https://github.com/ruby-amqp/bunny) - – RabbitMQ client library. Here's what changed in v3.0. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [Stripe Ruby Library 19.0](https://github.com/stripe/stripe-ruby/releases/tag/v19.0.0) - 💳 Stripe Ruby Library 19.0 – Stripe's official library. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Wombat 3.3](https://github.com/felipecsl/wombat) - – Ruby DSL for scraping pages and parsing structured data. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Learning, Articles & Talks
