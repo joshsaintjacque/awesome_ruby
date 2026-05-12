@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 30
-- Categories: 10
+- Resources: 31
+- Categories: 11
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 7, project: 1, gem: 7, release: 13, talk: 1, news: 1
-- Provenance: 30 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 7, project: 1, gem: 7, release: 13, talk: 1, news: 2
+- Provenance: 31 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,6 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (5)
 - [Testing & Quality](#testing-quality) (1)
 - [Security & Authentication](#security-authentication) (1)
+- [AI & LLMs](#ai-llms) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (3)
 - [Data, APIs & Integration](#data-apis-integration) (1)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
@@ -71,6 +72,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Security & Authentication
 
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
+
+## AI & LLMs
+
+- [Ruby AI News newsletter](https://rubyai.beehiiv.com/p/ruby-ai-news-march-27th-2026) - 🤖 The Ruby AI News newsletter is celebrating its first birthday and is absolutely packed with stuff. _(news; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Frontend, Assets & UI
 
