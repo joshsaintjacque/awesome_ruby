@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 320
+- Resources: 321
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 56, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 20 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 57, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 21 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (83)
 - [Web Frameworks & APIs](#web-frameworks-apis) (25)
-- [Gems & Libraries](#gems-libraries) (47)
+- [Gems & Libraries](#gems-libraries) (48)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (15)
 - [Performance & Observability](#performance-observability) (10)
@@ -224,6 +224,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) Stars: 15282; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform Stars: 1398; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [OpenC3/cosmos](https://github.com/OpenC3/cosmos) - OpenC3 COSMOS Stars: 219; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. Stars: 15046; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project Stars: 2059; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
