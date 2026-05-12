@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 12
+- Resources: 13
 - Categories: 7
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 2, project: 1, gem: 5, release: 4
-- Provenance: 12 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 2, project: 1, gem: 5, release: 4, talk: 1
+- Provenance: 13 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (4)
-- [Rails & Hotwire](#rails-hotwire) (2)
+- [Rails & Hotwire](#rails-hotwire) (3)
 - [Web Frameworks & APIs](#web-frameworks-apis) (1)
 - [Gems & Libraries](#gems-libraries) (2)
 - [Security & Authentication](#security-authentication) (1)
@@ -39,6 +39,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
+- [Teaching Claude Code to Upgrade Rails](https://www.youtube.com/watch?v=_BmHYkiDRYo) - 📺 Teaching Claude Code to Upgrade Rails – A lightning talk from Artificial Ruby, a New York-based Ruby group. Ernesto Tagwerker. _(talk; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Web Frameworks & APIs
 
