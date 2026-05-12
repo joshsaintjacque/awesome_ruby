@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 134
+- Resources: 135
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 34, guide: 4, project: 16, gem: 11, release: 63, talk: 1, news: 5
-- Provenance: 134 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 35, guide: 4, project: 16, gem: 11, release: 63, talk: 1, news: 5
+- Provenance: 135 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (26)
 - [Rails & Hotwire](#rails-hotwire) (39)
-- [Web Frameworks & APIs](#web-frameworks-apis) (10)
+- [Web Frameworks & APIs](#web-frameworks-apis) (11)
 - [Gems & Libraries](#gems-libraries) (16)
 - [Testing & Quality](#testing-quality) (3)
 - [Databases, Search & Storage](#databases-search-storage) (2)
@@ -108,6 +108,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Web Frameworks & APIs
 
+- [Implementing Infinite Scroll with htmx in a Hanami App](https://alchemists.io/articles/htmx_infinite_scroll) - 📄 Implementing Infinite Scroll with htmx in a Hanami App Brooke Kuhlmann. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [The Hanami project thanks Mike Perham and Sidekiq](https://hanamirb.org/blog/2026/03/12/thank-you-sidekiq-2026) - for their continued support in 2026. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
