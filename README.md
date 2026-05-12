@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 319
+- Resources: 320
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 55, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 19 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 56, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 20 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (83)
 - [Web Frameworks & APIs](#web-frameworks-apis) (25)
 - [Gems & Libraries](#gems-libraries) (47)
-- [Testing & Quality](#testing-quality) (17)
+- [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (15)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
@@ -263,6 +263,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [RuboCop's role in an AI/agentic development environment.](https://github.com/rubocop/rubocop/discussions/14910) - A discussion has begun about RuboCop's role in an AI/agentic development environment. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [SchnellMCP: A Ruby-Native MCP Server Experience](https://rubyelders.com/writings/2026-02-schnellmcp.html) - Annotate Ruby methods with a @mcp.tool YARD tag and they become MCP server tools callable by an LLM agent. This write-up digs into all the details. Inspired by Python's FastMCP. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [Thanos](https://github.com/redneckbeard/thanos) - Four years ago, we first mentioned Thanos, an experimental Ruby to Go transpiler. Its author has recently wielded AI to 'finish the job'. I took it for a spin and it's very cool, but type inference demands and a lack of metaprogramming make many potential use cases a no-Go...? 😅. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com Stars: 9570; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [bundler-audit: Vulnerability Detection for Dependencies](https://github.com/rubysec/bundler-audit) - A tool that goes through your Gemfile.lock and looks for vulnerable gems (using the Ruby Advisory Database), insecure gem sources, and provides advisory information. It even works offline and can output JSON for CI integration. _(gem; Ruby Weekly #785; seen 2026-01-29)_
 - [HAML-Lint v0.70.0](https://github.com/sds/haml-lint) - – Keep your HAML files clean and readable. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
