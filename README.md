@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 41
+- Resources: 42
 - Categories: 12
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, project: 2, gem: 7, release: 18, talk: 1, news: 2
-- Provenance: 41 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, project: 2, gem: 7, release: 19, talk: 1, news: 2
+- Provenance: 42 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (1)
 - [AI & LLMs](#ai-llms) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (4)
-- [Data, APIs & Integration](#data-apis-integration) (1)
+- [Data, APIs & Integration](#data-apis-integration) (2)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (2)
 
@@ -99,6 +99,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Data, APIs & Integration
 
+- [Bunny 3.0/3.1](https://github.com/ruby-amqp/bunny) - – RabbitMQ client library. Here's what changed in v3.0. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Wombat 3.3](https://github.com/felipecsl/wombat) - – Ruby DSL for scraping pages and parsing structured data. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Learning, Articles & Talks
