@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 478
+- Resources: 479
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 205, gem: 25, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 178 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 205, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 179 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
-- [Gems & Libraries](#gems-libraries) (112)
+- [Gems & Libraries](#gems-libraries) (113)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
@@ -334,6 +334,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Should RubyGems/Bundler Have a 'Cooldown' Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) - RubyGems’ maintainer reflects on the idea, quickly gathering steam with other package managers (e.g.), of having a waiting period before newly released packages are installed. Hiroshi says yes, but as an opt-in feature, as it's no silver bullet. _(gem; Ruby Weekly #792; seen 2026-03-19)_
+- [theforeman/foreman_fog_proxmox](https://github.com/theforeman/foreman_fog_proxmox) - Foreman plugin to add Proxmox compute resource based on fog-proxmox gem Stars: 115; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [A Quick Demo of Ruby-LibGD v0.2.4](https://rubystacknews.com/2026/02/06/a-quick-demo-of-ruby-libgd-v0-2-4) - 🎨 A Quick Demo of Ruby-LibGD v0.2.4 — ruby-libgd is a new dynamic image generation library that binds to libgd. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [AArch64 3.0](https://github.com/tenderlove/aarch64) - – Tenderlove's pure Ruby ARM64 assembler. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Byebug v13.0](https://github.com/deivid-rodriguez/byebug) - – Long-standing feature-rich debugger for Ruby. _(release; Ruby Weekly #784; seen 2026-01-22)_
