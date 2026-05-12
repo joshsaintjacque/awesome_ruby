@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 363
+- Resources: 364
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 97, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 63 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 98, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 64 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (85)
-- [Web Frameworks & APIs](#web-frameworks-apis) (30)
+- [Web Frameworks & APIs](#web-frameworks-apis) (31)
 - [Gems & Libraries](#gems-libraries) (66)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
@@ -188,6 +188,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [projectblacklight/blacklight](https://github.com/projectblacklight/blacklight) - Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index. Stars: 785; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL Stars: 5433; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Semian: Get Resiliency When Calling External Services](https://github.com/Shopify/semian) - Intercepts resource access from several different libraries (e.g. mysql2, redis, Net::HTTP) and ‘fails fast’ when said external resources are slow or unresponsive. _(project; Ruby Weekly #786; seen 2026-02-05)_
+- [spree/spree](https://github.com/spree/spree) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce. Stars: 15416; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [zooniverse/panoptes](https://github.com/zooniverse/panoptes) - Zooniverse API to support user defined volunteer research projects Stars: 111; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [open-telemetry/opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) - OpenTelemetry Ruby API & SDK, and related gems Stars: 571; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
