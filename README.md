@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 301
+- Resources: 302
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 38, gem: 16, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 1 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 38, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 2 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (82)
-- [Web Frameworks & APIs](#web-frameworks-apis) (23)
+- [Web Frameworks & APIs](#web-frameworks-apis) (24)
 - [Gems & Libraries](#gems-libraries) (38)
 - [Testing & Quality](#testing-quality) (17)
 - [Databases, Search & Storage](#databases-search-storage) (13)
@@ -181,6 +181,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [AcceptLanguage](https://github.com/cyril/accept_language.rb) - – Accept-Language HTTP header parsing library. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [Semian: Get Resiliency When Calling External Services](https://github.com/Shopify/semian) - Intercepts resource access from several different libraries (e.g. mysql2, redis, Net::HTTP) and ‘fails fast’ when said external resources are slow or unresponsive. _(project; Ruby Weekly #786; seen 2026-02-05)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [open-telemetry/opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) - OpenTelemetry Ruby API & SDK, and related gems Stars: 571; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [excon 1.4](https://github.com/excon/excon) - – Fast HTTP 1.1 client library. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Grape 3.1](https://github.com/ruby-grape/grape) - – Opinionated framework for building REST-like APIs. _(release; Ruby Weekly #785; seen 2026-01-29)_
