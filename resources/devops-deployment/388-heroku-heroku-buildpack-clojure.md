@@ -1,9 +1,9 @@
 ---
-title: heroku/heroku-buildpack-clojure
-url: https://github.com/heroku/heroku-buildpack-clojure
-category: DevOps & Deployment
+title: thoughtbot/factory_bot
+url: https://github.com/thoughtbot/factory_bot
+category: Testing & Quality
 type: project
 source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Heroku''s classic buildpack for Clojure applications. Stars: 117; pushed 2026-05-12.'
+updated_at: '2026-05-05'
+summary: 'Library for setting up Ruby objects as test data. Stars: 8167; updated 2026-05-05.'
 ---

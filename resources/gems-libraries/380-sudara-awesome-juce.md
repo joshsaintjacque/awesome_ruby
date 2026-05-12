@@ -1,9 +1,9 @@
 ---
-title: sudara/awesome-juce
-url: https://github.com/sudara/awesome-juce
-category: Gems & Libraries
+title: standardrb/standard
+url: https://github.com/standardrb/standard
+category: Testing & Quality
 type: project
 source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'A curated list of JUCE modules, templates, plugins, oh my! Stars: 1256; pushed 2026-05-12.'
+updated_at: '2026-05-11'
+summary: 'Ruby linter and formatter with a bikeshed-proof default style. Stars: 2895; updated 2026-05-11.'
 ---

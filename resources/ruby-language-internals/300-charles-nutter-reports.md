@@ -1,5 +1,5 @@
 ---
-title: Charles Nutter reports
+title: JRuby 10.1 Nears Ruby 4.0 Compatibility
 url: https://bsky.app/profile/headius.bsky.social/post/3mcdp7cufzy2r
 category: Ruby Language & Internals
 type: release

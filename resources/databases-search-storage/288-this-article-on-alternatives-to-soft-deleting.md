@@ -1,5 +1,5 @@
 ---
-title: this article on alternatives to 'soft deleting'
+title: Alternatives to Soft Deletes in Postgres
 url: https://atlas9.dev/blog/soft-delete.html
 category: Databases, Search & Storage
 type: article

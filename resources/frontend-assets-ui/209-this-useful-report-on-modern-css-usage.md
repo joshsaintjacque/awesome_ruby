@@ -1,5 +1,5 @@
 ---
-title: this useful report on modern CSS usage.
+title: Modern CSS Usage Report 2026
 url: https://www.projectwallace.com/the-css-selection/2026
 category: Frontend, Assets & UI
 type: article

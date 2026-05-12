@@ -1,5 +1,5 @@
 ---
-title: handle a lack of mandatory semicolons.
+title: How Languages Handle Optional Semicolons
 url: https://terts.dev/blog/no-semicolons-needed
 category: Gems & Libraries
 type: article

@@ -1,9 +1,9 @@
 ---
-title: mistydemeo/tigerbrew
-url: https://github.com/mistydemeo/tigerbrew
-category: Ruby Language & Internals
+title: dry-rb/dry-validation
+url: https://github.com/dry-rb/dry-validation
+category: Testing & Quality
 type: project
 source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Experimental fork of homebrew for PPC Macs on Tiger Stars: 639; pushed 2026-05-12.'
+updated_at: '2026-05-10'
+summary: 'Ruby validation library with type-safe schemas and explicit rules. Stars: 1408; updated 2026-05-10.'
 ---

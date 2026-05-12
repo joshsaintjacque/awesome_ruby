@@ -1,5 +1,5 @@
 ---
-title: DHH posted the rails stats output
+title: Basecamp Rails Test Suite Runs in 45 Seconds
 url: https://x.com/dhh/status/2016449600257720742
 category: Rails & Hotwire
 type: article

@@ -1,9 +1,9 @@
 ---
-title: TarteelAI/quranic-universal-library
-url: https://github.com/TarteelAI/quranic-universal-library
-category: Gems & Libraries
+title: sidekiq/sidekiq
+url: https://github.com/sidekiq/sidekiq
+category: DevOps & Deployment
 type: project
 source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'A comprehensive collection of Quran resources Stars: 849; pushed 2026-05-12.'
+updated_at: '2026-05-11'
+summary: 'Simple, efficient background processing for Ruby applications. Stars: 13522; updated 2026-05-11.'
 ---

@@ -1,5 +1,5 @@
 ---
-title: starting a petition to say 'no' to contributions built with AI assistance.
+title: Node.js Debate Over AI-Assisted Contributions
 url: https://github.com/indutny/no-slop-in-nodejs-core
 category: AI & LLMs
 type: project

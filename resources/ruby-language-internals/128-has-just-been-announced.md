@@ -1,5 +1,6 @@
 ---
-title: has just been announced
+title: Zlib::GzipReader Buffer Overflow Advisory
+category: Security & Authentication
 url: https://www.ruby-lang.org/en/news/2026/03/05/buffer-overflow-zlib-cve-2026-27820
 category: Ruby Language & Internals
 type: release

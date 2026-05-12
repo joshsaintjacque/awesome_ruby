@@ -1,5 +1,5 @@
 ---
-title: land a to_markdown method
+title: Action Text Adds Markdown Export
 url: https://github.com/rails/rails/pull/56858
 category: Rails & Hotwire
 type: project

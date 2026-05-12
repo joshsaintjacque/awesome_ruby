@@ -1,9 +1,9 @@
 ---
-title: felixonmars/dnsmasq-china-list
-url: https://github.com/felixonmars/dnsmasq-china-list
-category: DevOps & Deployment
+title: lostisland/faraday
+url: https://github.com/lostisland/faraday
+category: Web Frameworks & APIs
 type: project
 source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes. Stars: 6048; pushed 2026-05-12.'
+updated_at: '2026-05-11'
+summary: 'Flexible Ruby HTTP client library with support for multiple backends. Stars: 5931; updated 2026-05-11.'
 ---

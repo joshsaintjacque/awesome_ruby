@@ -1,5 +1,6 @@
 ---
-title: use it as a GitHub Actions runner for their CI/CD, getting some big wins.
+title: Self-Hosted GitHub Actions on a Spare Mac Mini
+category: DevOps & Deployment
 url: https://theguardian.engineering/blog/faster-cheaper-messier-lessons-from-switch-to-self-hosted-github-actions
 category: Testing & Quality
 type: article

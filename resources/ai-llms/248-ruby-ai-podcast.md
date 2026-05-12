@@ -1,5 +1,5 @@
 ---
-title: Ruby AI podcast?
+title: The Ruby AI Podcast Episode with Evan Phoenix
 url: https://www.therubyaipodcast.com/2388930
 category: AI & LLMs
 type: news

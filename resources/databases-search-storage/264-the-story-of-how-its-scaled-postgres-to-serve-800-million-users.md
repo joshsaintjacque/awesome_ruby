@@ -1,5 +1,5 @@
 ---
-title: the story of how it's scaled Postgres to serve 800+ million users.
+title: Scaling Postgres to 800 Million Users
 url: https://openai.com/index/scaling-postgresql
 category: Databases, Search & Storage
 type: article

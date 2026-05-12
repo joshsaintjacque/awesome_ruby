@@ -1,5 +1,6 @@
 ---
-title: super-technical look behind the scenes
+title: A ZJIT Design Note on Multiple Entry Points
+category: Ruby Language & Internals
 url: https://bernsteinbear.com/blog/multiple-entry
 category: Gems & Libraries
 type: article
