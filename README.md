@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 137
+- Resources: 138
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 64, talk: 1, news: 5
-- Provenance: 137 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 65, talk: 1, news: 5
+- Provenance: 138 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (40)
 - [Web Frameworks & APIs](#web-frameworks-apis) (11)
 - [Gems & Libraries](#gems-libraries) (16)
-- [Testing & Quality](#testing-quality) (3)
+- [Testing & Quality](#testing-quality) (4)
 - [Databases, Search & Storage](#databases-search-storage) (2)
 - [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (5)
@@ -145,6 +145,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [A Testing Anti-Pattern: Distracting Setup Data](https://www.saturnci.com/testing-anti-pattern-distracting-setup-data.html) - 📄 A Testing Anti-Pattern: Distracting Setup Data Jason Swett. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Migrating 9,000 Tests from RSpec to Minitest with AI Agents](https://augmentedcode.dev/multi-agent-pipeline-minitest-migration) - 📄 Migrating 9,000 Tests from RSpec to Minitest with AI Agents Viktor Schmidt. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Thanos](https://github.com/redneckbeard/thanos) - Four years ago, we first mentioned Thanos, an experimental Ruby to Go transpiler. Its author has recently wielded AI to 'finish the job'. I took it for a spin and it's very cool, but type inference demands and a lack of metaprogramming make many potential use cases a no-Go...? 😅. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
 
 ## Databases, Search & Storage
 
