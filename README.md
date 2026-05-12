@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 28
+- Resources: 29
 - Categories: 10
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 7, project: 1, gem: 7, release: 11, talk: 1, news: 1
-- Provenance: 28 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 7, project: 1, gem: 7, release: 12, talk: 1, news: 1
+- Provenance: 29 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (5)
 - [Rails & Hotwire](#rails-hotwire) (8)
 - [Web Frameworks & APIs](#web-frameworks-apis) (2)
-- [Gems & Libraries](#gems-libraries) (4)
+- [Gems & Libraries](#gems-libraries) (5)
 - [Testing & Quality](#testing-quality) (1)
 - [Security & Authentication](#security-authentication) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (3)
@@ -61,6 +61,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Grape 3.2](https://github.com/ruby-grape/grape/blob/master/CHANGELOG.md) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [re2 2.25: Ruby Bindings to Google's RE2 Regex Library](https://github.com/mudge/re2) - A safer alternative to backtracking regular expression engines. v2.25 adds a variety of new features including RE2.extract which does a match-and-reformat in one step (so you provide a source text, regex, and the desired output format including backreferences). _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Testing & Quality
 
