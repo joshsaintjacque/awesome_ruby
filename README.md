@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 260
+- Resources: 261
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 70, guide: 12, project: 33, gem: 16, release: 116, talk: 2, news: 11
-- Provenance: 260 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 70, guide: 12, project: 33, gem: 16, release: 117, talk: 2, news: 11
+- Provenance: 261 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
-- [Rails & Hotwire](#rails-hotwire) (73)
+- [Rails & Hotwire](#rails-hotwire) (74)
 - [Web Frameworks & APIs](#web-frameworks-apis) (19)
 - [Gems & Libraries](#gems-libraries) (27)
 - [Testing & Quality](#testing-quality) (16)
@@ -143,6 +143,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rage 1.22](https://github.com/rage-rb/rage) - – High-performance fiber-based Rails-compatible framework. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Rage: The Modern, Real-Time Ruby Framework](https://rage-rb.dev) - We don’t mention Rage enough! 😅 It’s a high-performance fiber-based framework suited for concurrent workloads involving WebSockets, real-time communication, async jobs, etc. and it’s Rails compatible! This week’s v1.21.0 release makes it easier to adopt with an official set of agent skills to use. GitHub repo. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1](https://rubyonrails.org/2026/3/23/Rails-Versions-7-2-3-1-8-0-4-1-and-8-1-2-1-have-been-released) - Lots of minor Rails releases this week: Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1 to fix a variety of security issues, and 8.0.5 and 8.1.3 as regular bugfix releases. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Rails 8.1.2](https://rubyonrails.org/2026/1/22/rails-version-8-1-2-has-been-released) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [Rails::Diff 0.7](https://github.com/MatheusRich/rails-diff) - – Compare Rails-generated files with those in your repo. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [React on Rails v16.4.0](https://github.com/shakacode/react_on_rails/releases/tag/v16.4.0) - ⚛️ React on Rails v16.4.0 – Integrates React and Webpack with Rails, including server-side rendering of React. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [RouteTranslator 16.0](https://github.com/enriclluelles/route_translator) - 🌐 RouteTranslator 16.0 – Manage the translations of your Rails app's routes. _(release; Ruby Weekly #792; seen 2026-03-19)_
