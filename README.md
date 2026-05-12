@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 184
+- Resources: 185
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 88, talk: 1, news: 7
-- Provenance: 184 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 89, talk: 1, news: 7
+- Provenance: 185 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (50)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
 - [Gems & Libraries](#gems-libraries) (18)
-- [Testing & Quality](#testing-quality) (10)
+- [Testing & Quality](#testing-quality) (11)
 - [Databases, Search & Storage](#databases-search-storage) (3)
 - [Performance & Observability](#performance-observability) (8)
 - [Security & Authentication](#security-authentication) (6)
@@ -174,6 +174,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [HAML-Lint v0.70.0](https://github.com/sds/haml-lint) - – Keep your HAML files clean and readable. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [RuboCop 1.85](https://github.com/rubocop/rubocop/releases/tag/v1.85.0) - – Static code analyzer and formatter. _(release; Ruby Weekly #789; seen 2026-02-26)_
+- [Typelizer 0.8](https://github.com/skryukov/typelizer/releases/tag/v0.8.0) - – TypeScript type generator for Ruby serializers. _(release; Ruby Weekly #788; seen 2026-02-19)_
 
 ## Databases, Search & Storage
 
