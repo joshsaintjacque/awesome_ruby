@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 477
+- Resources: 478
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 204, gem: 25, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 177 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 205, gem: 25, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 178 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
 - [Gems & Libraries](#gems-libraries) (112)
-- [Testing & Quality](#testing-quality) (22)
+- [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (13)
@@ -367,6 +367,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. Stars: 2194; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [RuboCop](https://github.com/rubocop/rubocop) - Bozhidar Batsov, the creator of RuboCop, has created neocaml, an Emacs package for OCaml developers. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [RuboCop's role in an AI/agentic development environment.](https://github.com/rubocop/rubocop/discussions/14910) - A discussion has begun about RuboCop's role in an AI/agentic development environment. _(project; Ruby Weekly #789; seen 2026-02-26)_
+- [ruby/rbs](https://github.com/ruby/rbs) - The type signature language for Ruby Stars: 2148; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [SchnellMCP: A Ruby-Native MCP Server Experience](https://rubyelders.com/writings/2026-02-schnellmcp.html) - Annotate Ruby methods with a @mcp.tool YARD tag and they become MCP server tools callable by an LLM agent. This write-up digs into all the details. Inspired by Python's FastMCP. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [shakacode/control-plane-flow](https://github.com/shakacode/control-plane-flow) - The power of Kubernetes with the ease of Heroku! Simple CI configuration for Heroku-style "review apps," staging deployments, and promoting staging to production, following the "convention over configuration" philosophy. Stars: 52; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Thanos](https://github.com/redneckbeard/thanos) - Four years ago, we first mentioned Thanos, an experimental Ruby to Go transpiler. Its author has recently wielded AI to 'finish the job'. I took it for a spin and it's very cool, but type inference demands and a lack of metaprogramming make many potential use cases a no-Go...? 😅. _(project; Ruby Weekly #793; seen 2026-03-26)_
