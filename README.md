@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 187
+- Resources: 188
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 44, guide: 5, project: 27, gem: 13, release: 90, talk: 1, news: 7
-- Provenance: 187 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 44, guide: 5, project: 27, gem: 13, release: 90, talk: 1, news: 8
+- Provenance: 188 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (33)
 - [Rails & Hotwire](#rails-hotwire) (51)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
-- [Gems & Libraries](#gems-libraries) (18)
+- [Gems & Libraries](#gems-libraries) (19)
 - [Testing & Quality](#testing-quality) (11)
 - [Databases, Search & Storage](#databases-search-storage) (3)
 - [Performance & Observability](#performance-observability) (8)
@@ -162,6 +162,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [re2 2.25: Ruby Bindings to Google's RE2 Regex Library](https://github.com/mudge/re2) - A safer alternative to backtracking regular expression engines. v2.25 adds a variety of new features including RE2.extract which does a match-and-reformat in one step (so you provide a source text, regex, and the desired output format including backreferences). _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby-LSP 0.27 Beta 1](https://github.com/Shopify/ruby-lsp/releases/tag/v0.27.0.beta1) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Stoplight 5.8](https://github.com/bolshakov/stoplight/releases/tag/v5.8.0) - 🚦 Stoplight 5.8 – Ruby implementation of the circuit breaker pattern to gracefully handle failures in external dependencies. _(release; Ruby Weekly #791; seen 2026-03-12)_
+- [Electrobun v1](https://blackboard.sh/blog/electrobun-v1) - is a new Bun-based way to build cross-platform desktop apps on top of the system webview, with app bundle sizes as low as 12MB. Something like this for Ruby would be awesome.. _(news; Ruby Weekly #788; seen 2026-02-19)_
 
 ## Testing & Quality
 
