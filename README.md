@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 18
-- Categories: 9
+- Resources: 19
+- Categories: 10
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 4, project: 1, gem: 6, release: 6, talk: 1
-- Provenance: 18 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 4, project: 1, gem: 6, release: 7, talk: 1
+- Provenance: 19 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -27,6 +27,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Testing & Quality](#testing-quality) (1)
 - [Security & Authentication](#security-authentication) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (1)
+- [Data, APIs & Integration](#data-apis-integration) (1)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (1)
 
@@ -66,6 +67,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Frontend, Assets & UI
 
 - [Ruby Deserves Beautiful Documentation](https://paolino.me/ruby-deserves-beautiful-documentation) - A Jekyll theme that emulates the much-admired docs theme that VitePress offers, minus all the JavaScript. The project's homepage is its own example of the output. _(article; Ruby Weekly #795; seen 2026-04-09)_
+
+## Data, APIs & Integration
+
+- [Wombat 3.3](https://github.com/felipecsl/wombat) - – Ruby DSL for scraping pages and parsing structured data. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Learning, Articles & Talks
 
