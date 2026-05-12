@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 178
+- Resources: 179
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 42, guide: 5, project: 26, gem: 13, release: 84, talk: 1, news: 7
-- Provenance: 178 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 43, guide: 5, project: 26, gem: 13, release: 84, talk: 1, news: 7
+- Provenance: 179 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -27,7 +27,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Testing & Quality](#testing-quality) (9)
 - [Databases, Search & Storage](#databases-search-storage) (3)
 - [Performance & Observability](#performance-observability) (8)
-- [Security & Authentication](#security-authentication) (5)
+- [Security & Authentication](#security-authentication) (6)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (10)
 - [Frontend, Assets & UI](#frontend-assets-ui) (16)
@@ -190,6 +190,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Security & Authentication
 
+- [Four Common Security Risks When Vibe Coding Your App](https://evilmartians.com/chronicles/four-most-common-security-risks-when-vibe-coding-your-app) - 📄 Four Common Security Risks When Vibe Coding Your App Nina Torgunakova (Evil Martians). _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [Enclave: An Mruby Sandbox for Running Arbitrary Ruby Code](https://beautifulruby.com/code/enclave) - If you don’t want to write explicit functions for each LLM-available tool, letting an LLM write and execute its own code is an option, but has security risks, which Enclave addresses: "Enclave gives you eval without the blast radius." GitHub repo. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Devise 5.0.3](https://github.com/heartcombo/devise/blob/v5.0.3/CHANGELOG.md) - lands an important security fix. _(release; Ruby Weekly #792; seen 2026-03-19)_
