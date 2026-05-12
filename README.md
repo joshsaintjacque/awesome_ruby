@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 234
+- Resources: 235
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 62, guide: 12, project: 29, gem: 14, release: 106, talk: 2, news: 9
-- Provenance: 234 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 62, guide: 12, project: 29, gem: 14, release: 107, talk: 2, news: 9
+- Provenance: 235 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (3)
 - [AI & LLMs](#ai-llms) (13)
-- [Frontend, Assets & UI](#frontend-assets-ui) (18)
+- [Frontend, Assets & UI](#frontend-assets-ui) (19)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (3)
 - [Community, News & Events](#community-news-events) (7)
@@ -280,6 +280,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Premailer 1.28](https://github.com/premailer/premailer) - ✉️ Premailer 1.28 – Inlines CSS into HTML emails and creates plain text alternatives. It's long been a part of our toolchain for Ruby Weekly. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems 4.0.9](https://blog.rubygems.org/2026/03/25/4.0.9-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [RubyGems and Bundler 4.0.6](https://blog.rubygems.org/2026/02/05/4.0.6-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [RubyGems and Bundler 4.0.7](https://blog.rubygems.org/2026/02/25/4.0.7-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [Tailwind CSS v4.2](https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.0) - 🎨 Tailwind CSS v4.2 has added four new color palettes to the default theme: mauve, olive, mist, and taupe. Use them to look fresh now, before everyone else catches on. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [wxRuby3 v1.7.0](https://github.com/mcorino/wxRuby3/releases/tag/v1.7.0) - – Cross-platform GUI library for Ruby that uses native widgets via wxWidgets 3.2/3.3. _(release; Ruby Weekly #790; seen 2026-03-05)_
