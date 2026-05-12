@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 276
+- Resources: 277
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 76, guide: 13, project: 35, gem: 16, release: 123, talk: 2, news: 11
-- Provenance: 276 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 77, guide: 13, project: 35, gem: 16, release: 123, talk: 2, news: 11
+- Provenance: 277 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (45)
-- [Rails & Hotwire](#rails-hotwire) (77)
+- [Rails & Hotwire](#rails-hotwire) (78)
 - [Web Frameworks & APIs](#web-frameworks-apis) (20)
 - [Gems & Libraries](#gems-libraries) (31)
 - [Testing & Quality](#testing-quality) (16)
@@ -88,6 +88,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [14 Minutes → 4 Seconds: A Tale of Switching from RSpec to Minitest](https://x.com/ryanrhughes/status/2019258699001294911) - A Rails team traces their test suite migration from RSpec and FactoryBot to Minitest and fixtures, sharing the real numbers, the migration strategy that worked, and the parts where AI tooling fell flat. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [37signals Open Sources Its Writebook Rails App](https://once.com/writebook) - 📕 37signals Open Sources Its Writebook Rails App — Launched in 2024 in ‘source available’ form, 37signals has now opened up its Markdown Web book creator / renderer with the MIT license. GitHub repo. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design](https://blog.jetbrains.com/ruby/2026/02/rubymine-mcp-and-the-rails-toolset) - 📄 Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design Daniel Domjan (JetBrains). _(article; Ruby Weekly #789; seen 2026-02-26)_
+- [Building Smart Retry Strategies in Rails with Error-Aware Delays](https://codewithrails.com/blog/rails-smart-retry-strategies) - 📄 Building Smart Retry Strategies in Rails with Error-Aware Delays Code with Rails. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [Claude Code for Semi-Reluctant Rails Developers](https://robbyonrails.com/claude-code-curious-rails-developers) - 🤖 Claude Code for Semi-Reluctant Rails Developers – Helpful advice from a long-time Rails developer. Robby Russell. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Considering GoodJob, Solid Queue, Sidekiq, and Active Job in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026) - The Ruby ecosystem is lucky to have many options for running background jobs. Here, Ben, the maintainer of GoodJob, shares his genuine thoughts on choosing between the options, built upon his years of Rails experience. He finds merits in each option, depending on the specific scenario. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [DHH posted the rails stats output](https://x.com/dhh/status/2016449600257720742) - Over on X, DHH posted the rails stats output (see above) for 37signals' flagship Basecamp app, which is now entering development for Basecamp 5. He says: "So that's now a 12(!) year-old code base, and we're able to run the entire test suite in just 45 seconds on a local 16-core AMD Linux box.". _(article; Ruby Weekly #785; seen 2026-01-29)_
