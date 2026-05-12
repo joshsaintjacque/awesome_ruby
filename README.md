@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 131
+- Resources: 132
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 31, guide: 4, project: 16, gem: 11, release: 63, talk: 1, news: 5
-- Provenance: 131 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 32, guide: 4, project: 16, gem: 11, release: 63, talk: 1, news: 5
+- Provenance: 132 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (25)
-- [Rails & Hotwire](#rails-hotwire) (37)
+- [Rails & Hotwire](#rails-hotwire) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (10)
 - [Gems & Libraries](#gems-libraries) (16)
 - [Testing & Quality](#testing-quality) (3)
@@ -73,6 +73,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To](https://kaspth.com/posts/i-quit-rails-core-4-years-ago-heres-what-ive-been-up-to) - 📄 I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To – What happens to core members when they leave the core? Kasper Timm Hansen. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Migrating from Devise to Rails' Authentication Generator](https://nithinbekal.com/posts/devise-to-rails-auth) - 📄 Migrating from Devise to Rails' Authentication Generator Nithin Bekal. _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Mistral's Attempt to Put Rails Testing on Autopilot](https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont) - 🤖 Mistral's Attempt to Put Rails Testing on Autopilot — A post from France’s best-known AI shop detailing an autonomous agent they’ve built to work on RSpec suites in Rails apps. The end result is called Mistral Vibe. _(article; Ruby Weekly #791; seen 2026-03-12)_
+- [Optimizations for Rails Apps](https://www.driftingruby.com/episodes/optimizations) - ▶️ Optimizations for Rails Apps – A 19-minute tour of some elementary techniques and tools (e.g. Prosopite). Drifting Ruby. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Rails Upgrade Methodology as Claude Code Skills](https://www.fastruby.io/blog/open-source-claude-code-skill-for-rails-upgrades.html) - 🤖 Rails Upgrade Methodology as Claude Code Skills — I actually used the raw MD files last weekend to upgrade a Rails 6 app to Rails 8 and it went well. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Sam Ruby experiments with running 'Rails' on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - , Erlang's virtual machine (as also used by Elixir). It's not quite Rails as you'd expect though. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Teach Rails Irregular Plurals with Inflections](https://andycroll.com/ruby/teach-rails-irregular-plurals-with-inflections) - 📄 Teach Rails Irregular Plurals with Inflections — So criterion becomes criteria, say. Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
