@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 167
+- Resources: 168
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 23, gem: 11, release: 81, talk: 1, news: 5
-- Provenance: 167 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 23, gem: 11, release: 82, talk: 1, news: 5
+- Provenance: 168 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (8)
-- [Databases, Search & Storage](#databases-search-storage) (2)
+- [Databases, Search & Storage](#databases-search-storage) (3)
 - [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
@@ -168,6 +168,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [how a single query blew up and consumed 2 terabytes of memory](https://mydbanotebook.org/posts/work_mem-its-a-trap) - One from the Postgres world: how a single query blew up and consumed 2 terabytes of memory before being taken down by Linux's OOM killer. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Windows 3.11 experience in your browser.](https://pieter.com) - Play with a full Windows 3.11 experience in your browser. There's a recreation of '90s search engine AltaVista, a version of mIRC that connects to an actual IRC server, and a variety of classic games. _(release; Ruby Weekly #789; seen 2026-02-26)_
 
 ## Performance & Observability
 
