@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 38
+- Resources: 39
 - Categories: 11
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, project: 2, gem: 7, release: 15, talk: 1, news: 2
-- Provenance: 38 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, project: 2, gem: 7, release: 16, talk: 1, news: 2
+- Provenance: 39 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (8)
+- [Ruby Language & Internals](#ruby-language-internals) (9)
 - [Rails & Hotwire](#rails-hotwire) (11)
 - [Web Frameworks & APIs](#web-frameworks-apis) (2)
 - [Gems & Libraries](#gems-libraries) (5)
@@ -42,6 +42,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Parallel 4.0: Parallel Processing Made Simple](https://github.com/grosser/parallel) - Run blocks of code in parallel processes, threads, or ractors using map, each, any?, and all?. v4.0 requires Ruby 3.3+ and adds ractor support for Ruby 4.x. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [rbspy v0.45](https://github.com/rbspy/rbspy) - 🔎 rbspy v0.45 – Sampling profiler for Ruby processes that can be used without restarting them. Now supports Ruby 3.2.11 and 3.3.11. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [ruby.wasm 2.9.0](https://github.com/ruby/ruby.wasm) - – An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet. _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Rails & Hotwire
 
