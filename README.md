@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 251
+- Resources: 252
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 68, guide: 12, project: 32, gem: 16, release: 110, talk: 2, news: 11
-- Provenance: 251 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 69, guide: 12, project: 32, gem: 16, release: 110, talk: 2, news: 11
+- Provenance: 252 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (9)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
-- [DevOps & Deployment](#devops-deployment) (3)
+- [DevOps & Deployment](#devops-deployment) (4)
 - [AI & LLMs](#ai-llms) (14)
 - [Frontend, Assets & UI](#frontend-assets-ui) (20)
 - [Data, APIs & Integration](#data-apis-integration) (7)
@@ -257,6 +257,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## DevOps & Deployment
 
+- [Rendering Seismic Observation Data with Ruby](https://rubystacknews.com/2026/01/27/ruby-rendering-seismic-observation-data) - 📄 Rendering Seismic Observation Data with Ruby Giménez Silva Germán Alberto. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Secretlint](https://github.com/secretlint/secretlint) - 🔒 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Gemstash 2.8](https://github.com/rubygems/gemstash) - – Run your own local gem server and caching proxy for RubyGems.org. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [MCP Ruby SDK 0.7](https://github.com/modelcontextprotocol/ruby-sdk/releases/tag/v0.7.0) - – Ruby SDK for implementing MCP servers and clients. _(release; Ruby Weekly #788; seen 2026-02-19)_
