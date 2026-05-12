@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 245
+- Resources: 246
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 66, guide: 12, project: 31, gem: 15, release: 109, talk: 2, news: 10
-- Provenance: 245 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 66, guide: 12, project: 31, gem: 15, release: 110, talk: 2, news: 10
+- Provenance: 246 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (40)
+- [Ruby Language & Internals](#ruby-language-internals) (41)
 - [Rails & Hotwire](#rails-hotwire) (70)
 - [Web Frameworks & APIs](#web-frameworks-apis) (17)
 - [Gems & Libraries](#gems-libraries) (24)
@@ -71,6 +71,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.3.11 has been released](https://www.ruby-lang.org/en/news/2026/03/26/ruby-3-3-11-released) - with a fix for the recent zlib vulnerability. This is the final normal maintenance release of Ruby 3.3, so it's time to plan an upgrade to 3.4 or 4.0. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby 3.4.9 has been released](https://www.ruby-lang.org/en/news/2026/03/11/ruby-3-4-9-released) - ⭐ Ruby 3.4.9 has been released including a fix for the zlib vulnerability we mentioned last week. _(release; Ruby Weekly #791; seen 2026-03-12)_
+- [Ruby 4.0 is now available in the Microsoft Store](https://rubyinstaller.org/2026/01/27/ruby-4.0-available-in-microsoft-store.html) - 🔧 Ruby 4.0 is now available in the Microsoft Store, thanks to the efforts of the RubyInstaller for Windows project. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [Ruby 4.0.2 Released to Fix a Tricky YJIT Bug](https://www.ruby-lang.org/en/news/2026/03/16/ruby-4-0-2-released) - A routine update with a fix for a YJIT bug that crashed processes. It was noticed when running Puma in cluster mode but affects any app where YJIT is enabled lazily and where local variables had escaped to the heap before YJIT started observing (there’s a proof of concept in YJIT’s test suite). There's also a fix for a GC-related perf regression. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Ruby CSS Parser 2.0](https://github.com/premailer/css_parser) - – Load, parse, and cascade CSS rule sets in Ruby. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [Ruby Evolution: New Ruby Features Added in v2.0 → 4.0](https://rubyreferences.github.io/rubychanges/evolution.html) - First launched a couple of years ago covering up to Ruby 3.1, Victor’s handy resource covering the key changes to the Ruby language over the years now goes up to Ruby 4.0. Helpful as both a reference guide and a subtle reminder of features you really ought to know but likely don’t. _(release; Ruby Weekly #786; seen 2026-02-05)_
