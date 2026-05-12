@@ -1,7 +1,8 @@
 ---
-title: SmarterCSV v1.15
+title: SmarterCSV
 url: https://github.com/tilo/smarter_csv
 category: Data, APIs & Integration
-type: release
-summary: "– A more intelligent Ruby CSV library."
+type: gem
+summary: CSV importer that turns large spreadsheets into manageable Ruby hashes and
+  batches.
 ---

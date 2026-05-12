@@ -1,7 +1,7 @@
 ---
-title: Active Admin 3.5
+title: Active Admin
 url: https://activeadmin.info
 category: Rails & Hotwire
-type: release
-summary: "– Admin engine for Rails apps."
+type: gem
+summary: Rails engine for building admin interfaces.
 ---

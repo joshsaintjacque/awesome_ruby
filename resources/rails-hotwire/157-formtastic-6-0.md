@@ -1,7 +1,7 @@
 ---
-title: Formtastic 6.0
-url: https://github.com/formtastic/formtastic/releases/tag/v6.0.0
+title: Formtastic
+url: https://github.com/formtastic/formtastic
 category: Rails & Hotwire
-type: release
-summary: "– Build accessible, easily-stylable forms in Rails apps."
+type: gem
+summary: Rails form builder for creating admin-friendly forms with concise Ruby declarations.
 ---

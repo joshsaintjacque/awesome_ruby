@@ -1,7 +1,7 @@
 ---
-title: Net::IMAP 0.6.4
-url: https://github.com/ruby/net-imap/releases/tag/v0.6.4
+title: Net::IMAP
+url: https://github.com/ruby/net-imap
 category: Security & Authentication
-type: release
-summary: "✉️ Net::IMAP 0.6.4 – Ruby's IMAP client library gets updates across 0.3, 0.4, 0.5 and 0.6 version lines to fix several vulnerabilities."
+type: gem
+summary: Modern Ruby IMAP library for building email clients and mailbox automations.
 ---

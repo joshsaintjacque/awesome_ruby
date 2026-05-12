@@ -1,7 +1,8 @@
 ---
-title: 'Perron 1.0: A Rails-Based Static Site Generator'
-url: https://railsdesigner.com/perron-1-0
+title: Perron
+url: https://railsdesigner.com/perron
 category: Rails & Hotwire
-type: release
-summary: A static site generator that lets you keep using Rails idioms but over content stored as Markdown, CSV, JSON, or YAML, with live reload via DOM morphing in development. You get feeds out of the box, too.
+type: gem
+summary: Rails UI component collection for building polished interfaces with less
+  custom CSS.
 ---

@@ -1,7 +1,7 @@
 ---
-title: rubyzip 3.3
-url: https://github.com/rubyzip/rubyzip/releases/tag/v3.3.0
+title: rubyzip
+url: https://github.com/rubyzip/rubyzip
 category: Gems & Libraries
-type: release
-summary: "– Read and write ZIP files from Ruby."
+type: gem
+summary: ZIP archive toolkit for reading and writing compressed files from Ruby.
 ---

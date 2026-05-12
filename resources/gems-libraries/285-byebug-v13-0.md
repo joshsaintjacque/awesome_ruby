@@ -1,7 +1,8 @@
 ---
-title: Byebug v13.0
+title: Byebug
 url: https://github.com/deivid-rodriguez/byebug
 category: Gems & Libraries
-type: release
-summary: "– Long-standing feature-rich debugger for Ruby."
+type: gem
+summary: Debugger for stepping through Ruby code, inspecting state, and fixing hard
+  bugs.
 ---

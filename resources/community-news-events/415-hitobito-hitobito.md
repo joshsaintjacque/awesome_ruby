@@ -1,7 +1,8 @@
 ---
-title: SuperDiff v0.19.0
+title: SuperDiff
 url: https://github.com/splitwise/super_diff
 category: Testing & Quality
-type: release
-summary: "– Get a clear view of differences between complex data structures in RSpec."
+type: gem
+summary: Readable diff matcher that makes failed Ruby test expectations much easier
+  to inspect.
 ---

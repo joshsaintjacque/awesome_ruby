@@ -1,7 +1,7 @@
 ---
-title: rbspy v0.46
-url: https://github.com/rbspy/rbspy/releases/tag/v0.46.0
+title: rbspy
+url: https://github.com/rbspy/rbspy
 category: Ruby Language & Internals
-type: release
-summary: "– The Ruby sampling profiler adds Ruby 4.0.3 support."
+type: gem
+summary: Sampling profiler for inspecting running Ruby processes.
 ---

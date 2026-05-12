@@ -1,7 +1,8 @@
 ---
-title: Elasticsearch 9.3
-url: https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0
+title: elasticsearch-ruby
+url: https://github.com/elastic/elasticsearch-ruby
 category: Databases, Search & Storage
-type: release
-summary: "– Official Ruby client for Elasticsearch."
+type: gem
+summary: Official Elasticsearch client for indexing, querying, and managing search
+  from Ruby.
 ---

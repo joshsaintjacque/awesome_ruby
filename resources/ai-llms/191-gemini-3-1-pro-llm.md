@@ -1,7 +1,8 @@
 ---
-title: Gemini 3.1 Pro LLM
-url: https://deepmind.google/models/model-cards/gemini-3-1-pro
+title: Gemini
+url: https://deepmind.google/models/gemini/
 category: AI & LLMs
-type: release
-summary: "\U0001F916 Google has just dropped its latest Gemini 3.1 Pro LLM, coupled with SOTA coding benchmarks."
+type: project
+summary: Google DeepMind model family worth knowing when Ruby apps need multimodal
+  LLM features.
 ---

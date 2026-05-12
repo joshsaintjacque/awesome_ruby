@@ -3,5 +3,6 @@ title: templatus/templatus-inertia
 url: https://github.com/templatus/templatus-inertia
 category: Rails & Hotwire
 type: project
-summary: Opinionated template for starting new web applications with Ruby on Rails and Inertia (using Svelte.js)
+summary: Rails application template for shipping Inertia-backed interfaces with less
+  setup.
 ---

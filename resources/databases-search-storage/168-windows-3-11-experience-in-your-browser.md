@@ -1,7 +1,7 @@
 ---
-title: Windows 3.11 experience in your browser.
+title: Windows 3.11 in the Browser
 url: https://pieter.com
 category: Databases, Search & Storage
-type: release
-summary: Play with a full Windows 3.11 experience in your browser. There's a recreation of '90s search engine AltaVista, a version of mIRC that connects to an actual IRC server, and a variety of classic games.
+type: project
+summary: Browser-based retro computing environment with Ruby-adjacent developer curiosity value.
 ---

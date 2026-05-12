@@ -1,7 +1,7 @@
 ---
-title: Puma 8.0.1
-url: https://github.com/puma/puma/releases/tag/v8.0.1
+title: Puma
+url: https://github.com/puma/puma
 category: Gems & Libraries
-type: release
-summary: A Ruby resource worth tracking for current projects.
+type: gem
+summary: Fast multi-threaded Rack web server for Ruby and Rails apps.
 ---

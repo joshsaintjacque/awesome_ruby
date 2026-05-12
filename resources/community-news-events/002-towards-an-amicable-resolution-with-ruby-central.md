@@ -3,5 +3,6 @@ title: Towards an Amicable Resolution with Ruby Central
 url: https://andre.arko.net/2026/04/02/towards-an-amicable-resolution-with-ruby-central
 category: Community, News & Events
 type: gem
-summary: Last week, Richard Schneeman and Ruby Central published a report into 2025’s contentious ‘RubyGems fracture’ and now former Bundler maintainer André has his say and makes two requests for the incident to be considered amicably settled.
+summary: Ecosystem governance essay for understanding Ruby Central, RubyGems, and
+  community trust.
 ---

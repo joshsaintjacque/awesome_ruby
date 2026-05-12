@@ -1,7 +1,7 @@
 ---
-title: RouteTranslator 16.0
+title: RouteTranslator
 url: https://github.com/enriclluelles/route_translator
 category: Rails & Hotwire
-type: release
-summary: "\U0001F310 RouteTranslator 16.0 – Manage the translations of your Rails app's routes."
+type: gem
+summary: Rails route translation helper for multilingual applications.
 ---

@@ -1,7 +1,7 @@
 ---
-title: RuboCop::GraphQL 1.6
+title: RuboCop::GraphQL
 url: https://github.com/DmitryTsepelev/rubocop-graphql
 category: Web Frameworks & APIs
-type: release
-summary: "– graphql-ruby best practices for Rubocop."
+type: gem
+summary: RuboCop extension for enforcing GraphQL schema and query conventions.
 ---

@@ -1,7 +1,7 @@
 ---
-title: factory_bot 6.6
-url: https://github.com/thoughtbot/factory_bot/releases/tag/v6.6.0
+title: factory_bot
+url: https://github.com/thoughtbot/factory_bot
 category: Testing & Quality
-type: release
-summary: "– The library for setting up Ruby objects as test data."
+type: gem
+summary: Fixture factory toolkit that keeps Ruby test data readable and easy to compose.
 ---

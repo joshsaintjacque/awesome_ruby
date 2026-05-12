@@ -3,5 +3,6 @@ title: Rubycon Italy
 url: https://rubycon.it
 category: Gems & Libraries
 type: article
-summary: "\U0001F1EE\U0001F1F9 Rubycon Italy, taking place this May 8, has just unveiled its schedule, written in Ruby itself!"
+summary: Italian Ruby conference for talks, hallway learning, and regional community
+  building.
 ---

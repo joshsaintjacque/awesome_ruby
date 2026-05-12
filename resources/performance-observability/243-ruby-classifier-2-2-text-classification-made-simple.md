@@ -1,7 +1,8 @@
 ---
-title: 'Ruby Classifier 2.2: Text Classification Made Simple'
+title: Ruby Classifier
 url: https://rubyclassifier.com
 category: Performance & Observability
-type: release
-summary: A very long-standing project gets a major update with new classification options, better performance, and some new guides to get you started with k-Nearest, TF-IDF, LSI, and Bayesian classification.
+type: gem
+summary: Text classification toolkit for adding lightweight machine learning to Ruby
+  apps.
 ---

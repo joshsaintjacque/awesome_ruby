@@ -1,7 +1,8 @@
 ---
-title: Wombat 3.3
+title: Wombat
 url: https://github.com/felipecsl/wombat
 category: Data, APIs & Integration
-type: release
-summary: "– Ruby DSL for scraping pages and parsing structured data."
+type: gem
+summary: Ruby scraper DSL for extracting structured data from web pages with less
+  boilerplate.
 ---

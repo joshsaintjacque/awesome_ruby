@@ -1,7 +1,8 @@
 ---
-title: 'Coverband 6.2: Ruby Code Coverage, But in Production'
+title: Coverband
 url: https://github.com/danmayer/coverband
 category: Ruby Language & Internals
-type: release
-summary: SimpleCov is great for checking code coverage during testing, but Coverband takes the idea into production, checking live code usage with low performance overhead.
+type: gem
+summary: Production code-coverage tracker that reveals which Ruby paths users actually
+  hit.
 ---

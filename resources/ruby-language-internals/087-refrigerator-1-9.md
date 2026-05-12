@@ -1,7 +1,7 @@
 ---
-title: Refrigerator 1.9
+title: Refrigerator
 url: https://github.com/jeremyevans/ruby-refrigerator
 category: Ruby Language & Internals
-type: release
-summary: "\U0001F9CA Refrigerator 1.9 – Freezes Ruby core classes/modules to prevent runtime modifications. Now supports Ruby 4.0."
+type: gem
+summary: Gem for freezing object graphs and catching accidental mutation in Ruby.
 ---

@@ -1,7 +1,7 @@
 ---
-title: Rumale 2.1
+title: Rumale
 url: https://github.com/yoshoku/rumale
 category: Learning, Articles & Talks
-type: release
-summary: "– Scikit-Learn-style machine learning in Ruby."
+type: gem
+summary: Machine-learning toolkit that brings classical ML algorithms to Ruby.
 ---

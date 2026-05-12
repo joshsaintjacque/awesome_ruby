@@ -3,5 +3,5 @@ title: teamcapybara/capybara
 url: https://github.com/teamcapybara/capybara
 category: Testing & Quality
 type: project
-summary: Acceptance test framework for Ruby web applications.
+summary: Acceptance-testing framework for driving browsers like a user in Ruby tests.
 ---

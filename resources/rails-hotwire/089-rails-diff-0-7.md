@@ -1,7 +1,7 @@
 ---
-title: Rails::Diff 0.7
+title: Rails::Diff
 url: https://github.com/MatheusRich/rails-diff
 category: Rails & Hotwire
-type: release
-summary: "– Compare Rails-generated files with those in your repo."
+type: gem
+summary: Rails version comparison tool for seeing framework changes between releases.
 ---

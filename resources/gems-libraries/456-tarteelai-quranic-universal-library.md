@@ -3,5 +3,5 @@ title: sidekiq/sidekiq
 url: https://github.com/sidekiq/sidekiq
 category: DevOps & Deployment
 type: project
-summary: Simple, efficient background processing for Ruby applications.
+summary: Background job processor that remains a benchmark for reliable Ruby queues.
 ---

@@ -1,7 +1,7 @@
 ---
-title: Roadie 5.3
+title: Roadie
 url: https://github.com/Mange/roadie
 category: Frontend, Assets & UI
-type: release
-summary: "✉️ Roadie 5.3 – Inlines CSS and rewrites relative URLs for HTML emails."
+type: gem
+summary: Ruby library for inlining CSS and rewriting URLs in HTML email.
 ---

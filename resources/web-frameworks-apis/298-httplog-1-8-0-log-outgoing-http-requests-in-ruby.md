@@ -1,7 +1,7 @@
 ---
-title: 'httplog 1.8.0: Log Outgoing HTTP Requests in Ruby'
+title: httplog
 url: https://github.com/trusche/httplog
 category: Web Frameworks & APIs
-type: release
-summary: Handy for debugging API integrations or just to get a feel for what’s going on under the hood. Hooks into HTTP, HTTParty, Net::HTTP, OpenURI and others.
+type: gem
+summary: HTTP request logger that makes outbound Ruby API calls visible during debugging.
 ---

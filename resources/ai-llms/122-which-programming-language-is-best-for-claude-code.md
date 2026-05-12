@@ -3,5 +3,6 @@ title: Which Programming Language is Best for Claude Code?
 url: https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a
 category: AI & LLMs
 type: article
-summary: "\U0001F916 Which Programming Language is Best for Claude Code? — Ruby core team member (and IOCCC champion) ‘mame’ got Claude Code to implement a Git clone in thirteen different languages, including Ruby. Which language could Claude produce quickest and most efficiently? Ruby!"
+summary: Language comparison that helps Rubyists think clearly about AI coding-agent
+  ergonomics.
 ---

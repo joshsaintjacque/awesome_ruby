@@ -1,7 +1,7 @@
 ---
-title: Ruby-LSP 0.27 Beta 1
-url: https://github.com/Shopify/ruby-lsp/releases/tag/v0.27.0.beta1
+title: Ruby LSP
+url: https://github.com/Shopify/ruby-lsp
 category: Gems & Libraries
-type: release
-summary: A Ruby resource worth tracking for current projects.
+type: gem
+summary: Language server powering Ruby editor features such as completion, navigation, and diagnostics.
 ---

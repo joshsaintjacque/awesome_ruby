@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Turbo Modal for Rails (UTMR) 3.0
+title: The Ultimate Turbo Modal for Rails
 url: https://github.com/cmer/ultimate_turbo_modal
 category: Rails & Hotwire
-type: release
-summary: "– Tailwind or vanilla CSS modal dialog implementation for modern Rails apps."
+type: gem
+summary: Turbo-powered modal component for Rails apps that want less custom JavaScript.
 ---

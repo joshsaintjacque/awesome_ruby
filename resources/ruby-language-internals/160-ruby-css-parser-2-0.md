@@ -1,7 +1,7 @@
 ---
-title: Ruby CSS Parser 2.0
+title: Ruby CSS Parser
 url: https://github.com/premailer/css_parser
 category: Ruby Language & Internals
-type: release
-summary: "– Load, parse, and cascade CSS rule sets in Ruby."
+type: gem
+summary: CSS parser and manipulation library used by Ruby email and asset tooling.
 ---

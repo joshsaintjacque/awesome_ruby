@@ -1,7 +1,7 @@
 ---
-title: Typelizer 0.8
-url: https://github.com/skryukov/typelizer/releases/tag/v0.8.0
+title: Typelizer
+url: https://github.com/skryukov/typelizer
 category: Testing & Quality
-type: release
-summary: "– TypeScript type generator for Ruby serializers."
+type: gem
+summary: Bridge from Ruby types to TypeScript definitions for safer frontend contracts.
 ---

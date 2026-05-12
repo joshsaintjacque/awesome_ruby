@@ -1,7 +1,7 @@
 ---
-title: HAML-Lint v0.70.0
+title: HAML-Lint
 url: https://github.com/sds/haml-lint
 category: Testing & Quality
-type: release
-summary: "– Keep your HAML files clean and readable."
+type: gem
+summary: Static analyzer for keeping Haml templates consistent and error-free.
 ---

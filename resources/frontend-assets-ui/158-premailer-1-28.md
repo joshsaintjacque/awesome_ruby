@@ -1,7 +1,7 @@
 ---
-title: Premailer 1.28
+title: Premailer
 url: https://github.com/premailer/premailer
 category: Frontend, Assets & UI
-type: release
-summary: Premailer inlines CSS into HTML emails and creates plain text alternatives for reliable email rendering.
+type: gem
+summary: Ruby library for preparing HTML email with inline CSS and text alternatives.
 ---

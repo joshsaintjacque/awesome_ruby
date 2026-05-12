@@ -3,5 +3,5 @@ title: timeframe/ha-addon
 url: https://github.com/timeframe/ha-addon
 category: Gems & Libraries
 type: project
-summary: An e-paper calendar, weather, and smart home family dashboard for Home Assistant
+summary: Home Assistant add-on for time tracking and personal automation workflows.
 ---

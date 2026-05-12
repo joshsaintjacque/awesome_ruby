@@ -3,5 +3,6 @@ title: approvals/ApprovalTests.Ruby
 url: https://github.com/approvals/ApprovalTests.Ruby
 category: Gems & Libraries
 type: project
-summary: Approval testing library for Ruby that compares generated output against reviewed golden files.
+summary: Approval testing toolkit for verifying complex output with readable golden
+  files.
 ---

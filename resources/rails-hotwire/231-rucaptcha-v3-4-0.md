@@ -1,7 +1,7 @@
 ---
-title: RuCaptcha v3.4.0
+title: RuCaptcha
 url: https://github.com/huacnlee/rucaptcha
 category: Rails & Hotwire
-type: release
-summary: "– CAPTCHAs for Rails with self-generated images."
+type: gem
+summary: Captcha engine for Rails applications.
 ---

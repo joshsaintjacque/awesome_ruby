@@ -3,5 +3,6 @@ title: Ruby Users Forum
 url: https://www.rubyforum.org
 category: Gems & Libraries
 type: article
-summary: Want to chat with other Rubyists old-school forum style? The Ruby Users Forum has just launched.
+summary: Ruby discussion forum for questions, troubleshooting, and community knowledge
+  sharing.
 ---

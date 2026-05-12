@@ -1,7 +1,7 @@
 ---
-title: Typhoeus 1.6
-url: https://github.com/typhoeus/typhoeus/blob/master/CHANGELOG.md
+title: Typhoeus
+url: https://github.com/typhoeus/typhoeus
 category: Web Frameworks & APIs
-type: release
-summary: "– libcurl-wrapper optimized for parallel HTTP request use cases."
+type: gem
+summary: libcurl-backed Ruby HTTP client optimized for parallel requests.
 ---

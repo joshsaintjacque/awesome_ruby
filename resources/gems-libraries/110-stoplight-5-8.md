@@ -1,7 +1,8 @@
 ---
-title: Stoplight 5.8
-url: https://github.com/bolshakov/stoplight/releases/tag/v5.8.0
+title: Stoplight
+url: https://github.com/bolshakov/stoplight
 category: Gems & Libraries
-type: release
-summary: "\U0001F6A6 Stoplight 5.8 – Ruby implementation of the circuit breaker pattern to gracefully handle failures in external dependencies."
+type: gem
+summary: Circuit breaker for keeping failing external dependencies from overwhelming
+  Ruby apps.
 ---

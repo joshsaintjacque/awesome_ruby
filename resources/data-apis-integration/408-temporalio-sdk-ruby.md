@@ -3,5 +3,5 @@ title: temporalio/sdk-ruby
 url: https://github.com/temporalio/sdk-ruby
 category: Data, APIs & Integration
 type: project
-summary: Official Ruby SDK for building Temporal workflows, activities, workers, and clients in Ruby applications.
+summary: Temporal SDK for durable Ruby workflows, activities, retries, and orchestration.
 ---

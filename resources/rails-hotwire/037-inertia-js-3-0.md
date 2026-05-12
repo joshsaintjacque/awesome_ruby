@@ -1,7 +1,8 @@
 ---
-title: Inertia.js 3.0
+title: Inertia.js
 url: https://inertiajs.com
 category: Rails & Hotwire
-type: release
-summary: "– Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3."
+type: gem
+summary: Adapter-driven approach for building SPA-like Rails screens without a separate
+  API.
 ---

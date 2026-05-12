@@ -1,7 +1,7 @@
 ---
-title: ruby.wasm 2.9.0
+title: ruby.wasm
 url: https://github.com/ruby/ruby.wasm
 category: Ruby Language & Internals
-type: release
-summary: "– An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet."
+type: gem
+summary: WebAssembly build of Ruby for running Ruby code inside browsers and sandboxes.
 ---

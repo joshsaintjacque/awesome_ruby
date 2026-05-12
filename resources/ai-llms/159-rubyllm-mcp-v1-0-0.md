@@ -1,7 +1,7 @@
 ---
-title: RubyLLM::MCP v1.0.0
-url: https://github.com/patvice/ruby_llm-mcp/releases/tag/v1.0.0
+title: RubyLLM::MCP
+url: https://github.com/patvice/ruby_llm-mcp
 category: AI & LLMs
-type: release
-summary: "\U0001F916 RubyLLM::MCP v1.0.0 – Ruby client for the Model Context Protocol with seamless integration with RubyLLM."
+type: gem
+summary: Ruby client for connecting RubyLLM workflows to Model Context Protocol tools.
 ---

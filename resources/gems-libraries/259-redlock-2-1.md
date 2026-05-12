@@ -1,7 +1,7 @@
 ---
-title: Redlock 2.1
+title: Redlock
 url: https://github.com/leandromoreira/redlock-rb
 category: Gems & Libraries
-type: release
-summary: A Ruby resource worth tracking for current projects.
+type: gem
+summary: Redis-based distributed lock implementation for coordinating Ruby processes.
 ---

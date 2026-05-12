@@ -1,7 +1,8 @@
 ---
-title: telegram-bot-ruby 2.6
+title: telegram-bot-ruby
 url: https://github.com/atipugin/telegram-bot-ruby
 category: Web Frameworks & APIs
-type: release
-summary: "\U0001F4AC telegram-bot-ruby 2.6 – Ruby wrapper for Telegram's Bot API – now supporting Bot API 9.5."
+type: gem
+summary: Telegram Bot API client for building chatbots and notification workflows
+  in Ruby.
 ---

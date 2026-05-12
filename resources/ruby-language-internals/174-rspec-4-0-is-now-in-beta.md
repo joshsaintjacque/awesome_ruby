@@ -1,7 +1,7 @@
 ---
-title: RSpec 4.0 is now in beta.
-url: https://github.com/rspec/rspec/blob/main/rspec-core/Changelog.md
+title: RSpec
+url: https://github.com/rspec/rspec
 category: Ruby Language & Internals
-type: release
-summary: Many deprecations removed, Ruby 3.0+ is now required, and monkey patching has been 'scraped out', so you'll now use RSpec.describe rather than describe, for example.
+type: gem
+summary: Ruby testing framework built around readable examples and expectations.
 ---

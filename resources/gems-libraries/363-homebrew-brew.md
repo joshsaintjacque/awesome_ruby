@@ -1,7 +1,7 @@
 ---
-title: dry-monads 1.10
+title: dry-monads
 url: https://hanakai.org/learn/dry/dry-monads/v1.8
 category: Learning, Articles & Talks
-type: release
-summary: "– Useful, common monads in idiomatic Ruby. v1.10 adds JRuby support."
+type: gem
+summary: Functional programming primitives for Railway-oriented control flow in Ruby.
 ---

@@ -1,7 +1,7 @@
 ---
-title: RBS::Inline 0.13
+title: RBS::Inline
 url: https://github.com/soutaro/rbs-inline
 category: Testing & Quality
-type: release
-summary: "– Embed type declarations into Ruby code as comments."
+type: gem
+summary: Tool for writing RBS type declarations inline with Ruby comments.
 ---

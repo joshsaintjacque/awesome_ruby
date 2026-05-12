@@ -1,7 +1,8 @@
 ---
-title: ruby-duckdb 1.5
+title: ruby-duckdb
 url: https://github.com/suketa/ruby-duckdb
 category: Data, APIs & Integration
-type: release
-summary: "– Ruby client for DuckDB."
+type: gem
+summary: DuckDB bindings for fast local analytics over files and tabular data from
+  Ruby.
 ---

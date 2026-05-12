@@ -1,7 +1,7 @@
 ---
-title: Gemstash 2.8
+title: Gemstash
 url: https://github.com/rubygems/gemstash
 category: DevOps & Deployment
-type: release
-summary: "– Run your own local gem server and caching proxy for RubyGems.org."
+type: gem
+summary: Private gem server for caching RubyGems and hosting internal gems.
 ---

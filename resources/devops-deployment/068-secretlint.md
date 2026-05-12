@@ -3,5 +3,5 @@ title: Secretlint
 url: https://github.com/secretlint/secretlint
 category: DevOps & Deployment
 type: project
-summary: "\U0001F512 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language."
+summary: Secret scanner that helps keep credentials out of repos and documentation.
 ---

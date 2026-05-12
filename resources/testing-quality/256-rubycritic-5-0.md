@@ -1,7 +1,8 @@
 ---
-title: RubyCritic 5.0
+title: RubyCritic
 url: https://github.com/whitesmith/rubycritic
 category: Testing & Quality
-type: release
-summary: "– Get quality reports for Ruby code through static analysis."
+type: gem
+summary: Code-quality reporter that highlights churn, complexity, duplication, and
+  smell hotspots.
 ---

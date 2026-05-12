@@ -1,7 +1,0 @@
----
-title: JRuby 10.1 Nears Ruby 4.0 Compatibility
-url: https://bsky.app/profile/headius.bsky.social/post/3mcdp7cufzy2r
-category: Ruby Language & Internals
-type: release
-summary: JRuby 10.1 is 'just a few dozen tests away' from being Ruby 4.0 compatible – fantastic news!
----

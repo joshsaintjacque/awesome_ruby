@@ -3,5 +3,5 @@ title: Action Text Adds Markdown Export
 url: https://github.com/rails/rails/pull/56858
 category: Rails & Hotwire
 type: project
-summary: Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text.
+summary: Action Text change adding Markdown export for rich-text content.
 ---
