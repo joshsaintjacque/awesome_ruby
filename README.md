@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 142
+- Resources: 143
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 36, guide: 4, project: 17, gem: 11, release: 68, talk: 1, news: 5
-- Provenance: 142 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 36, guide: 4, project: 17, gem: 11, release: 69, talk: 1, news: 5
+- Provenance: 143 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (27)
 - [Rails & Hotwire](#rails-hotwire) (40)
-- [Web Frameworks & APIs](#web-frameworks-apis) (12)
+- [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (4)
 - [Databases, Search & Storage](#databases-search-storage) (2)
@@ -113,6 +113,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Implementing Infinite Scroll with htmx in a Hanami App](https://alchemists.io/articles/htmx_infinite_scroll) - 📄 Implementing Infinite Scroll with htmx in a Hanami App Brooke Kuhlmann. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [The Hanami project thanks Mike Perham and Sidekiq](https://hanamirb.org/blog/2026/03/12/thank-you-sidekiq-2026) - for their continued support in 2026. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [excon 1.4](https://github.com/excon/excon) - – Fast HTTP 1.1 client library. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [HTTP.rb / HTTP 'The Gem!' 6.0: The Flexible HTTP Client](https://github.com/httprb/http/releases/tag/v6.0.0) - I love the http gem and its flexible, easy-to-remember API. v6 is the first major release in years, and adds RFC 7234-compliant HTTP caching, instrumentation hooks, thread-safe request building, a base_uri option, and more. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
