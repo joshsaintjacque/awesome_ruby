@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 214
+- Resources: 215
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 56, guide: 8, project: 27, gem: 14, release: 100, talk: 1, news: 8
-- Provenance: 214 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 57, guide: 8, project: 27, gem: 14, release: 100, talk: 1, news: 8
+- Provenance: 215 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (39)
-- [Rails & Hotwire](#rails-hotwire) (56)
+- [Rails & Hotwire](#rails-hotwire) (57)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (22)
 - [Testing & Quality](#testing-quality) (13)
@@ -79,6 +79,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Rails & Hotwire
 
+- [14 Minutes → 4 Seconds: A Tale of Switching from RSpec to Minitest](https://x.com/ryanrhughes/status/2019258699001294911) - A Rails team traces their test suite migration from RSpec and FactoryBot to Minitest and fixtures, sharing the real numbers, the migration strategy that worked, and the parts where AI tooling fell flat. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [37signals Open Sources Its Writebook Rails App](https://once.com/writebook) - 📕 37signals Open Sources Its Writebook Rails App — Launched in 2024 in ‘source available’ form, 37signals has now opened up its Markdown Web book creator / renderer with the MIT license. GitHub repo. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design](https://blog.jetbrains.com/ruby/2026/02/rubymine-mcp-and-the-rails-toolset) - 📄 Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design Daniel Domjan (JetBrains). _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [Claude Code for Semi-Reluctant Rails Developers](https://robbyonrails.com/claude-code-curious-rails-developers) - 🤖 Claude Code for Semi-Reluctant Rails Developers – Helpful advice from a long-time Rails developer. Robby Russell. _(article; Ruby Weekly #792; seen 2026-03-19)_
