@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 182
+- Resources: 183
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 86, talk: 1, news: 7
-- Provenance: 182 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 87, talk: 1, news: 7
+- Provenance: 183 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (33)
 - [Rails & Hotwire](#rails-hotwire) (50)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
-- [Gems & Libraries](#gems-libraries) (17)
+- [Gems & Libraries](#gems-libraries) (18)
 - [Testing & Quality](#testing-quality) (9)
 - [Databases, Search & Storage](#databases-search-storage) (3)
 - [Performance & Observability](#performance-observability) (8)
@@ -157,6 +157,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [AArch64 3.0](https://github.com/tenderlove/aarch64) - – Tenderlove's pure Ruby ARM64 assembler. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Grape 3.2](https://github.com/ruby-grape/grape/blob/master/CHANGELOG.md) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [How to Install a Gem (It's Harder Than It Sounds)](https://andre.arko.net/2026/03/24/how-to-install-a-gem) - As one of the people behind Bundler 1.0 and a former maintainer of RubyGems.org, and now working on gem.coop and rv, André knows a few things about how gems tick (big understatement). This post is full of ‘aha’ moments as he walks through installing a gem by hand, giving us an idea of what tools like gem and rv do for us. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Pstore 0.2.1](https://github.com/ruby/pstore) - – Ruby's official file persistence mechanism for objects. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [re2 2.25: Ruby Bindings to Google's RE2 Regex Library](https://github.com/mudge/re2) - A safer alternative to backtracking regular expression engines. v2.25 adds a variety of new features including RE2.extract which does a match-and-reformat in one step (so you provide a source text, regex, and the desired output format including backreferences). _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby-LSP 0.27 Beta 1](https://github.com/Shopify/ruby-lsp/releases/tag/v0.27.0.beta1) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Stoplight 5.8](https://github.com/bolshakov/stoplight/releases/tag/v5.8.0) - 🚦 Stoplight 5.8 – Ruby implementation of the circuit breaker pattern to gracefully handle failures in external dependencies. _(release; Ruby Weekly #791; seen 2026-03-12)_
