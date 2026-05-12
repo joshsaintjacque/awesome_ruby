@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 207
+- Resources: 208
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 52, guide: 7, project: 27, gem: 13, release: 99, talk: 1, news: 8
-- Provenance: 207 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 53, guide: 7, project: 27, gem: 13, release: 99, talk: 1, news: 8
+- Provenance: 208 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (22)
 - [Testing & Quality](#testing-quality) (13)
-- [Databases, Search & Storage](#databases-search-storage) (6)
+- [Databases, Search & Storage](#databases-search-storage) (7)
 - [Performance & Observability](#performance-observability) (9)
 - [Security & Authentication](#security-authentication) (6)
 - [DevOps & Deployment](#devops-deployment) (3)
@@ -194,6 +194,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Bluebox Docker](https://www.softwareandbooz.com/introducing-bluebox-docker-a-living-postgresql-sample-database) - If you've ever wanted to noodle around with Postgres's features on a realistic database that isn't yours, Bluebox Docker is a 'living Postgres sample database' in a container that updates itself over time. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [how a single query blew up and consumed 2 terabytes of memory](https://mydbanotebook.org/posts/work_mem-its-a-trap) - One from the Postgres world: how a single query blew up and consumed 2 terabytes of memory before being taken down by Linux's OOM killer. _(article; Ruby Weekly #792; seen 2026-03-19)_
+- [npmx.dev](https://npmx.dev) - Different ecosystem, but if you ever have to search for or deal with npm packages, npmx.dev is a fresh, fast way to browse the official npm registry. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [Planet Ruby](https://planetruby.org) - is a prototype we're noodling on that's like a traditional 'planet' site (e.g. Planet PostgreSQL) bringing together items from a variety of feeds in one place, but filtered down to just the Ruby-related items (mostly successfully). _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [recreate something like SQLite with a swarm of agents?](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html) - 🤖 Can you recreate something like SQLite with a swarm of agents? Kian Kyars had a try, as part of an agent coordination experiment. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
