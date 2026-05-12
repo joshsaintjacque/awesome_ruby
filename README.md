@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 58
+- Resources: 59
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 28, talk: 1, news: 3
-- Provenance: 58 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 29, talk: 1, news: 3
+- Provenance: 59 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (5)
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
-- [Performance & Observability](#performance-observability) (1)
+- [Performance & Observability](#performance-observability) (2)
 - [Security & Authentication](#security-authentication) (2)
 - [DevOps & Deployment](#devops-deployment) (1)
 - [AI & LLMs](#ai-llms) (2)
@@ -93,6 +93,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Performance & Observability
 
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [pure-jpeg 0.3](https://github.com/peterc/pure_jpeg) - 🖼️ pure-jpeg 0.3 – My pure Ruby JPEG encoder/decoder library is now much faster (0.2s on a 1024x1024 image) thanks to some third-party contributors 🎉. _(release; Ruby Weekly #793; seen 2026-03-26)_
 
 ## Security & Authentication
 
