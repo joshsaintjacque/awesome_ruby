@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 430
+- Resources: 431
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 161, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 130 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 162, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 131 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -31,7 +31,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (11)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
-- [Data, APIs & Integration](#data-apis-integration) (14)
+- [Data, APIs & Integration](#data-apis-integration) (15)
 - [Learning, Articles & Talks](#learning-articles-talks) (5)
 - [Community, News & Events](#community-news-events) (17)
 
@@ -472,6 +472,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [NatLabRockies/OpenStudio-HPXML](https://github.com/NatLabRockies/OpenStudio-HPXML) - Modeling of residential buildings in EnergyPlus using OpenStudio/HPXML. Stars: 66; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation Stars: 858; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [temporalio/sdk-ruby](https://github.com/temporalio/sdk-ruby) - Temporal Ruby SDK Stars: 195; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [tryzealot/zealot](https://github.com/tryzealot/zealot) - Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 Stars: 1291; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Bunny 3.0/3.1](https://github.com/ruby-amqp/bunny) - – RabbitMQ client library. Here's what changed in v3.0. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [ruby-duckdb 1.5](https://github.com/suketa/ruby-duckdb) - – Ruby client for DuckDB. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [SmarterCSV v1.15](https://github.com/tilo/smarter_csv) - – A more intelligent Ruby CSV library. _(release; Ruby Weekly #786; seen 2026-02-05)_
