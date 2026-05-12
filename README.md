@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 249
+- Resources: 250
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 67, guide: 12, project: 32, gem: 15, release: 110, talk: 2, news: 11
-- Provenance: 249 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 68, guide: 12, project: 32, gem: 15, release: 110, talk: 2, news: 11
+- Provenance: 250 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
 - [Rails & Hotwire](#rails-hotwire) (70)
 - [Web Frameworks & APIs](#web-frameworks-apis) (17)
-- [Gems & Libraries](#gems-libraries) (25)
+- [Gems & Libraries](#gems-libraries) (26)
 - [Testing & Quality](#testing-quality) (15)
 - [Databases, Search & Storage](#databases-search-storage) (9)
 - [Performance & Observability](#performance-observability) (10)
@@ -185,6 +185,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby Users Forum](https://www.rubyforum.org) - Want to chat with other Rubyists old-school forum style? The Ruby Users Forum has just launched. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Rubycon Italy](https://rubycon.it) - 🇮🇹 Rubycon Italy, taking place this May 8, has just unveiled its schedule, written in Ruby itself! _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [super-technical look behind the scenes](https://bernsteinbear.com/blog/multiple-entry) - Max Bernstein, who works on ZJIT, shares a brief but super-technical look behind the scenes at just one of many design decisions taking place in the deepest parts of Ruby. _(article; Ruby Weekly #787; seen 2026-02-12)_
+- [tiny ruby conf](https://helsinkiruby.fi/tinyruby) - 🇫🇮 tiny ruby conf is headed back to Helsinki this October 1. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
