@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 355
+- Resources: 356
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 89, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 55 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 90, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 56 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (7)
 - [AI & LLMs](#ai-llms) (19)
-- [Frontend, Assets & UI](#frontend-assets-ui) (24)
+- [Frontend, Assets & UI](#frontend-assets-ui) (25)
 - [Data, APIs & Integration](#data-apis-integration) (8)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
 - [Community, News & Events](#community-news-events) (14)
@@ -380,6 +380,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [use newline and tab characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls) - Did you know you can use newline and tab characters in URLs in HTML and they'll be ignored? _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [What To Know in JavaScript (2026 Edition)](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition) - Keen to brush up your knowledge of modern JavaScript? Chris Coyier's What To Know in JavaScript (2026 Edition) tours the latest language features, plus the state of the most popular runtimes and build tools. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html) - 📄 Git's Magic Files – Useful guide to the many files that influence git's behavior in areas like ignoring files, language detection, and pre-filling commit messages. Andrew Nesbitt. _(guide; Ruby Weekly #789; seen 2026-02-26)_
+- [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files. Stars: 1936; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Oat](https://oat.ink) - If you're tired of large JavaScript UI component libraries and their associated build tools, Oat might appeal to you. 8KB of CSS and JS (gzipped) gets you a UI component library you can use via regular semantic HTML elements. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [RatatuiRuby: A Fresh Way to Build Terminal UIs in Ruby](https://www.ratatui-ruby.dev) - Ratatui is a popular Rust library for building fast, modern terminal user interfaces, and RatatuiRuby brings it to Ruby too. Despite being in beta/pre-release, this is an incredibly solid effort and I had fun playing with it (above). _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. Stars: 909; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
