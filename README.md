@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 200
+- Resources: 201
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 49, guide: 7, project: 27, gem: 13, release: 95, talk: 1, news: 8
-- Provenance: 200 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 50, guide: 7, project: 27, gem: 13, release: 95, talk: 1, news: 8
+- Provenance: 201 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (34)
-- [Rails & Hotwire](#rails-hotwire) (54)
+- [Rails & Hotwire](#rails-hotwire) (55)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (21)
 - [Testing & Quality](#testing-quality) (12)
@@ -81,6 +81,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Fizzy](https://www.fizzy.do) - 37signals made its Fizzy Kanban app, built in Rails, 'source available' a few months ago but maintained the paid, SaaS version. That paid version, however, is now entirely free to use. _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Handling Uncountable Words in Rails Inflections](https://andycroll.com/ruby/handle-uncountable-words-in-rails-inflections) - 📄 Handling Uncountable Words in Rails Inflections – Like staff, metadata, feedback.. or maybe sheep? Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
+- [How We Improved Rails Response Times by 87%](https://fastretro.app/blog/how-we-improved-rails-response-times-by-87-percent) - 📉 How We Improved Rails Response Times by 87% – No tricks. Just setting up good monitoring to finally see where performance problems lie. Fast Retro. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To](https://kaspth.com/posts/i-quit-rails-core-4-years-ago-heres-what-ive-been-up-to) - 📄 I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To – What happens to core members when they leave the core? Kasper Timm Hansen. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Migrating from Devise to Rails' Authentication Generator](https://nithinbekal.com/posts/devise-to-rails-auth) - 📄 Migrating from Devise to Rails' Authentication Generator Nithin Bekal. _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Mistral's Attempt to Put Rails Testing on Autopilot](https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont) - 🤖 Mistral's Attempt to Put Rails Testing on Autopilot — A post from France’s best-known AI shop detailing an autonomous agent they’ve built to work on RSpec suites in Rails apps. The end result is called Mistral Vibe. _(article; Ruby Weekly #791; seen 2026-03-12)_
