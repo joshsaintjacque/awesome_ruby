@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 269
+- Resources: 270
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 75, guide: 13, project: 34, gem: 16, release: 118, talk: 2, news: 11
-- Provenance: 269 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 75, guide: 13, project: 34, gem: 16, release: 119, talk: 2, news: 11
+- Provenance: 270 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (43)
 - [Rails & Hotwire](#rails-hotwire) (77)
-- [Web Frameworks & APIs](#web-frameworks-apis) (19)
+- [Web Frameworks & APIs](#web-frameworks-apis) (20)
 - [Gems & Libraries](#gems-libraries) (28)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (10)
@@ -173,6 +173,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Grape 3.1](https://github.com/ruby-grape/grape) - – Opinionated framework for building REST-like APIs. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [HTTP.rb / HTTP 'The Gem!' 6.0: The Flexible HTTP Client](https://github.com/httprb/http/releases/tag/v6.0.0) - I love the http gem and its flexible, easy-to-remember API. v6 is the first major release in years, and adds RFC 7234-compliant HTTP caching, instrumentation hooks, thread-safe request building, a base_uri option, and more. _(release; Ruby Weekly #792; seen 2026-03-19)_
+- [Puma 7.2: The Fast Multi-Threaded HTTP Server for Ruby Apps](https://github.com/puma/puma/releases/tag/v7.2.0) - You can now set auto worker count via the DSL (workers :auto) and HTTP parsing has been made 17% faster! Plus the usual bugfixes and refactoring. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Rack 3.2.6](https://github.com/rack/rack) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [RuboCop::GraphQL 1.6](https://github.com/DmitryTsepelev/rubocop-graphql) - – graphql-ruby best practices for Rubocop. _(release; Ruby Weekly #788; seen 2026-02-19)_
