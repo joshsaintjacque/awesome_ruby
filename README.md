@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 491
+- Resources: 492
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 217, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 191 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 218, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 192 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (39)
-- [Gems & Libraries](#gems-libraries) (117)
+- [Gems & Libraries](#gems-libraries) (118)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (22)
 - [Performance & Observability](#performance-observability) (13)
@@ -277,6 +277,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codeforjapan/decidim-cfj](https://github.com/codeforjapan/decidim-cfj) - Code for Japan Decidim Stars: 55; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects Stars: 1461; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby) - Cucumber for Ruby. It's amazing! Stars: 5211; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [darkbitio/gcp-iam-role-permissions](https://github.com/darkbitio/gcp-iam-role-permissions) - Exports primitive and predefined GCP IAM Roles and their permissions Stars: 111; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [datacite/schema](https://github.com/datacite/schema) - DataCite Metadata Schema Repository Stars: 51; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [demarche-numerique/demarche.numerique.gouv.fr](https://github.com/demarche-numerique/demarche.numerique.gouv.fr) - Dématérialiser et simplifier les démarches administratives Stars: 260; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
