@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 457
+- Resources: 458
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 186, gem: 23, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 157 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 187, gem: 23, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 158 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (50)
+- [Ruby Language & Internals](#ruby-language-internals) (51)
 - [Rails & Hotwire](#rails-hotwire) (98)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (108)
@@ -48,6 +48,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Difftastic](https://difftastic.wilfred.me.uk) - is a tool that can diff code files, not merely on a line-by-line basis like diff, but based on syntax. It supports all popular languages including Ruby, natch. Marco Roth has a Ruby wrapper for it, as well as Minitest::Difftastic for using it to show diffs in test runs. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [jruby/jruby](https://github.com/jruby/jruby) - JRuby, an implementation of Ruby on the JVM Stars: 3897; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [mlx-ruby: Ruby Bindings for Apple's MLX Framework](https://github.com/skryl/mlx-ruby) - An agent-assisted attempt to bring bindings to Apple’s ML-focused array framework to Ruby, including an idiomatic Ruby DSL. _(project; Ruby Weekly #788; seen 2026-02-19)_
+- [noraj/ctf-party](https://github.com/noraj/ctf-party) - :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. Stars: 91; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Rubysyn](https://github.com/squadette/rubysyn/blob/master/README.md) - is an interesting attempt to 'clarify Ruby's syntax and semantics'. _(project; Ruby Weekly #794; seen 2026-04-02)_
 - [the ability to use a WebAssembly build of Ruby's Prism parser to JRuby](https://github.com/jruby/jruby/pull/9184) - Charles Nutter has been adding the ability to use a WebAssembly build of Ruby's Prism parser to JRuby as a way to maintain Ruby language compatibility without a native library requirement. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [Announcing the 2026 Gem Fellowship](https://gem.coop/updates/2026-fellowship) - gem.coop and Mike Perham recently announced a program to give $100,000 in grants to Ruby open source maintainers, and the ‘class of 2026’ has been revealed with projects like Rouge, Herb, Bridgetown, and Ferrum set to benefit. _(gem; Ruby Weekly #786; seen 2026-02-05)_
