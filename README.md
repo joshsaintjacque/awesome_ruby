@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 436
+- Resources: 437
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 167, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 136 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 168, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 137 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (95)
-- [Web Frameworks & APIs](#web-frameworks-apis) (34)
+- [Web Frameworks & APIs](#web-frameworks-apis) (35)
 - [Gems & Libraries](#gems-libraries) (101)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (20)
@@ -194,6 +194,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Protocol::URL A New Way to Parse, Manipulate and Construct URLs](https://socketry.github.io/protocol-url/guides/getting-started/index.html) - A modern clean, standards-compliant API for working with URLs according to RFC 3986. Tidy and well documented. _(guide; Ruby Weekly #783; seen 2026-01-15)_
 - [3scale/porta](https://github.com/3scale/porta) - Red Hat 3scale API Management, Porta Stars: 78; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [AcceptLanguage](https://github.com/cyril/accept_language.rb) - – Accept-Language HTTP header parsing library. _(project; Ruby Weekly #785; seen 2026-01-29)_
+- [ecosyste-ms/packages](https://github.com/ecosyste-ms/packages) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries. Stars: 82; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) - An open API service providing repository metadata for many open source software ecosystems. Stars: 61; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [fleetyards/fleetyards](https://github.com/fleetyards/fleetyards) - A Ship Database and Web API based on the official Star Citizen Ship Matrix. Stars: 60; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [getlago/lago-api](https://github.com/getlago/lago-api) - Open Source Metering and Usage Based Billing Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
