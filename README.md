@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 120
+- Resources: 121
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 28, guide: 4, project: 13, gem: 10, release: 59, talk: 1, news: 5
-- Provenance: 120 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 28, guide: 4, project: 13, gem: 10, release: 60, talk: 1, news: 5
+- Provenance: 121 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (21)
+- [Ruby Language & Internals](#ruby-language-internals) (22)
 - [Rails & Hotwire](#rails-hotwire) (34)
 - [Web Frameworks & APIs](#web-frameworks-apis) (10)
 - [Gems & Libraries](#gems-libraries) (15)
@@ -56,6 +56,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby 3.3.11 has been released](https://www.ruby-lang.org/en/news/2026/03/26/ruby-3-3-11-released) - with a fix for the recent zlib vulnerability. This is the final normal maintenance release of Ruby 3.3, so it's time to plan an upgrade to 3.4 or 4.0. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby 3.4.9 has been released](https://www.ruby-lang.org/en/news/2026/03/11/ruby-3-4-9-released) - ⭐ Ruby 3.4.9 has been released including a fix for the zlib vulnerability we mentioned last week. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Ruby 4.0.2 Released to Fix a Tricky YJIT Bug](https://www.ruby-lang.org/en/news/2026/03/16/ruby-4-0-2-released) - A routine update with a fix for a YJIT bug that crashed processes. It was noticed when running Puma in cluster mode but affects any app where YJIT is enabled lazily and where local variables had escaped to the heap before YJIT started observing (there’s a proof of concept in YJIT’s test suite). There's also a fix for a GC-related perf regression. _(release; Ruby Weekly #792; seen 2026-03-19)_
+- [ruby-prof 2.0: The Tracing Profiler for CRuby](https://ruby-prof.github.io) - Now celebrating its 21st birthday(!), ruby-prof remains a great way to figure out what’s slowing your app down, particularly if you want to see exact call counts and precise timings that tracing profilers offer (as opposed to sampling profilers - see a comparison here). v2.0 adds Ruby 4.0 support, flame graph visualizations, improved docs, and more. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [ruby.wasm 2.9.0](https://github.com/ruby/ruby.wasm) - – An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [TestProf 1.6](https://github.com/test-prof/test-prof/releases/tag/v1.6.0) - 📈 TestProf 1.6 – Collection of tools to analyze and optimize Ruby test suite performance. Adds a TPS (tests-per-second) profiler and a GC profiling mode. _(release; Ruby Weekly #792; seen 2026-03-19)_
 
