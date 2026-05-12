@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 279
+- Resources: 280
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 79, guide: 13, project: 35, gem: 16, release: 123, talk: 2, news: 11
-- Provenance: 279 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 79, guide: 13, project: 35, gem: 16, release: 124, talk: 2, news: 11
+- Provenance: 280 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (45)
 - [Rails & Hotwire](#rails-hotwire) (80)
-- [Web Frameworks & APIs](#web-frameworks-apis) (20)
+- [Web Frameworks & APIs](#web-frameworks-apis) (21)
 - [Gems & Libraries](#gems-libraries) (31)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (11)
@@ -184,6 +184,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [RuboCop::GraphQL 1.6](https://github.com/DmitryTsepelev/rubocop-graphql) - – graphql-ruby best practices for Rubocop. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [Ruby::Box: Rethinking Code Reloading With Isolated Namespaces](https://rubyelders.com/writings/2026-01-ruby-box-reload.html) - A rethinking of hot reloading a Ruby app that doesn’t fight Ruby’s global object space (thanks to 4.0’s experimental Box feature). It only supports simple Rack apps right now, but the author has hopes it could evolve. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [RubyGems 4.0.8](https://blog.rubygems.org/2026/03/11/4.0.8-released.html) - Plus there have been updates to a few core tools and libraries including RubyGems 4.0.8, JSON 2.19, curses 1.6 (which now supports the ncurses extended colors API), and Timeout 0.6.1. _(release; Ruby Weekly #791; seen 2026-03-12)_
+- [RubyLLM 1.11.0](https://github.com/crmne/ruby_llm) - 🤖 RubyLLM 1.11.0 – Unified API for working with AI models and services. Say hello to xAI/Grok in this version. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [telegram-bot-ruby 2.6](https://github.com/atipugin/telegram-bot-ruby) - 💬 telegram-bot-ruby 2.6 – Ruby wrapper for Telegram's Bot API – now supporting Bot API 9.5. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [The Twitter (X) Ruby Gem 8.3](https://github.com/sferik/twitter-ruby) - – Ruby interface to the official X API. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Typhoeus 1.6](https://github.com/typhoeus/typhoeus/blob/master/CHANGELOG.md) - – libcurl-wrapper optimized for parallel HTTP request use cases. _(release; Ruby Weekly #791; seen 2026-03-12)_
