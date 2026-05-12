@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 368
+- Resources: 369
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 102, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 68 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 103, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 69 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (69)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
-- [Performance & Observability](#performance-observability) (11)
+- [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (7)
 - [AI & LLMs](#ai-llms) (19)
@@ -327,6 +327,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [an interesting performance remedy](https://bugs.ruby-lang.org/issues/14718) - jemalloc, the malloc implementation, has long provided an interesting performance remedy in the Ruby world but it became unmaintained last year. Well.. Meta's investing in jemalloc and bringing it back. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [From 40 Minutes to 4 with Tests Parallelization](https://www.fastruby.io/blog/speed-up-tests-from-40-to-4-minutes.html) - 📄 From 40 Minutes to 4 with Tests Parallelization Ariel Juodziukynas (Ombulabs). _(article; Ruby Weekly #791; seen 2026-03-12)_
+- [getsentry/sentry-fastlane-plugin](https://github.com/getsentry/sentry-fastlane-plugin) - Official fastlane plugin for Sentry Stars: 152; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Rubydex: A Static Analysis Toolkit for Ruby](https://github.com/Shopify/rubydex) - A new high-performance Ruby indexer with an MCP server designed for LLM tooling. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [solectrus/solectrus](https://github.com/solectrus/solectrus) - Self-hosted photovoltaic dashboard for monitoring solar production, consumption, battery usage, grid exchange, and financial performance. Stars: 156; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
