@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 365
+- Resources: 366
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 99, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 65 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 100, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 66 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (86)
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
-- [Gems & Libraries](#gems-libraries) (66)
+- [Gems & Libraries](#gems-libraries) (67)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (11)
@@ -248,6 +248,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [OpenC3/cosmos](https://github.com/OpenC3/cosmos) - OpenC3 COSMOS Stars: 219; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. Stars: 15046; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project Stars: 2059; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language Stars: 23576; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main website for The Odin Project Stars: 4396; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
