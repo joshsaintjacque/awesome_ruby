@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 181
+- Resources: 182
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 85, talk: 1, news: 7
-- Provenance: 181 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 44, guide: 5, project: 26, gem: 13, release: 86, talk: 1, news: 7
+- Provenance: 182 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (33)
 - [Rails & Hotwire](#rails-hotwire) (50)
-- [Web Frameworks & APIs](#web-frameworks-apis) (13)
+- [Web Frameworks & APIs](#web-frameworks-apis) (14)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (9)
 - [Databases, Search & Storage](#databases-search-storage) (3)
@@ -134,6 +134,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [HTTP.rb / HTTP 'The Gem!' 6.0: The Flexible HTTP Client](https://github.com/httprb/http/releases/tag/v6.0.0) - I love the http gem and its flexible, easy-to-remember API. v6 is the first major release in years, and adds RFC 7234-compliant HTTP caching, instrumentation hooks, thread-safe request building, a base_uri option, and more. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Rack 3.2.6](https://github.com/rack/rack) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [RuboCop::GraphQL 1.6](https://github.com/DmitryTsepelev/rubocop-graphql) - – graphql-ruby best practices for Rubocop. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [RubyGems 4.0.8](https://blog.rubygems.org/2026/03/11/4.0.8-released.html) - Plus there have been updates to a few core tools and libraries including RubyGems 4.0.8, JSON 2.19, curses 1.6 (which now supports the ncurses extended colors API), and Timeout 0.6.1. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [telegram-bot-ruby 2.6](https://github.com/atipugin/telegram-bot-ruby) - 💬 telegram-bot-ruby 2.6 – Ruby wrapper for Telegram's Bot API – now supporting Bot API 9.5. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [The Twitter (X) Ruby Gem 8.3](https://github.com/sferik/twitter-ruby) - – Ruby interface to the official X API. _(release; Ruby Weekly #794; seen 2026-04-02)_
