@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 60
-- Categories: 13
+- Resources: 61
+- Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 30, talk: 1, news: 3
-- Provenance: 60 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 31, talk: 1, news: 3
+- Provenance: 61 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,6 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (5)
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
+- [Databases, Search & Storage](#databases-search-storage) (1)
 - [Performance & Observability](#performance-observability) (2)
 - [Security & Authentication](#security-authentication) (2)
 - [DevOps & Deployment](#devops-deployment) (1)
@@ -90,6 +91,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [A Testing Anti-Pattern: Distracting Setup Data](https://www.saturnci.com/testing-anti-pattern-distracting-setup-data.html) - 📄 A Testing Anti-Pattern: Distracting Setup Data Jason Swett. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Migrating 9,000 Tests from RSpec to Minitest with AI Agents](https://augmentedcode.dev/multi-agent-pipeline-minitest-migration) - 📄 Migrating 9,000 Tests from RSpec to Minitest with AI Agents Viktor Schmidt. _(article; Ruby Weekly #794; seen 2026-04-02)_
+
+## Databases, Search & Storage
+
+- [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 
 ## Performance & Observability
 
