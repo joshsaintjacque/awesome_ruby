@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 401
+- Resources: 402
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 134, gem: 19, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 101 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 134, gem: 20, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 102 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (33)
 - [Gems & Libraries](#gems-libraries) (82)
 - [Testing & Quality](#testing-quality) (18)
-- [Databases, Search & Storage](#databases-search-storage) (17)
+- [Databases, Search & Storage](#databases-search-storage) (18)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (9)
 - [DevOps & Deployment](#devops-deployment) (11)
@@ -340,6 +340,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [how they implemented a new, fast client-side docs search system](https://code.visualstudio.com/blogs/2026/01/15/docfind) - 🔎 The VS Code team has explained how they implemented a new, fast client-side docs search system for the VS Code site using WebAssembly. You can use their docfind engine yourself too, and there's a live demo showing off its speed on an index of 50,000 articles. _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) - Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools Stars: 170; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. Stars: 12043; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) - A database of vulnerable Ruby Gems Stars: 1060; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Elasticsearch 9.3](https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0) - – Official Ruby client for Elasticsearch. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Redis::Objects 2.0: Map Redis Types Directly to Ruby Objects](https://github.com/nateware/redis-objects) - An idiomatically Ruby interface to the Redis data structure server that avoids the usual mess of ORMs (since ORMs don’t naturally fit with the lighter Redis approach). _(release; Ruby Weekly #784; seen 2026-01-22)_
