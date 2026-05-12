@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 498
+- Resources: 499
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 224, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 198 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 225, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 199 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (109)
 - [Web Frameworks & APIs](#web-frameworks-apis) (39)
-- [Gems & Libraries](#gems-libraries) (120)
+- [Gems & Libraries](#gems-libraries) (121)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (22)
 - [Performance & Observability](#performance-observability) (14)
@@ -339,6 +339,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) Stars: 8168; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [wikimedia/mediawiki-vagrant](https://github.com/wikimedia/mediawiki-vagrant) - A virtual MediaWiki development environment, built on Vagrant, VirtualBox, and Puppet. This is a mirror from https://gerrit.wikimedia.org. Stars: 69; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yast/yast-yast2](https://github.com/yast/yast-yast2) - YaST module yast2 Stars: 71; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [yegor256/iri](https://github.com/yegor256/iri) - Simple and immutable URI/URL builder in Ruby, with a fluent interface Stars: 145; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface. Opensource SIP SBC with billing. Stars: 63; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system. Stars: 5601; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [zold-io/zold](https://github.com/zold-io/zold) - An Experimental Non-Blockchain Cryptocurrency for Fast Micro Payments Stars: 203; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
