@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 231
+- Resources: 232
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 62, guide: 12, project: 29, gem: 14, release: 103, talk: 2, news: 9
-- Provenance: 231 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 62, guide: 12, project: 29, gem: 14, release: 104, talk: 2, news: 9
+- Provenance: 232 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (16)
 - [Gems & Libraries](#gems-libraries) (23)
 - [Testing & Quality](#testing-quality) (13)
-- [Databases, Search & Storage](#databases-search-storage) (8)
+- [Databases, Search & Storage](#databases-search-storage) (9)
 - [Performance & Observability](#performance-observability) (9)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (3)
@@ -216,6 +216,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Planet Ruby](https://planetruby.org) - is a prototype we're noodling on that's like a traditional 'planet' site (e.g. Planet PostgreSQL) bringing together items from a variety of feeds in one place, but filtered down to just the Ruby-related items (mostly successfully). _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [recreate something like SQLite with a swarm of agents?](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html) - 🤖 Can you recreate something like SQLite with a swarm of agents? Kian Kyars had a try, as part of an agent coordination experiment. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Elasticsearch 9.3](https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0) - – Official Ruby client for Elasticsearch. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Windows 3.11 experience in your browser.](https://pieter.com) - Play with a full Windows 3.11 experience in your browser. There's a recreation of '90s search engine AltaVista, a version of mIRC that connects to an actual IRC server, and a variety of classic games. _(release; Ruby Weekly #789; seen 2026-02-26)_
 
 ## Performance & Observability
