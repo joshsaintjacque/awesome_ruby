@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 283
+- Resources: 284
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 79, guide: 13, project: 35, gem: 16, release: 127, talk: 2, news: 11
-- Provenance: 283 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 79, guide: 13, project: 35, gem: 16, release: 128, talk: 2, news: 11
+- Provenance: 284 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (4)
-- [AI & LLMs](#ai-llms) (15)
+- [AI & LLMs](#ai-llms) (16)
 - [Frontend, Assets & UI](#frontend-assets-ui) (22)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (3)
@@ -300,6 +300,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [starting a petition to say 'no' to contributions built with AI assistance.](https://github.com/indutny/no-slop-in-nodejs-core) - 🤖 The Node.js community is wrestling with the role that LLM-produced code should play in its implementation, with the former creator of the io.js fork starting a petition to say 'no' to contributions built with AI assistance. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [EasyTalk: Define, Generate and Validate JSON Schemas in Ruby](https://github.com/sergiobayona/easy_talk) - Reduce complexity with a single Ruby DSL for generating JSON Schema, validations, and error messages. This week’s v3.3.1 release also integrates with RubyLLM for building structured output schemas. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Gemini 3.1 Pro LLM](https://deepmind.google/models/model-cards/gemini-3-1-pro) - 🤖 Google has just dropped its latest Gemini 3.1 Pro LLM, coupled with SOTA coding benchmarks. _(release; Ruby Weekly #788; seen 2026-02-19)_
+- [MCP Ruby SDK v0.6](https://github.com/modelcontextprotocol/ruby-sdk) - 🤖 MCP Ruby SDK v0.6 – Official Ruby SDK for the Model Context Protocol. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [Roast 1.0](https://github.com/Shopify/roast/releases/tag/v1.0.0) - 🤖 Roast 1.0 – Shopify's Ruby DSL for creating AI workflows. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyLLM 1.13.0](https://github.com/crmne/ruby_llm/releases/tag/1.13.0) - 🤖 RubyLLM 1.13.0 – A big stabilization release for the popular LLM integration library. Tool calling is now even more robust and controllable. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [RubyLLM::MCP v1.0.0](https://github.com/patvice/ruby_llm-mcp/releases/tag/v1.0.0) - 🤖 RubyLLM::MCP v1.0.0 – Ruby client for the Model Context Protocol with seamless integration with RubyLLM. _(release; Ruby Weekly #789; seen 2026-02-26)_
