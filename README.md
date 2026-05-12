@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 227
+- Resources: 228
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 60, guide: 11, project: 29, gem: 14, release: 102, talk: 2, news: 9
-- Provenance: 227 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 61, guide: 11, project: 29, gem: 14, release: 102, talk: 2, news: 9
+- Provenance: 228 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (40)
-- [Rails & Hotwire](#rails-hotwire) (62)
+- [Rails & Hotwire](#rails-hotwire) (63)
 - [Web Frameworks & APIs](#web-frameworks-apis) (16)
 - [Gems & Libraries](#gems-libraries) (23)
 - [Testing & Quality](#testing-quality) (13)
@@ -90,6 +90,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Handling Uncountable Words in Rails Inflections](https://andycroll.com/ruby/handle-uncountable-words-in-rails-inflections) - 📄 Handling Uncountable Words in Rails Inflections – Like staff, metadata, feedback.. or maybe sheep? Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [How We Improved Rails Response Times by 87%](https://fastretro.app/blog/how-we-improved-rails-response-times-by-87-percent) - 📉 How We Improved Rails Response Times by 87% – No tricks. Just setting up good monitoring to finally see where performance problems lie. Fast Retro. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To](https://kaspth.com/posts/i-quit-rails-core-4-years-ago-heres-what-ive-been-up-to) - 📄 I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To – What happens to core members when they leave the core? Kasper Timm Hansen. _(article; Ruby Weekly #792; seen 2026-03-19)_
+- [Implementing a Production RAG System on Rails](https://jessewaites.com/blog/post/rag-on-rails) - 📄 Implementing a Production RAG System on Rails Jesse Waites. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Migrating from Devise to Rails' Authentication Generator](https://nithinbekal.com/posts/devise-to-rails-auth) - 📄 Migrating from Devise to Rails' Authentication Generator Nithin Bekal. _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Mistral's Attempt to Put Rails Testing on Autopilot](https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont) - 🤖 Mistral's Attempt to Put Rails Testing on Autopilot — A post from France’s best-known AI shop detailing an autonomous agent they’ve built to work on RSpec suites in Rails apps. The end result is called Mistral Vibe. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [on X](https://x.com/garrytan/status/2018368128108167344) - Garry Tan, the CEO of Y Combinator, posted on X about how he thinks "people are sleeping a bit on how much Ruby on Rails + Claude Code is a crazy unlock.". _(article; Ruby Weekly #786; seen 2026-02-05)_
