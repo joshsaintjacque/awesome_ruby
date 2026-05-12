@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 267
+- Resources: 268
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 74, guide: 13, project: 34, gem: 16, release: 117, talk: 2, news: 11
-- Provenance: 267 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 75, guide: 13, project: 34, gem: 16, release: 117, talk: 2, news: 11
+- Provenance: 268 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
 - [Rails & Hotwire](#rails-hotwire) (77)
 - [Web Frameworks & APIs](#web-frameworks-apis) (19)
-- [Gems & Libraries](#gems-libraries) (27)
+- [Gems & Libraries](#gems-libraries) (28)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (10)
 - [Performance & Observability](#performance-observability) (10)
@@ -185,6 +185,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Gems & Libraries
 
 - [Balkan Ruby](https://balkanruby.com) - 🇧🇬 Balkan Ruby is taking place in Sofia, Bulgaria this May 15-16 and there are just four days left to submit your proposal if you'd like to speak. _(article; Ruby Weekly #786; seen 2026-02-05)_
+- [Building a Ruby Pattern Generator for a Crochet Circle](https://hashrocket.com/blog/posts/crafting-code-building-a-ruby-pattern-generator-for-a-crochet-circle) - 🧶 Building a Ruby Pattern Generator for a Crochet Circle — A delightfully crafty use case for Ruby and a great example of using code to enhance a hobby. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [From Sidekiq to Temporal: A Zero-Downtime Migration Strategy](https://firehydrant.com/blog/sidekiq-to-temporal-a-zero-downtime-migration-strategy) - 📄 From Sidekiq to Temporal: A Zero-Downtime Migration Strategy David Haley (FireHydrant). _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [get its own built-in CPU time profiler?](https://bugs.ruby-lang.org/issues/21950) - Should Ruby get its own built-in CPU time profiler? _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [handle a lack of mandatory semicolons.](https://terts.dev/blog/no-semicolons-needed) - ;? Some analysis of how different programming languages (including Ruby) handle a lack of mandatory semicolons. _(article; Ruby Weekly #792; seen 2026-03-19)_
