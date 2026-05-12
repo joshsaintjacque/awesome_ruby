@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 497
+- Resources: 498
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 223, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 197 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 224, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 198 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (120)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (22)
-- [Performance & Observability](#performance-observability) (13)
+- [Performance & Observability](#performance-observability) (14)
 - [Security & Authentication](#security-authentication) (13)
 - [DevOps & Deployment](#devops-deployment) (19)
 - [AI & LLMs](#ai-llms) (21)
@@ -428,6 +428,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [solectrus/solectrus](https://github.com/solectrus/solectrus) - Self-hosted photovoltaic dashboard for monitoring solar production, consumption, battery usage, grid exchange, and financial performance. Stars: 156; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [The Outcomes of Last Week's Ruby 'Dev Meeting'](https://github.com/ruby/dev-meeting-log/blob/master/2026/DevMeeting-2026-02-12.md) - Last week I mentioned a meeting was taking place where lead core team members would answer questions around proposals, features, and bugs. Here are the rough notes of what happened, but a few quick highlights:. _(project; Ruby Weekly #788; seen 2026-02-19)_
+- [yegor256/sixnines](https://github.com/yegor256/sixnines) - Website Availability Monitor: add your website to our dashboard and get 24x7 monitoring of its availability (and a badge!) Stars: 75; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Dalli 5.0](https://github.com/petergoldstein/dalli) - – High-performance Ruby memcached client. Changelog. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Falcon 0.55](https://github.com/socketry/falcon) - – High-performance Ruby web server. Used in production by Shopify, this is the first release in some time. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [pure-jpeg 0.3](https://github.com/peterc/pure_jpeg) - 🖼️ pure-jpeg 0.3 – My pure Ruby JPEG encoder/decoder library is now much faster (0.2s on a 1024x1024 image) thanks to some third-party contributors 🎉. _(release; Ruby Weekly #793; seen 2026-03-26)_
