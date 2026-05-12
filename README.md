@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 285
+- Resources: 286
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 79, guide: 13, project: 35, gem: 16, release: 129, talk: 2, news: 11
-- Provenance: 285 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 79, guide: 13, project: 35, gem: 16, release: 130, talk: 2, news: 11
+- Provenance: 286 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (45)
 - [Rails & Hotwire](#rails-hotwire) (81)
 - [Web Frameworks & APIs](#web-frameworks-apis) (21)
-- [Gems & Libraries](#gems-libraries) (34)
+- [Gems & Libraries](#gems-libraries) (35)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (11)
 - [Performance & Observability](#performance-observability) (10)
@@ -217,6 +217,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Byebug v13.0](https://github.com/deivid-rodriguez/byebug) - – Long-standing feature-rich debugger for Ruby. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [Grape 3.2](https://github.com/ruby-grape/grape/blob/master/CHANGELOG.md) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [How to Install a Gem (It's Harder Than It Sounds)](https://andre.arko.net/2026/03/24/how-to-install-a-gem) - As one of the people behind Bundler 1.0 and a former maintainer of RubyGems.org, and now working on gem.coop and rv, André knows a few things about how gems tick (big understatement). This post is full of ‘aha’ moments as he walks through installing a gem by hand, giving us an idea of what tools like gem and rv do for us. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Phlex 2.4.0](https://github.com/yippee-fun/phlex) - – Build object-oriented web views in pure Ruby. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [Pstore 0.2.1](https://github.com/ruby/pstore) - – Ruby's official file persistence mechanism for objects. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [ran into an odd bug in Bundler 4.0.1](https://github.com/ruby/rubygems/pull/9213) - Eileen Uchitelle ran into an odd bug in Bundler 4.0.1 when using gems across multiple sources. The fix, in Bundler 4.0.4, may have caused another related issue, though. One to keep an eye out for. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [RDoc 7.2](https://github.com/ruby/rdoc/releases/tag/v7.2.0) - – Ruby's official documentation generation tool. _(release; Ruby Weekly #787; seen 2026-02-12)_
