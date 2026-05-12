@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 42
+- Resources: 43
 - Categories: 12
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, project: 2, gem: 7, release: 19, talk: 1, news: 2
-- Provenance: 42 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, project: 2, gem: 7, release: 20, talk: 1, news: 2
+- Provenance: 43 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (9)
 - [Rails & Hotwire](#rails-hotwire) (12)
-- [Web Frameworks & APIs](#web-frameworks-apis) (2)
+- [Web Frameworks & APIs](#web-frameworks-apis) (3)
 - [Gems & Libraries](#gems-libraries) (5)
 - [Testing & Quality](#testing-quality) (2)
 - [Security & Authentication](#security-authentication) (1)
@@ -64,6 +64,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [The Twitter (X) Ruby Gem 8.3](https://github.com/sferik/twitter-ruby) - – Ruby interface to the official X API. _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Gems & Libraries
 
