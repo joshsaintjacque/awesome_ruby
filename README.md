@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 352
+- Resources: 353
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 87, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 52 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 88, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 53 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (84)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
-- [Gems & Libraries](#gems-libraries) (61)
+- [Gems & Libraries](#gems-libraries) (62)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (11)
@@ -243,6 +243,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project Stars: 2059; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
+- [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main website for The Odin Project Stars: 4396; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant Stars: 795; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [tobymao/18xx](https://github.com/tobymao/18xx) - A platform for playing 18xx games online! Stars: 354; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [usetrmnl/terminus](https://github.com/usetrmnl/terminus) - The flagship TRMNL BYOS application. Stars: 548; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
