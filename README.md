@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 466
+- Resources: 467
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 195, gem: 23, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 166 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 195, gem: 24, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 167 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (103)
-- [Web Frameworks & APIs](#web-frameworks-apis) (36)
+- [Web Frameworks & APIs](#web-frameworks-apis) (37)
 - [Gems & Libraries](#gems-libraries) (108)
 - [Testing & Quality](#testing-quality) (21)
 - [Databases, Search & Storage](#databases-search-storage) (21)
@@ -216,6 +216,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [spree/spree](https://github.com/spree/spree) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce. Stars: 15416; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [zooniverse/panoptes](https://github.com/zooniverse/panoptes) - Zooniverse API to support user defined volunteer research projects Stars: 111; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [ahx/openapi_first](https://github.com/ahx/openapi_first) - openapi_first is a Ruby gem for request / response validation and contract-testing against an OpenAPI API description. It makes APIFirst easy and reliable. Stars: 215; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [open-telemetry/opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) - OpenTelemetry Ruby API & SDK, and related gems Stars: 571; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [rsim/ruby-plsql](https://github.com/rsim/ruby-plsql) - ruby-plsql gem provides simple Ruby API for calling Oracle PL/SQL procedures. It could be used both for accessing Oracle PL/SQL API procedures in legacy applications as well as it could be used to create PL/SQL unit tests using Ruby testing libraries. Stars: 139; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [excon 1.4](https://github.com/excon/excon) - – Fast HTTP 1.1 client library. _(release; Ruby Weekly #790; seen 2026-03-05)_
