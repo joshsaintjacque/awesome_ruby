@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 440
+- Resources: 441
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 171, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 140 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 172, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 141 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -27,7 +27,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
-- [Security & Authentication](#security-authentication) (11)
+- [Security & Authentication](#security-authentication) (12)
 - [DevOps & Deployment](#devops-deployment) (12)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
@@ -396,6 +396,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Enclave: An Mruby Sandbox for Running Arbitrary Ruby Code](https://beautifulruby.com/code/enclave) - If you don’t want to write explicit functions for each LLM-available tool, letting an LLM write and execute its own code is an option, but has security risks, which Enclave addresses: "Enclave gives you eval without the blast radius." GitHub repo. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [hackclub/auth](https://github.com/hackclub/auth) - a better basket to put all your eggs in Stars: 75; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. Stars: 2798; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs. Stars: 2997; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Taylor: A mruby and raylib-Based 2D Game Engine](https://taylormadetech.dev) - 🕹️ Taylor: A mruby and raylib-Based 2D Game Engine — The author is “trying to replicate the simplicity of QBasic but with more of a modern approach.” Write in basic Ruby, and get cross-platform support so your games can be distributed. There’s also an online playground where you can run and customize some basic examples. GitHub repo. _(project; Ruby Weekly #786; seen 2026-02-05)_
 - [vmware/dod-compliance-and-automation](https://github.com/vmware/dod-compliance-and-automation) - Security hardening content for VMware solutions to US Department of Defense standards Stars: 192; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
