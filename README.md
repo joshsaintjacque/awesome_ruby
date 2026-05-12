@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 275
+- Resources: 276
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 76, guide: 13, project: 35, gem: 16, release: 122, talk: 2, news: 11
-- Provenance: 275 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 76, guide: 13, project: 35, gem: 16, release: 123, talk: 2, news: 11
+- Provenance: 276 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (44)
+- [Ruby Language & Internals](#ruby-language-internals) (45)
 - [Rails & Hotwire](#rails-hotwire) (77)
 - [Web Frameworks & APIs](#web-frameworks-apis) (20)
 - [Gems & Libraries](#gems-libraries) (31)
@@ -51,6 +51,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Announcing the 2026 Gem Fellowship](https://gem.coop/updates/2026-fellowship) - gem.coop and Mike Perham recently announced a program to give $100,000 in grants to Ruby open source maintainers, and the ‘class of 2026’ has been revealed with projects like Rouge, Herb, Bridgetown, and Ferrum set to benefit. _(gem; Ruby Weekly #786; seen 2026-02-05)_
 - [Building a (Frontend) Framework-Agnostic Gem](https://newsletter.masilotti.com/p/on-building-a-framework-agnostic) - Let’s say you want your code to work alongside ERB, React, and Vue. There’s more than compatibility to contend with, as each approach has to feel right, which is the harder bit. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [A Maintainer's Guide to Ruby's Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) - Core team member hsbt explains how Ruby 3.2 and 3.3 are reaching their end, how Ruby versioning works generally, who maintains what, and what terms like ‘security maintenance’ mean in the context of a Ruby version’s lifecycle. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [Beware the grpc Gem and Ruby 4.0](https://ryanbigg.com/2026/01/beware-grpc-gem-and-ruby-40) - 📄 Beware the grpc Gem and Ruby 4.0 – If you're seeing very slow bundle times with Ruby 4.0, this might be why. Ryan Bigg. _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [Clamp 1.5: A Minimal CLI Utility Framework](https://github.com/mdub/clamp) - A mature CLI framework with all the options you’d expect to “handle all the boring stuff”, along with a nice, idiomatic Ruby DSL syntax. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [Coverband 6.2: Ruby Code Coverage, But in Production](https://github.com/danmayer/coverband) - SimpleCov is great for checking code coverage during testing, but Coverband takes the idea into production, checking live code usage with low performance overhead. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Gem in a Box 3.0: Simple, Personal Gem Hosting](https://github.com/geminabox/geminabox) - 💎 Gem in a Box 3.0: Simple, Personal Gem Hosting — Fancy having your own, personal equivalent of rubygems.org or gem.coop? Gem in a Box will get you there, both for hosting and pushing your own gems, as well as proxying gems from elsewhere. It’s a Ruby app but you can deploy it with Docker, if you prefer. v3.0 adds Ruby 4.0 support and requires Ruby 3.0+. _(release; Ruby Weekly #789; seen 2026-02-26)_
