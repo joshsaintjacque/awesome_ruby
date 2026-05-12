@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 165
+- Resources: 166
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 22, gem: 11, release: 80, talk: 1, news: 5
-- Provenance: 165 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 23, gem: 11, release: 80, talk: 1, news: 5
+- Provenance: 166 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -32,7 +32,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [AI & LLMs](#ai-llms) (9)
 - [Frontend, Assets & UI](#frontend-assets-ui) (14)
 - [Data, APIs & Integration](#data-apis-integration) (6)
-- [Learning, Articles & Talks](#learning-articles-talks) (1)
+- [Learning, Articles & Talks](#learning-articles-talks) (2)
 - [Community, News & Events](#community-news-events) (5)
 
 ## Ruby Language & Internals
@@ -232,6 +232,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Learning, Articles & Talks
 
+- [WP2TXT](https://github.com/yohasebe/wp2txt) - is a Ruby-powered toolkit for extracting text content from Wikipedia dump files – it'll even download the dumps for you, and can extract specific articles without downloading the full dumps. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [How to Publish Gems with Trusted Publishing](https://guides.rubygems.org/trusted-publishing) - 📄 How to Publish Gems with Trusted Publishing – Once set up, it's as easy as pushing a tag to GitHub. RubyGems Guides. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Community, News & Events
