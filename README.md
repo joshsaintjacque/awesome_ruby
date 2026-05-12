@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 482
+- Resources: 483
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 208, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 182 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 209, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 183 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (106)
-- [Web Frameworks & APIs](#web-frameworks-apis) (37)
+- [Web Frameworks & APIs](#web-frameworks-apis) (38)
 - [Gems & Libraries](#gems-libraries) (115)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (21)
@@ -213,6 +213,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [getlago/lago-api](https://github.com/getlago/lago-api) - Open Source Metering and Usage Based Billing Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) - (Mirror) An HTTP client library for ruby Stars: 237; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [open-telemetry/opentelemetry-ruby-contrib](https://github.com/open-telemetry/opentelemetry-ruby-contrib) - Contrib Packages for the OpenTelemetry Ruby API and SDK implementation. Stars: 121; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [podio/podio-rb](https://github.com/podio/podio-rb) - The official Ruby wrapper for the Podio API used and maintained by the Podio team Stars: 67; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [projectblacklight/blacklight](https://github.com/projectblacklight/blacklight) - Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index. Stars: 785; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL Stars: 5433; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Semian: Get Resiliency When Calling External Services](https://github.com/Shopify/semian) - Intercepts resource access from several different libraries (e.g. mysql2, redis, Net::HTTP) and ‘fails fast’ when said external resources are slow or unresponsive. _(project; Ruby Weekly #786; seen 2026-02-05)_
