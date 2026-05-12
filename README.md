@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 431
+- Resources: 432
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 162, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 131 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 163, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 132 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (97)
+- [Gems & Libraries](#gems-libraries) (98)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
@@ -290,6 +290,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [sudara/awesome-juce](https://github.com/sudara/awesome-juce) - A curated list of JUCE modules, templates, plugins, oh my! Stars: 1256; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
+- [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration Stars: 131; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main website for The Odin Project Stars: 4396; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) - All of the code that runs on worldcubeassociation.org Stars: 386; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant Stars: 795; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
