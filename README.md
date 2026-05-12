@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 150
+- Resources: 151
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 40, guide: 4, project: 18, gem: 11, release: 71, talk: 1, news: 5
-- Provenance: 150 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 40, guide: 4, project: 19, gem: 11, release: 71, talk: 1, news: 5
+- Provenance: 151 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (41)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
-- [Testing & Quality](#testing-quality) (5)
+- [Testing & Quality](#testing-quality) (6)
 - [Databases, Search & Storage](#databases-search-storage) (2)
 - [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (5)
@@ -152,6 +152,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [A Testing Anti-Pattern: Distracting Setup Data](https://www.saturnci.com/testing-anti-pattern-distracting-setup-data.html) - 📄 A Testing Anti-Pattern: Distracting Setup Data Jason Swett. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Migrating 9,000 Tests from RSpec to Minitest with AI Agents](https://augmentedcode.dev/multi-agent-pipeline-minitest-migration) - 📄 Migrating 9,000 Tests from RSpec to Minitest with AI Agents Viktor Schmidt. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [RuboCop](https://github.com/rubocop/rubocop) - Bozhidar Batsov, the creator of RuboCop, has created neocaml, an Emacs package for OCaml developers. _(project; Ruby Weekly #790; seen 2026-03-05)_
+- [SchnellMCP: A Ruby-Native MCP Server Experience](https://rubyelders.com/writings/2026-02-schnellmcp.html) - Annotate Ruby methods with a @mcp.tool YARD tag and they become MCP server tools callable by an LLM agent. This write-up digs into all the details. Inspired by Python's FastMCP. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [Thanos](https://github.com/redneckbeard/thanos) - Four years ago, we first mentioned Thanos, an experimental Ruby to Go transpiler. Its author has recently wielded AI to 'finish the job'. I took it for a spin and it's very cool, but type inference demands and a lack of metaprogramming make many potential use cases a no-Go...? 😅. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
 
