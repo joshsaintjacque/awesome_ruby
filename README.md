@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 258
+- Resources: 259
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 70, guide: 12, project: 33, gem: 16, release: 114, talk: 2, news: 11
-- Provenance: 258 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 70, guide: 12, project: 33, gem: 16, release: 115, talk: 2, news: 11
+- Provenance: 259 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
 - [Rails & Hotwire](#rails-hotwire) (73)
 - [Web Frameworks & APIs](#web-frameworks-apis) (19)
-- [Gems & Libraries](#gems-libraries) (26)
+- [Gems & Libraries](#gems-libraries) (27)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (9)
 - [Performance & Observability](#performance-observability) (10)
@@ -203,6 +203,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Pstore 0.2.1](https://github.com/ruby/pstore) - – Ruby's official file persistence mechanism for objects. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [RDoc 7.2](https://github.com/ruby/rdoc/releases/tag/v7.2.0) - – Ruby's official documentation generation tool. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [re2 2.25: Ruby Bindings to Google's RE2 Regex Library](https://github.com/mudge/re2) - A safer alternative to backtracking regular expression engines. v2.25 adds a variety of new features including RE2.extract which does a match-and-reformat in one step (so you provide a source text, regex, and the desired output format including backreferences). _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [Redlock 2.1](https://github.com/leandromoreira/redlock-rb) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [Ruby-LSP 0.27 Beta 1](https://github.com/Shopify/ruby-lsp/releases/tag/v0.27.0.beta1) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Stoplight 5.8](https://github.com/bolshakov/stoplight/releases/tag/v5.8.0) - 🚦 Stoplight 5.8 – Ruby implementation of the circuit breaker pattern to gracefully handle failures in external dependencies. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Electrobun v1](https://blackboard.sh/blog/electrobun-v1) - is a new Bun-based way to build cross-platform desktop apps on top of the system webview, with app bundle sizes as low as 12MB. Something like this for Ruby would be awesome.. _(news; Ruby Weekly #788; seen 2026-02-19)_
