@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 422
+- Resources: 423
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 153, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 122 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 154, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 123 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (91)
+- [Gems & Libraries](#gems-libraries) (92)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
@@ -289,6 +289,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) - All of the code that runs on worldcubeassociation.org Stars: 386; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant Stars: 795; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [tobymao/18xx](https://github.com/tobymao/18xx) - A platform for playing 18xx games online! Stars: 354; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [untra/polyglot](https://github.com/untra/polyglot) - :abc: Multilingual and i18n support tool for Jekyll Blogs Stars: 494; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [usetrmnl/terminus](https://github.com/usetrmnl/terminus) - The flagship TRMNL BYOS application. Stars: 548; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) Stars: 8168; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [wikimedia/mediawiki-vagrant](https://github.com/wikimedia/mediawiki-vagrant) - A virtual MediaWiki development environment, built on Vagrant, VirtualBox, and Puppet. This is a mirror from https://gerrit.wikimedia.org. Stars: 69; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
