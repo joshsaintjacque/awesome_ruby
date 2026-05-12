@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 16
+- Resources: 17
 - Categories: 9
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 4, project: 1, gem: 6, release: 4, talk: 1
-- Provenance: 16 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 4, project: 1, gem: 6, release: 5, talk: 1
+- Provenance: 17 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (4)
+- [Ruby Language & Internals](#ruby-language-internals) (5)
 - [Rails & Hotwire](#rails-hotwire) (3)
 - [Web Frameworks & APIs](#web-frameworks-apis) (1)
 - [Gems & Libraries](#gems-libraries) (3)
@@ -35,6 +35,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Building a (Frontend) Framework-Agnostic Gem](https://newsletter.masilotti.com/p/on-building-a-framework-agnostic) - Let’s say you want your code to work alongside ERB, React, and Vue. There’s more than compatibility to contend with, as each approach has to feel right, which is the harder bit. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [A Maintainer's Guide to Ruby's Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) - Core team member hsbt explains how Ruby 3.2 and 3.3 are reaching their end, how Ruby versioning works generally, who maintains what, and what terms like ‘security maintenance’ mean in the context of a Ruby version’s lifecycle. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Coverband 6.2: Ruby Code Coverage, But in Production](https://github.com/danmayer/coverband) - SimpleCov is great for checking code coverage during testing, but Coverband takes the idea into production, checking live code usage with low performance overhead. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [JRuby 10.0.5.0](https://www.jruby.org/2026/04/06/jruby-10-0-5-0) - – The Ruby 3.4-compatible branch of JRuby gets a variety of bug fixes, adds formal Java 26 support, and JNR gains RISCv64 support. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Parallel 4.0: Parallel Processing Made Simple](https://github.com/grosser/parallel) - Run blocks of code in parallel processes, threads, or ractors using map, each, any?, and all?. v4.0 requires Ruby 3.3+ and adds ractor support for Ruby 4.x. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Rails & Hotwire
