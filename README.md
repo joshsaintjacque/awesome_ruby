@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 163
+- Resources: 164
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 79, talk: 1, news: 5
-- Provenance: 163 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 80, talk: 1, news: 5
+- Provenance: 164 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (9)
-- [Frontend, Assets & UI](#frontend-assets-ui) (13)
+- [Frontend, Assets & UI](#frontend-assets-ui) (14)
 - [Data, APIs & Integration](#data-apis-integration) (6)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (5)
@@ -216,6 +216,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Premailer 1.28](https://github.com/premailer/premailer) - ✉️ Premailer 1.28 – Inlines CSS into HTML emails and creates plain text alternatives. It's long been a part of our toolchain for Ruby Weekly. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems 4.0.9](https://blog.rubygems.org/2026/03/25/4.0.9-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [RubyGems and Bundler 4.0.7](https://blog.rubygems.org/2026/02/25/4.0.7-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [wxRuby3 v1.7.0](https://github.com/mcorino/wxRuby3/releases/tag/v1.7.0) - – Cross-platform GUI library for Ruby that uses native widgets via wxWidgets 3.2/3.3. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [download precompiled Ruby binaries](https://mise.jdx.dev/lang/ruby.html) - We recently mentioned that the mise version manager can now download precompiled Ruby binaries. Jeff Dickey, the creator of Mise has ▶️ gone on the Remote Ruby podcast to talk about the feature and Mise in general. _(news; Ruby Weekly #791; seen 2026-03-12)_
 
