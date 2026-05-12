@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 246
+- Resources: 247
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 66, guide: 12, project: 31, gem: 15, release: 110, talk: 2, news: 10
-- Provenance: 246 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 67, guide: 12, project: 31, gem: 15, release: 110, talk: 2, news: 10
+- Provenance: 247 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (41)
 - [Rails & Hotwire](#rails-hotwire) (70)
 - [Web Frameworks & APIs](#web-frameworks-apis) (17)
-- [Gems & Libraries](#gems-libraries) (24)
+- [Gems & Libraries](#gems-libraries) (25)
 - [Testing & Quality](#testing-quality) (15)
 - [Databases, Search & Storage](#databases-search-storage) (9)
 - [Performance & Observability](#performance-observability) (10)
@@ -181,6 +181,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [PicoRuby](https://picoruby.org) - is a tiny Ruby implementation for single chip microcontrollers, and someone's created a tiny IDE for it for the T-Deck Plus handheld device. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Ruby Is Not a Serious Programming Language](https://www.wired.com/story/ruby-is-not-a-serious-programming-language) - Remember back in December when WIRED published the widely-panned Ruby Is Not a Serious Programming Language? They're back at it, this time calling COBOL the 'Asbestos of Programming Languages'. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Ruby is officially taking part](https://rubycentral.org/news/ruby-participates-in-gsoc-2026) - in this year's Google Summer of Code. _(article; Ruby Weekly #790; seen 2026-03-05)_
+- [Ruby Users Forum](https://www.rubyforum.org) - Want to chat with other Rubyists old-school forum style? The Ruby Users Forum has just launched. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Rubycon Italy](https://rubycon.it) - 🇮🇹 Rubycon Italy, taking place this May 8, has just unveiled its schedule, written in Ruby itself! _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [super-technical look behind the scenes](https://bernsteinbear.com/blog/multiple-entry) - Max Bernstein, who works on ZJIT, shares a brief but super-technical look behind the scenes at just one of many design decisions taking place in the deepest parts of Ruby. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
