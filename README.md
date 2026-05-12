@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 98
+- Resources: 99
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 23, guide: 3, project: 9, gem: 9, release: 50, talk: 1, news: 3
-- Provenance: 98 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 23, guide: 3, project: 9, gem: 10, release: 50, talk: 1, news: 3
+- Provenance: 99 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (18)
-- [Rails & Hotwire](#rails-hotwire) (29)
+- [Rails & Hotwire](#rails-hotwire) (30)
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
 - [Gems & Libraries](#gems-libraries) (12)
 - [Testing & Quality](#testing-quality) (3)
@@ -75,6 +75,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [Building a Faster Bundler](https://railsatscale.com/2026-03-09-faster-bundler) - The Shopify team has been working on improvements to Bundler and RubyGems with the goal of reducing bundle install times. Increasing the HTTP connection pool size, parallel git clones, and optimizing hotspots in the codebase provide big wins, but they seek our help with another area in particular: precompiled gems. _(gem; Ruby Weekly #791; seen 2026-03-12)_
+- [How I Audit a Legacy Rails Codebase](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase) - A methodical walkthrough of how to approach an inherited codebase, including checking versions, scanning the Gemfile for red flags, reviewing the schema, and identifying perf hotspots. _(gem; Ruby Weekly #791; seen 2026-03-12)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [How ZJIT Removes Redundant Object Loads and Stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores) - ZJIT, optionally available in Ruby 4.0, is a new, alternative JIT compiler with the potential for being faster and easier to work on than YJIT over time. This article shows off some of how that potential is now bearing performance-shaped fruit. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Inertia.js 3.0](https://inertiajs.com) - – Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3. _(release; Ruby Weekly #794; seen 2026-04-02)_
