@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 59
+- Resources: 60
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 29, talk: 1, news: 3
-- Provenance: 59 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 30, talk: 1, news: 3
+- Provenance: 60 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (11)
-- [Rails & Hotwire](#rails-hotwire) (16)
+- [Rails & Hotwire](#rails-hotwire) (17)
 - [Web Frameworks & APIs](#web-frameworks-apis) (5)
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
@@ -64,6 +64,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1](https://rubyonrails.org/2026/3/23/Rails-Versions-7-2-3-1-8-0-4-1-and-8-1-2-1-have-been-released) - Lots of minor Rails releases this week: Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1 to fix a variety of security issues, and 8.0.5 and 8.1.3 as regular bugfix releases. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby Native 0.4: Your Rails App in the App Store](https://rubynative.com) - Think Hotwire Native but without ever having to touch Swift, yet you still get native controls, navbars, menus, and iOS 26 styling. It’s now free right up to using TestFlight with your first 100 users. You only pay once you want to go live in the App Store. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Spectator Sport 0.3](https://github.com/bensheldon/spectator_sport) - 🎥 Spectator Sport 0.3 – Record and replay user browser sessions in a self-hosted Rails engine. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [The Ultimate Turbo Modal for Rails (UTMR) 3.0](https://github.com/cmer/ultimate_turbo_modal) - – Tailwind or vanilla CSS modal dialog implementation for modern Rails apps. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Teaching Claude Code to Upgrade Rails](https://www.youtube.com/watch?v=_BmHYkiDRYo) - 📺 Teaching Claude Code to Upgrade Rails – A lightning talk from Artificial Ruby, a New York-based Ruby group. Ernesto Tagwerker. _(talk; Ruby Weekly #795; seen 2026-04-09)_
 - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit) - The ZJIT team has added Perfetto tracing support to visualize and query slow events in Ruby's next-gen JIT. Deep technical content from the people building Ruby's performance future. _(news; Ruby Weekly #794; seen 2026-04-02)_
 
