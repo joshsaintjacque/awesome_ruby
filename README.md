@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 55
+- Resources: 56
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 12, guide: 1, project: 4, gem: 7, release: 27, talk: 1, news: 3
-- Provenance: 55 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 12, guide: 2, project: 4, gem: 7, release: 27, talk: 1, news: 3
+- Provenance: 56 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (11)
-- [Rails & Hotwire](#rails-hotwire) (14)
+- [Rails & Hotwire](#rails-hotwire) (15)
 - [Web Frameworks & APIs](#web-frameworks-apis) (5)
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
@@ -56,6 +56,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Sam Ruby experiments with running 'Rails' on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - , Erlang's virtual machine (as also used by Elixir). It's not quite Rails as you'd expect though. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Teach Rails Irregular Plurals with Inflections](https://andycroll.com/ruby/teach-rails-irregular-plurals-with-inflections) - 📄 Teach Rails Irregular Plurals with Inflections — So criterion becomes criteria, say. Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Building Browser-Based Ruby Tutorials with Tutorialkit.rb](https://evilmartians.com/chronicles/tutorialkit-rb-interactive-ruby-tutorials-entirely-in-the-browser) - TutorialKit.rb is a toolkit for building interactive Ruby (and Rails!) tutorials that run in-browser with WebAssembly. This post tours building your own experiences, shares working examples right in the post, and explains the tech behind it all, including a custom Ruby WASM build that can run Rails. _(guide; Ruby Weekly #793; seen 2026-03-26)_
+- [Deploying a Rails 8 App with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal) - 📄 Deploying a Rails 8 App with Kamal on Hetzner – An exhaustive step-by-step walkthrough of the process. Mooktakim Ahmed. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Inertia.js 3.0](https://inertiajs.com) - – Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3. _(release; Ruby Weekly #794; seen 2026-04-02)_
