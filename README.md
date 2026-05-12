@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 408
+- Resources: 409
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 140, gem: 20, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 108 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 141, gem: 20, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 109 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -27,7 +27,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
-- [Security & Authentication](#security-authentication) (9)
+- [Security & Authentication](#security-authentication) (10)
 - [DevOps & Deployment](#devops-deployment) (11)
 - [AI & LLMs](#ai-llms) (20)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
@@ -366,6 +366,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Security & Authentication
 
 - [Four Common Security Risks When Vibe Coding Your App](https://evilmartians.com/chronicles/four-most-common-security-risks-when-vibe-coding-your-app) - 📄 Four Common Security Risks When Vibe Coding Your App Nina Torgunakova (Evil Martians). _(article; Ruby Weekly #788; seen 2026-02-19)_
+- [dradis/dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Collaboration and reporting for IT Security teams Stars: 803; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Enclave: An Mruby Sandbox for Running Arbitrary Ruby Code](https://beautifulruby.com/code/enclave) - If you don’t want to write explicit functions for each LLM-available tool, letting an LLM write and execute its own code is an option, but has security risks, which Enclave addresses: "Enclave gives you eval without the blast radius." GitHub repo. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [hackclub/auth](https://github.com/hackclub/auth) - a better basket to put all your eggs in Stars: 75; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. Stars: 2798; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
