@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 452
+- Resources: 453
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 182, gem: 22, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 152 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 183, gem: 22, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 153 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (98)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (105)
-- [Testing & Quality](#testing-quality) (20)
+- [Testing & Quality](#testing-quality) (21)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (13)
@@ -345,6 +345,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Writing Custom RuboCop Rules in 2026](https://evilmartians.com/chronicles/writing-custom-rubocop-rules-in-2026) - Creating custom ‘cops’ has never been simpler, thanks to RuboCop’s plugin system. This post focuses on workflow and fitting with ‘the RuboCop way’, rather than what you might actually implement. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [FastResize: A High Performance Image Resizing Library](https://github.com/tranhuucanh/fast_resize) - 🖼️ FastResize: A High Performance Image Resizing Library — With the boast of being ‘the fastest image resizing library on the planet’, I had to give this a try. It supports resizing JPEG, PNG, WebP and BMP in a variety of ways and worked well in my own testing. _(project; Ruby Weekly #783; seen 2026-01-15)_
 - [noraj/haiti](https://github.com/noraj/haiti) - :key: Hash type identifier (CLI & lib) Stars: 982; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [o19s/quepid](https://github.com/o19s/quepid) - Improve your OpenSearch, Elasticsearch, Solr, Vectara, Algolia and Custom Search search quality. Stars: 341; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. Stars: 2194; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [RuboCop](https://github.com/rubocop/rubocop) - Bozhidar Batsov, the creator of RuboCop, has created neocaml, an Emacs package for OCaml developers. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [RuboCop's role in an AI/agentic development environment.](https://github.com/rubocop/rubocop/discussions/14910) - A discussion has begun about RuboCop's role in an AI/agentic development environment. _(project; Ruby Weekly #789; seen 2026-02-26)_
