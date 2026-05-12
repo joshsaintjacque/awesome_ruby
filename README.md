@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 448
+- Resources: 449
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 179, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 148 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 180, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 149 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -31,7 +31,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (13)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
-- [Data, APIs & Integration](#data-apis-integration) (15)
+- [Data, APIs & Integration](#data-apis-integration) (16)
 - [Learning, Articles & Talks](#learning-articles-talks) (5)
 - [Community, News & Events](#community-news-events) (17)
 
@@ -487,6 +487,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) - Datadog's client library for Ruby Stars: 394; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [googleapis/google-cloud-ruby](https://github.com/googleapis/google-cloud-ruby) - Google Cloud Client Library for Ruby Stars: 1406; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [NatLabRockies/OpenStudio-HPXML](https://github.com/NatLabRockies/OpenStudio-HPXML) - Modeling of residential buildings in EnergyPlus using OpenStudio/HPXML. Stars: 66; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework Stars: 38157; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation Stars: 858; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [temporalio/sdk-ruby](https://github.com/temporalio/sdk-ruby) - Temporal Ruby SDK Stars: 195; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [tryzealot/zealot](https://github.com/tryzealot/zealot) - Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 Stars: 1291; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
