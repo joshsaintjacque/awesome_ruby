@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 409
+- Resources: 410
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 141, gem: 20, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 109 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 141, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 110 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (94)
-- [Web Frameworks & APIs](#web-frameworks-apis) (33)
+- [Web Frameworks & APIs](#web-frameworks-apis) (34)
 - [Gems & Libraries](#gems-libraries) (82)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
@@ -203,6 +203,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [zooniverse/panoptes](https://github.com/zooniverse/panoptes) - Zooniverse API to support user defined volunteer research projects Stars: 111; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [open-telemetry/opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) - OpenTelemetry Ruby API & SDK, and related gems Stars: 571; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
+- [rsim/ruby-plsql](https://github.com/rsim/ruby-plsql) - ruby-plsql gem provides simple Ruby API for calling Oracle PL/SQL procedures. It could be used both for accessing Oracle PL/SQL API procedures in legacy applications as well as it could be used to create PL/SQL unit tests using Ruby testing libraries. Stars: 139; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [excon 1.4](https://github.com/excon/excon) - – Fast HTTP 1.1 client library. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [Gems 2.0](https://github.com/rubygems/gems) - – Ruby wrapper for the RubyGems.org API. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Grape 3.1](https://github.com/ruby-grape/grape) - – Opinionated framework for building REST-like APIs. _(release; Ruby Weekly #785; seen 2026-01-29)_
