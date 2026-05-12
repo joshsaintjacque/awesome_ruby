@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 197
+- Resources: 198
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 46, guide: 7, project: 27, gem: 13, release: 95, talk: 1, news: 8
-- Provenance: 197 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 47, guide: 7, project: 27, gem: 13, release: 95, talk: 1, news: 8
+- Provenance: 198 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (54)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
 - [Gems & Libraries](#gems-libraries) (20)
-- [Testing & Quality](#testing-quality) (11)
+- [Testing & Quality](#testing-quality) (12)
 - [Databases, Search & Storage](#databases-search-storage) (5)
 - [Performance & Observability](#performance-observability) (8)
 - [Security & Authentication](#security-authentication) (6)
@@ -172,6 +172,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Testing & Quality
 
 - [A Testing Anti-Pattern: Distracting Setup Data](https://www.saturnci.com/testing-anti-pattern-distracting-setup-data.html) - 📄 A Testing Anti-Pattern: Distracting Setup Data Jason Swett. _(article; Ruby Weekly #795; seen 2026-04-09)_
+- [Don't Throw the Specs Out with the Factories](https://beautifulruby.com/code/fixturebot) - In Don't Throw the Specs Out with the Factories, Brad Gessler nails this distinction and, more importantly, takes steps to improve things! He presents FixtureBot, a new approach to getting "the speed of fixtures with the syntactic sugar of factories", and pushes back on why RSpec is getting a bad rap. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [Migrating 9,000 Tests from RSpec to Minitest with AI Agents](https://augmentedcode.dev/multi-agent-pipeline-minitest-migration) - 📄 Migrating 9,000 Tests from RSpec to Minitest with AI Agents Viktor Schmidt. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Writing Custom RuboCop Rules in 2026](https://evilmartians.com/chronicles/writing-custom-rubocop-rules-in-2026) - Creating custom ‘cops’ has never been simpler, thanks to RuboCop’s plugin system. This post focuses on workflow and fitting with ‘the RuboCop way’, rather than what you might actually implement. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [RuboCop](https://github.com/rubocop/rubocop) - Bozhidar Batsov, the creator of RuboCop, has created neocaml, an Emacs package for OCaml developers. _(project; Ruby Weekly #790; seen 2026-03-05)_
