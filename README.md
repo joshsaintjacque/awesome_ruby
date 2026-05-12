@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 474
+- Resources: 475
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 201, gem: 25, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 174 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 202, gem: 25, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 175 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
-- [Rails & Hotwire](#rails-hotwire) (105)
+- [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
 - [Gems & Libraries](#gems-libraries) (111)
 - [Testing & Quality](#testing-quality) (21)
@@ -153,6 +153,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails Stars: 58425; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [RailsEventStore/rails_event_store](https://github.com/RailsEventStore/rails_event_store) - A Ruby implementation of an Event Store based on Active Record Stars: 1530; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rsim/oracle-enhanced](https://github.com/rsim/oracle-enhanced) - Oracle enhaced adapter for ActiveRecord Stars: 565; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [rspec/rspec-rails](https://github.com/rspec/rspec-rails) - RSpec for Rails 7+ Stars: 5255; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance. Stars: 5195; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Shopify/app_profiler](https://github.com/Shopify/app_profiler) - Collect performance profiles for your Rails application. Stars: 267; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
