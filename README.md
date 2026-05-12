@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 47
+- Resources: 48
 - Categories: 12
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, guide: 1, project: 2, gem: 7, release: 23, talk: 1, news: 2
-- Provenance: 47 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, guide: 1, project: 2, gem: 7, release: 24, talk: 1, news: 2
+- Provenance: 48 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (9)
+- [Ruby Language & Internals](#ruby-language-internals) (10)
 - [Rails & Hotwire](#rails-hotwire) (13)
 - [Web Frameworks & APIs](#web-frameworks-apis) (4)
 - [Gems & Libraries](#gems-libraries) (7)
@@ -40,6 +40,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [A Maintainer's Guide to Ruby's Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) - Core team member hsbt explains how Ruby 3.2 and 3.3 are reaching their end, how Ruby versioning works generally, who maintains what, and what terms like ‘security maintenance’ mean in the context of a Ruby version’s lifecycle. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Coverband 6.2: Ruby Code Coverage, But in Production](https://github.com/danmayer/coverband) - SimpleCov is great for checking code coverage during testing, but Coverband takes the idea into production, checking live code usage with low performance overhead. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [JRuby 10.0.5.0](https://www.jruby.org/2026/04/06/jruby-10-0-5-0) - – The Ruby 3.4-compatible branch of JRuby gets a variety of bug fixes, adds formal Java 26 support, and JNR gains RISCv64 support. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [Nokolexbor 0.7: A Faster Drop-in Replacement for Nokogiri](https://github.com/serpapi/nokolexbor) - A Lexbor-based HTML5 parser that’s multiple times faster than Nokogiri. Ruby 2.7 is dropped, but Ruby 4.0 is supported and gets precompiled gems (installed in <4 seconds on my machine). _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Parallel 4.0: Parallel Processing Made Simple](https://github.com/grosser/parallel) - Run blocks of code in parallel processes, threads, or ractors using map, each, any?, and all?. v4.0 requires Ruby 3.3+ and adds ractor support for Ruby 4.x. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [rbspy v0.45](https://github.com/rbspy/rbspy) - 🔎 rbspy v0.45 – Sampling profiler for Ruby processes that can be used without restarting them. Now supports Ruby 3.2.11 and 3.3.11. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
