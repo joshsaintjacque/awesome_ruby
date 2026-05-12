@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 138
+- Resources: 139
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 65, talk: 1, news: 5
-- Provenance: 138 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 66, talk: 1, news: 5
+- Provenance: 139 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (6)
-- [Frontend, Assets & UI](#frontend-assets-ui) (8)
+- [Frontend, Assets & UI](#frontend-assets-ui) (9)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (5)
@@ -193,6 +193,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems 4.0.9](https://blog.rubygems.org/2026/03/25/4.0.9-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [wxRuby3 v1.7.0](https://github.com/mcorino/wxRuby3/releases/tag/v1.7.0) - – Cross-platform GUI library for Ruby that uses native widgets via wxWidgets 3.2/3.3. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [download precompiled Ruby binaries](https://mise.jdx.dev/lang/ruby.html) - We recently mentioned that the mise version manager can now download precompiled Ruby binaries. Jeff Dickey, the creator of Mise has ▶️ gone on the Remote Ruby podcast to talk about the feature and Mise in general. _(news; Ruby Weekly #791; seen 2026-03-12)_
 
 ## Data, APIs & Integration
