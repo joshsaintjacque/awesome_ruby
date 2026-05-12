@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 289
+- Resources: 290
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 80, guide: 13, project: 36, gem: 16, release: 131, talk: 2, news: 11
-- Provenance: 289 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 81, guide: 13, project: 36, gem: 16, release: 131, talk: 2, news: 11
+- Provenance: 290 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (45)
+- [Ruby Language & Internals](#ruby-language-internals) (46)
 - [Rails & Hotwire](#rails-hotwire) (81)
 - [Web Frameworks & APIs](#web-frameworks-apis) (21)
 - [Gems & Libraries](#gems-libraries) (36)
@@ -41,6 +41,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking](https://bugs.ruby-lang.org/issues/21930) - 📄 Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking Ruby Issue Tracker. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [How We Fixed YAML Comment Preservation in Ruby](https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it) - Discourse sponsored Kevin Newton to stabilize Psych::Pure, a pure-Ruby alternative to the Psych YAML parser, in order to solve some of Discourse’s long standing requirements, such as needing to maintain comments in YAML files. This work is ultimately good news for all of us. _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [JSLinux](https://bellard.org/jslinux) - is Fabrice Bellard's JavaScript-powered Linux VM that runs in the browser. It's not new, but it now supports x86_64. I was happy to see Ruby is ready to go, too, if you drop into this full Alpine Linux environment, though irb is broken, alas. _(article; Ruby Weekly #791; seen 2026-03-12)_
+- [TruffleRuby 33: The High Performance, GraalVM-Based Ruby Implementation](https://truffleruby.dev/blog/truffleruby-33-is-released) - Healthy languages have multiple implementations, and TruffleRuby, originally created by the late Chris Seaton, is celebrating its 13th birthday with both a major release and new web site. v33 boasts it's ‘the fastest and easiest Ruby to install' – a claim I just successfully tested. _(article; Ruby Weekly #783; seen 2026-01-15)_
 - [Use StringInquirer for Readable Predicate Methods](https://andycroll.com/ruby/use-stringinquirer-for-readable-predicate-methods) - 📄 Use StringInquirer for Readable Predicate Methods – e.g. status.pending? returns true if status == "pending" Andy Croll. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [Falcon: A High-Performance Web Server for Ruby](https://socketry.github.io/falcon) - A multi-process, multi-fiber rack-compatible HTTP server built on top of async, async-container and async-http. It’s been a lonnng time since we mentioned this, but it’s now serving most of Shopify’s traffic so you know it can scale. GitHub repo and a getting started guide. _(guide; Ruby Weekly #787; seen 2026-02-12)_
 - [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone) - 😍 Shades of Halftone is a gorgeously detailed walkthrough of creating pixelation, dithering, and halftone printing effects using GLSL and React Three Fiber. So aesthetic. _(guide; Ruby Weekly #787; seen 2026-02-12)_
