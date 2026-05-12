@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 323
+- Resources: 324
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 59, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 23 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 60, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 24 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -33,7 +33,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Frontend, Assets & UI](#frontend-assets-ui) (22)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (3)
-- [Community, News & Events](#community-news-events) (11)
+- [Community, News & Events](#community-news-events) (12)
 
 ## Ruby Language & Internals
 
@@ -389,6 +389,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Community, News & Events
 
 - [The Ruby Runway: A RubyConf Pitch Competition](https://rubycentral.teamtailor.com/jobs/6963879-rubyconf-pitch-competition-the-ruby-runway) - RubyConf has launched a competition for Ruby-powered startups to take the stage at RubyConf and compete for various cash prizes and awards. You need to represent a business using Ruby at its core, and not have raised more than $500k so far. The submission deadline is February 28 — and if you can't enter, RubyConf is looking for reviewers and judges for the entries. _(article; Ruby Weekly #785; seen 2026-01-29)_
+- [bborn/lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. Stars: 319; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. Stars: 47010; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion Stars: 4668; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Four Months of Ruby Central Moving Ruby Backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward) - If you thought the Ruby Central/Bundler incident of 2025 was all resolved, think again. André’s not happy with Ruby Central's answers so far, and suggests how everyone can help address the situation, including using independent projects like rv and gem.coop. _(gem; Ruby Weekly #790; seen 2026-03-05)_
