@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 54
+- Resources: 55
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, guide: 1, project: 4, gem: 7, release: 27, talk: 1, news: 3
-- Provenance: 54 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 12, guide: 1, project: 4, gem: 7, release: 27, talk: 1, news: 3
+- Provenance: 55 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (1)
 - [AI & LLMs](#ai-llms) (2)
 - [Frontend, Assets & UI](#frontend-assets-ui) (4)
-- [Data, APIs & Integration](#data-apis-integration) (2)
+- [Data, APIs & Integration](#data-apis-integration) (3)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (3)
 
@@ -114,6 +114,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Data, APIs & Integration
 
+- [Transfer Manager Directory Support for AWS SDK for Ruby](https://aws.amazon.com/blogs/developer/transfer-manager-directory-support-for-aws-sdk-for-ruby) - 📄 Transfer Manager Directory Support for AWS SDK for Ruby – The AWS SDK for Ruby Transfer Manager now supports directory uploads and downloads. Juli Tera (AWS). _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Bunny 3.0/3.1](https://github.com/ruby-amqp/bunny) - – RabbitMQ client library. Here's what changed in v3.0. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Wombat 3.3](https://github.com/felipecsl/wombat) - – Ruby DSL for scraping pages and parsing structured data. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
