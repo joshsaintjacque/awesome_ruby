@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 171
+- Resources: 172
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 42, guide: 5, project: 25, gem: 11, release: 82, talk: 1, news: 5
-- Provenance: 171 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 42, guide: 5, project: 25, gem: 11, release: 83, talk: 1, news: 5
+- Provenance: 172 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (31)
-- [Rails & Hotwire](#rails-hotwire) (46)
+- [Rails & Hotwire](#rails-hotwire) (47)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (9)
@@ -106,6 +106,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Formtastic 6.0](https://github.com/formtastic/formtastic/releases/tag/v6.0.0) - – Build accessible, easily-stylable forms in Rails apps. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [How ZJIT Removes Redundant Object Loads and Stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores) - ZJIT, optionally available in Ruby 4.0, is a new, alternative JIT compiler with the potential for being faster and easier to work on than YJIT over time. This article shows off some of how that potential is now bearing performance-shaped fruit. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Inertia.js 3.0](https://inertiajs.com) - – Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [props_template 1.0: A High-Performance Jbuilder Replacement](https://thoughtbot.com/blog/props_template-1-0-a-high-performance-more-opinionated-jbuilder-replacement) - A JSON serializer that gains performance from what it adds and takes away, and for that, we give it, um, props. Jokes aside, there are some interesting optimizations in here if you’re producing JSON from Rails apps. (GitHub repo.). _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [Rage 1.22](https://github.com/rage-rb/rage) - – High-performance fiber-based Rails-compatible framework. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Rage: The Modern, Real-Time Ruby Framework](https://rage-rb.dev) - We don’t mention Rage enough! 😅 It’s a high-performance fiber-based framework suited for concurrent workloads involving WebSockets, real-time communication, async jobs, etc. and it’s Rails compatible! This week’s v1.21.0 release makes it easier to adopt with an official set of agent skills to use. GitHub repo. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1](https://rubyonrails.org/2026/3/23/Rails-Versions-7-2-3-1-8-0-4-1-and-8-1-2-1-have-been-released) - Lots of minor Rails releases this week: Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1 to fix a variety of security issues, and 8.0.5 and 8.1.3 as regular bugfix releases. _(release; Ruby Weekly #793; seen 2026-03-26)_
