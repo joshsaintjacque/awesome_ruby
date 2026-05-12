@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 149
+- Resources: 150
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 40, guide: 4, project: 18, gem: 11, release: 70, talk: 1, news: 5
-- Provenance: 149 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 40, guide: 4, project: 18, gem: 11, release: 71, talk: 1, news: 5
+- Provenance: 150 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (28)
+- [Ruby Language & Internals](#ruby-language-internals) (29)
 - [Rails & Hotwire](#rails-hotwire) (41)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
@@ -46,6 +46,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [A Maintainer's Guide to Ruby's Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) - Core team member hsbt explains how Ruby 3.2 and 3.3 are reaching their end, how Ruby versioning works generally, who maintains what, and what terms like ‘security maintenance’ mean in the context of a Ruby version’s lifecycle. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Clamp 1.5: A Minimal CLI Utility Framework](https://github.com/mdub/clamp) - A mature CLI framework with all the options you’d expect to “handle all the boring stuff”, along with a nice, idiomatic Ruby DSL syntax. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [Coverband 6.2: Ruby Code Coverage, But in Production](https://github.com/danmayer/coverband) - SimpleCov is great for checking code coverage during testing, but Coverband takes the idea into production, checking live code usage with low performance overhead. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [Gem in a Box 3.0: Simple, Personal Gem Hosting](https://github.com/geminabox/geminabox) - 💎 Gem in a Box 3.0: Simple, Personal Gem Hosting — Fancy having your own, personal equivalent of rubygems.org or gem.coop? Gem in a Box will get you there, both for hosting and pushing your own gems, as well as proxying gems from elsewhere. It’s a Ruby app but you can deploy it with Docker, if you prefer. v3.0 adds Ruby 4.0 support and requires Ruby 3.0+. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [has just been announced](https://www.ruby-lang.org/en/news/2026/03/05/buffer-overflow-zlib-cve-2026-27820) - ⚠️ A buffer overflow vulnerability has just been announced in Zlib::GzipReader - update the zlib gem to v3.2.3 (or v3.0.1/3.1.2 on Ruby 3.2/3.3 respectively). _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [Herb v0.9: The Modern HTML + ERB Toolchain](https://herb-tools.dev/blog/whats-new-in-herb-v0-9) - Herb is an HTML+ERB toolchain (linter, rendering engine, LSP, formatter) supporting numerous languages (not just Ruby). v0.9 is a huge release with Action View tag helper support, a new Herb.parse_ruby API, a new default ‘strict’ parsing option, better error messages, and more. Herb's site has a new Prism playground which supports both Ruby and HTML+ERB. It's a great time to see what the Herb ecosystem offers. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [JRuby 10.0.4.0 Released](https://www.jruby.org/2026/03/04/jruby-10-0-4-0.html) - There’s a little longer to wait for the Ruby 4 compatible JRuby 10.1 (well, technically you can install a nightly build and try it now), but for now we get the latest in the Ruby 3.4 compatible line to enjoy. _(release; Ruby Weekly #790; seen 2026-03-05)_
