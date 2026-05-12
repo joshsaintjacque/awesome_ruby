@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 202
+- Resources: 203
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 51, guide: 7, project: 27, gem: 13, release: 95, talk: 1, news: 8
-- Provenance: 202 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 51, guide: 7, project: 27, gem: 13, release: 96, talk: 1, news: 8
+- Provenance: 203 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (55)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (21)
-- [Testing & Quality](#testing-quality) (12)
+- [Testing & Quality](#testing-quality) (13)
 - [Databases, Search & Storage](#databases-search-storage) (5)
 - [Performance & Observability](#performance-observability) (8)
 - [Security & Authentication](#security-authentication) (6)
@@ -185,6 +185,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Thanos](https://github.com/redneckbeard/thanos) - Four years ago, we first mentioned Thanos, an experimental Ruby to Go transpiler. Its author has recently wielded AI to 'finish the job'. I took it for a spin and it's very cool, but type inference demands and a lack of metaprogramming make many potential use cases a no-Go...? 😅. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [HAML-Lint v0.70.0](https://github.com/sds/haml-lint) - – Keep your HAML files clean and readable. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
+- [RBS::Inline 0.13](https://github.com/soutaro/rbs-inline) - – Embed type declarations into Ruby code as comments. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [RuboCop 1.85](https://github.com/rubocop/rubocop/releases/tag/v1.85.0) - – Static code analyzer and formatter. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [Typelizer 0.8](https://github.com/skryukov/typelizer/releases/tag/v0.8.0) - – TypeScript type generator for Ruby serializers. _(release; Ruby Weekly #788; seen 2026-02-19)_
 
