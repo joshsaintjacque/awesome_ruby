@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 295
+- Resources: 296
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 83, guide: 14, project: 36, gem: 16, release: 133, talk: 2, news: 11
-- Provenance: 295 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 37, gem: 16, release: 133, talk: 2, news: 11
+- Provenance: 296 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (82)
 - [Web Frameworks & APIs](#web-frameworks-apis) (22)
 - [Gems & Libraries](#gems-libraries) (37)
-- [Testing & Quality](#testing-quality) (16)
+- [Testing & Quality](#testing-quality) (17)
 - [Databases, Search & Storage](#databases-search-storage) (13)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
@@ -242,6 +242,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Migrating 9,000 Tests from RSpec to Minitest with AI Agents](https://augmentedcode.dev/multi-agent-pipeline-minitest-migration) - 📄 Migrating 9,000 Tests from RSpec to Minitest with AI Agents Viktor Schmidt. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [use it as a GitHub Actions runner for their CI/CD, getting some big wins.](https://theguardian.engineering/blog/faster-cheaper-messier-lessons-from-switch-to-self-hosted-github-actions) - The Guardian had a spare Mac Mini in their office and decided to use it as a GitHub Actions runner for their CI/CD, getting some big wins. It's probably running OpenClaw now though. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Writing Custom RuboCop Rules in 2026](https://evilmartians.com/chronicles/writing-custom-rubocop-rules-in-2026) - Creating custom ‘cops’ has never been simpler, thanks to RuboCop’s plugin system. This post focuses on workflow and fitting with ‘the RuboCop way’, rather than what you might actually implement. _(article; Ruby Weekly #788; seen 2026-02-19)_
+- [FastResize: A High Performance Image Resizing Library](https://github.com/tranhuucanh/fast_resize) - 🖼️ FastResize: A High Performance Image Resizing Library — With the boast of being ‘the fastest image resizing library on the planet’, I had to give this a try. It supports resizing JPEG, PNG, WebP and BMP in a variety of ways and worked well in my own testing. _(project; Ruby Weekly #783; seen 2026-01-15)_
 - [RuboCop](https://github.com/rubocop/rubocop) - Bozhidar Batsov, the creator of RuboCop, has created neocaml, an Emacs package for OCaml developers. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [RuboCop's role in an AI/agentic development environment.](https://github.com/rubocop/rubocop/discussions/14910) - A discussion has begun about RuboCop's role in an AI/agentic development environment. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [SchnellMCP: A Ruby-Native MCP Server Experience](https://rubyelders.com/writings/2026-02-schnellmcp.html) - Annotate Ruby methods with a @mcp.tool YARD tag and they become MCP server tools callable by an LLM agent. This write-up digs into all the details. Inspired by Python's FastMCP. _(project; Ruby Weekly #789; seen 2026-02-26)_
