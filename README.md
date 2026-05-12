@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 144
+- Resources: 145
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 37, guide: 4, project: 17, gem: 11, release: 69, talk: 1, news: 5
-- Provenance: 144 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 38, guide: 4, project: 17, gem: 11, release: 69, talk: 1, news: 5
+- Provenance: 145 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (6)
-- [Frontend, Assets & UI](#frontend-assets-ui) (10)
+- [Frontend, Assets & UI](#frontend-assets-ui) (11)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (5)
@@ -194,6 +194,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Kiq: An Official TUI Admin Interface for Sidekiq](https://www.mikeperham.com/2026/03/10/sidekiq-in-the-terminal) - Citing renewed interest in TUIs, Mike has created kiq where you can monitor and (mostly) manage Sidekiq in the terminal. It’s built on top of RatatuiRuby. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Locutus](https://locutus.io) - is a project that ports the standard libraries of fifteen different languages to TypeScript. The Ruby support is quite minimal for now, but it's an interesting idea and you're encouraged to implement more. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Ruby Deserves Beautiful Documentation](https://paolino.me/ruby-deserves-beautiful-documentation) - A Jekyll theme that emulates the much-admired docs theme that VitePress offers, minus all the JavaScript. The project's homepage is its own example of the output. _(article; Ruby Weekly #795; seen 2026-04-09)_
+- [use newline and tab characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls) - Did you know you can use newline and tab characters in URLs in HTML and they'll be ignored? _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [What To Know in JavaScript (2026 Edition)](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition) - Keen to brush up your knowledge of modern JavaScript? Chris Coyier's What To Know in JavaScript (2026 Edition) tours the latest language features, plus the state of the most popular runtimes and build tools. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
