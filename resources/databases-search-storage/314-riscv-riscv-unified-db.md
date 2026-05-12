@@ -1,9 +1,9 @@
 ---
-title: riscv/riscv-unified-db
-url: https://github.com/riscv/riscv-unified-db
-category: Databases, Search & Storage
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools Stars: 170; pushed 2026-05-12.'
+title: 'Perron 1.0: A Rails-Based Static Site Generator'
+url: https://railsdesigner.com/perron-1-0
+category: Rails & Hotwire
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: A static site generator that lets you keep using Rails idioms but over content stored as Markdown, CSV, JSON, or YAML, with live reload via DOM morphing in development. You get feeds out of the box, too.
 ---

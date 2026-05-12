@@ -1,9 +1,9 @@
 ---
-title: WikiEducationFoundation/WikiEduDashboard
-url: https://github.com/WikiEducationFoundation/WikiEduDashboard
-category: Learning, Articles & Talks
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Wiki Education Foundation''s Wikipedia course dashboard system Stars: 427; pushed 2026-05-12.'
+title: 'Ruby Concurrency: What Actually Happens'
+url: https://paolino.me/ruby-concurrency-what-actually-happens
+category: Ruby Language & Internals
+type: guide
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: A from-the-ground-up tour of processes, Ractors, threads, and fibers. Concurrency is a common source of confusion, but this guide helps clear up when to reach for which primitive, complete with benchmarks, sequence diagrams, and traces of what happens behind the scenes.
 ---

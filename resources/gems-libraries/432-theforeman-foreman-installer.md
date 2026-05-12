@@ -1,9 +1,9 @@
 ---
-title: theforeman/foreman-installer
-url: https://github.com/theforeman/foreman-installer
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Automated Foreman installation and configuration Stars: 131; pushed 2026-05-12.'
+title: Monitoring Cron Jobs with Whenever
+url: https://gorails.com/episodes/monitoring-cron-jobs-with-whenever
+category: Performance & Observability
+type: article
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: "\U0001F4FA Monitoring Cron Jobs with Whenever – A 12-minute screencast. Chris Oliver (GoRails)"
 ---

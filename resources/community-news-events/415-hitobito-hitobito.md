@@ -1,9 +1,9 @@
 ---
-title: hitobito/hitobito
-url: https://github.com/hitobito/hitobito
-category: Community, News & Events
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'A web application to manage complex group hierarchies with members, events and a lot more. Stars: 468; pushed 2026-05-12.'
+title: SuperDiff v0.19.0
+url: https://github.com/splitwise/super_diff
+category: Testing & Quality
+type: release
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: "– Get a clear view of differences between complex data structures in RSpec."
 ---

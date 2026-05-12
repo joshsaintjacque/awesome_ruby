@@ -1,9 +1,9 @@
 ---
-title: simpledotorg/simple-server
-url: https://github.com/simpledotorg/simple-server
-category: DevOps & Deployment
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'The web app behind Simple.org Stars: 78; pushed 2026-05-12.'
+title: Remote Ruby on Ruby Central Restructuring
+url: https://www.buzzsprout.com/2260490/episodes/19046775
+category: Community, News & Events
+type: news
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "\U0001F3A7 The Remote Ruby podcast discusses the recent news around Ruby Central's restructuring."
 ---

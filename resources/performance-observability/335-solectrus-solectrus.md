@@ -1,9 +1,9 @@
 ---
-title: solectrus/solectrus
-url: https://github.com/solectrus/solectrus
-category: Performance & Observability
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Self-hosted photovoltaic dashboard for monitoring solar production, consumption, battery usage, grid exchange, and financial performance. Stars: 156; pushed 2026-05-12.'
+title: RubyKaigi 2026 Attendee Takeaways
+url: https://www.reddit.com/r/ruby/comments/1sug6r3/my_rubykaigi_2026_takeaways/oi0i3ie
+category: Community, News & Events
+type: news
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "\U0001F1EF\U0001F1F5 On Reddit, a RubyKaigi attendee wrote up what the event was like and what topics came up. The final verdict? It was a \"10/10\" Ruby event."
 ---

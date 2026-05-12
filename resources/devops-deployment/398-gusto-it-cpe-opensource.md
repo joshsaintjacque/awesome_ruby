@@ -1,9 +1,9 @@
 ---
-title: Gusto/it-cpe-opensource
-url: https://github.com/Gusto/it-cpe-opensource
-category: DevOps & Deployment
+title: Frozen string literals are to be enabled by default
+url: https://github.com/rails/rails/pull/57252
+category: Rails & Hotwire
 type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Tools used by the CPE team at Gusto to manage our endpoints and software deployment systems. Stars: 68; pushed 2026-05-12.'
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: "❄️ Frozen string literals are to be enabled by default in new Rails apps. It's not the default in Ruby itself, despite years of discussion, but its time is coming."
 ---

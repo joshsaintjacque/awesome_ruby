@@ -1,9 +1,9 @@
 ---
-title: alphanodes/additionals
-url: https://github.com/alphanodes/additionals
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins. Stars: 160; pushed 2026-05-12.'
+title: A New Chapter for Ruby Central
+url: https://rubycentral.org/news/a-new-chapter-for-ruby-central
+category: Community, News & Events
+type: news
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: After a year in post as Executive Director, Shan Cureton has left Ruby Central, along with its CFO, as the organization finds itself in financial jeopardy. When one door closes, another opens, however, and some positive, long-needed changes are coming in and you can get involved.
 ---

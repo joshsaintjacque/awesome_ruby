@@ -1,9 +1,9 @@
 ---
-title: Growstuff/growstuff
-url: https://github.com/Growstuff/growstuff
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Open data project for small-scale food growers Stars: 468; pushed 2026-05-12.'
+title: Net::IMAP 0.6.4
+url: https://github.com/ruby/net-imap/releases/tag/v0.6.4
+category: Security & Authentication
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "✉️ Net::IMAP 0.6.4 – Ruby's IMAP client library gets updates across 0.3, 0.4, 0.5 and 0.6 version lines to fix several vulnerabilities."
 ---

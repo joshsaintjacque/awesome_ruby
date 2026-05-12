@@ -1,9 +1,9 @@
 ---
-title: greatghoul/remote-working
-url: https://github.com/greatghoul/remote-working
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: '收集整理远程工作相关的资料 Stars: 11586; pushed 2026-05-12.'
+title: mruby 4.0 Released
+url: https://mruby.org/releases/2026/04/20/mruby-4.0.0-released.html
+category: Ruby Language & Internals
+type: release
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: Built by a team led by Matz himself, mruby is a lightweight, embeddable Ruby implementation for constrained environments. v4.0 focuses on pattern matching support and adds read-only method tables for lower memory use, mirb improvements, and new gems for multitasking, benchmarking, plus a strftime implementation.
 ---

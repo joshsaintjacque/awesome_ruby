@@ -1,9 +1,9 @@
 ---
-title: opf/openproject
-url: https://github.com/opf/openproject
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'OpenProject is the leading open source project management software. Stars: 15046; pushed 2026-05-12.'
+title: Let's Enable MFA for All Ruby Gems
+url: https://thoughtbot.com/blog/lets-enable-mfa-for-all-ruby-gems
+category: Community, News & Events
+type: gem
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: "\U0001F4C4 Let's Enable MFA for All Ruby Gems – It takes a community effort to make the ecosystem safer. Matheus Richard"
 ---

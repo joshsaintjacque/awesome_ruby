@@ -1,9 +1,9 @@
 ---
-title: lobsters/lobsters
-url: https://github.com/lobsters/lobsters
-category: Community, News & Events
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Computing-focused community centered around link aggregation and discussion Stars: 4668; pushed 2026-05-12.'
+title: factory_bot 6.6
+url: https://github.com/thoughtbot/factory_bot/releases/tag/v6.6.0
+category: Testing & Quality
+type: release
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: "– The library for setting up Ruby objects as test data."
 ---

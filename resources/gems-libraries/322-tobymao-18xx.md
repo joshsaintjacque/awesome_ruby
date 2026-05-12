@@ -1,9 +1,9 @@
 ---
-title: tobymao/18xx
-url: https://github.com/tobymao/18xx
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'A platform for playing 18xx games online! Stars: 354; pushed 2026-05-12.'
+title: Single Cov 2.1
+url: https://github.com/grosser/single_cov
+category: Testing & Quality
+type: release
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: "– Produce code coverage reports for Ruby code and tests."
 ---

@@ -1,9 +1,9 @@
 ---
-title: ubicloud/ubicloud
-url: https://github.com/ubicloud/ubicloud
-category: Databases, Search & Storage
+title: How I Built a Native iOS App with Rails and One YAML File
+url: https://newsletter.masilotti.com/p/how-i-built-a-native-ios-app-with
+category: Rails & Hotwire
 type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. Stars: 12043; pushed 2026-05-12.'
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "\U0001F4C4 How I Built a Native iOS App with Rails and One YAML File – Joe built Ruby Native, a paid tool that converts Rails apps into iOS apps, to get a native-feeling app without Xcode or Swift involved. Joe Masilotti"
 ---

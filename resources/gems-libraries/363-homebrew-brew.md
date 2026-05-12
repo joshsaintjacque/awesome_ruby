@@ -1,9 +1,9 @@
 ---
-title: Homebrew/brew
-url: https://github.com/Homebrew/brew
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: "\U0001F37A The missing package manager for macOS (or Linux) Stars: 47973; pushed 2026-05-12."
+title: dry-monads 1.10
+url: https://hanakai.org/learn/dry/dry-monads/v1.8
+category: Learning, Articles & Talks
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "– Useful, common monads in idiomatic Ruby. v1.10 adds JRuby support."
 ---

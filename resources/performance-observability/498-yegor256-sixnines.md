@@ -1,9 +1,9 @@
 ---
-title: yegor256/sixnines
-url: https://github.com/yegor256/sixnines
-category: Performance & Observability
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Website Availability Monitor: add your website to our dashboard and get 24x7 monitoring of its availability (and a badge!) Stars: 75; pushed 2026-05-12.'
+title: Herb 0.10.0
+url: https://github.com/marcoroth/herb/releases/tag/v0.10.0
+category: Ruby Language & Internals
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "– The powerful ERB toolchain adds a command for Action View-related static analysis, a herb dev development server, and more."
 ---

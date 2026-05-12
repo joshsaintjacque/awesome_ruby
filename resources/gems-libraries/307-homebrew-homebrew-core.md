@@ -1,9 +1,9 @@
 ---
-title: Homebrew/homebrew-core
-url: https://github.com/Homebrew/homebrew-core
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: "\U0001F37B Default formulae for the missing package manager for macOS (or Linux) Stars: 15282; pushed 2026-05-12."
+title: RubyGems and Bundler 4.0.11
+url: https://blog.rubygems.org/2026/04/30/4.0.11-released.html
+category: Frontend, Assets & UI
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: A Ruby resource worth tracking for current projects.
 ---

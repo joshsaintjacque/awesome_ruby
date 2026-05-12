@@ -1,9 +1,9 @@
 ---
-title: thewca/worldcubeassociation.org
-url: https://github.com/thewca/worldcubeassociation.org
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'All of the code that runs on worldcubeassociation.org Stars: 386; pushed 2026-05-12.'
+title: LibGD-GIS 0.5
+url: https://github.com/ggerman/libgd-gis
+category: DevOps & Deployment
+type: release
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: "\U0001F310 LibGD-GIS 0.5 – GIS and map-rendering engine built on ruby-libgd, supporting GeoJSON layers and tiles."
 ---

@@ -1,9 +1,9 @@
 ---
-title: volcengine/volcengine-specs
-url: https://github.com/volcengine/volcengine-specs
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Volcengine CocoaPods specs. Stars: 67; pushed 2026-05-12.'
+title: Roadie 5.3
+url: https://github.com/Mange/roadie
+category: Frontend, Assets & UI
+type: release
+source: 'Ruby Weekly #797'
+seen_at: '2026-04-23'
+summary: "✉️ Roadie 5.3 – Inlines CSS and rewrites relative URLs for HTML emails."
 ---

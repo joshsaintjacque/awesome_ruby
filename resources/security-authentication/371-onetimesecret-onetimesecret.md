@@ -1,9 +1,9 @@
 ---
-title: onetimesecret/onetimesecret
-url: https://github.com/onetimesecret/onetimesecret
-category: Security & Authentication
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Keep passwords and other sensitive information out of your inboxes and chat logs. Stars: 2798; pushed 2026-05-12.'
+title: 'IRB 1.18.0: The Interactive Ruby REPL'
+url: https://github.com/ruby/irb/releases/tag/v1.18.0
+category: Ruby Language & Internals
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: Once a core part of Ruby, irb is now distributed as a (bundled) gem so you can upgrade it independently. v1.18.0 gets a new ASCII art startup banner (above) which shows a random tip each time. IRB has now also entirely switched to Prism from Ripper, and method names within method calls get syntax-highlighted.
 ---

@@ -1,9 +1,9 @@
 ---
-title: Homebrew/homebrew-cask
-url: https://github.com/Homebrew/homebrew-cask
-category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: "\U0001F37B A CLI workflow for the administration of macOS applications distributed as binaries Stars: 22013; pushed 2026-05-12."
+title: rbspy v0.46
+url: https://github.com/rbspy/rbspy/releases/tag/v0.46.0
+category: Ruby Language & Internals
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "– The Ruby sampling profiler adds Ruby 4.0.3 support."
 ---

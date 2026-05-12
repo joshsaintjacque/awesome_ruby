@@ -1,9 +1,9 @@
 ---
-title: manyfold3d/manyfold
-url: https://github.com/manyfold3d/manyfold
-category: Frontend, Assets & UI
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'A self-hosted digital asset manager for 3d print files. Stars: 1936; pushed 2026-05-12.'
+title: rubyzip 3.3
+url: https://github.com/rubyzip/rubyzip/releases/tag/v3.3.0
+category: Gems & Libraries
+type: release
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: "– Read and write ZIP files from Ruby."
 ---

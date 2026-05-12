@@ -1,9 +1,9 @@
 ---
-title: csa-admin-org/csa-admin
-url: https://github.com/csa-admin-org/csa-admin
-category: Community, News & Events
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Web application to manage CSA (Community Supported Agriculture), ACP (Agriculture Contractuelle de Proximité) or Solawi (Solidarische Landwirtschaft) organizations. Stars: 74; pushed 2026-05-12.'
+title: 'Asset Pipelines: Just Say No'
+url: https://blog.julik.nl/2026/05/just-say-no-to-asset-pipelines
+category: Frontend, Assets & UI
+type: article
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: "\U0001F4C4 Asset Pipelines: Just Say No – “I will not be using any frontend bundling nor JS runtime at all. Here’s how you can do the same.” Julik Tarkhanov"
 ---

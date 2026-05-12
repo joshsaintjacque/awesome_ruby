@@ -1,9 +1,9 @@
 ---
-title: superiorlu/AITreasureBox
-url: https://github.com/superiorlu/AITreasureBox
-category: AI & LLMs
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: "\U0001F916 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \U0001F48E Stars: 797; pushed 2026-05-12."
+title: The Official Guide to Building Your Own Gem
+url: https://guides.rubygems.org/make-your-own-gem
+category: Learning, Articles & Talks
+type: gem
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: "\U0001F4C4 The Official Guide to Building Your Own Gem – This tutorial has evolved a lot over the past 16 years, and is the canonical resource on the topic. Rubygems Team"
 ---

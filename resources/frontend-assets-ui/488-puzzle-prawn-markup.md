@@ -1,9 +1,9 @@
 ---
-title: puzzle/prawn-markup
-url: https://github.com/puzzle/prawn-markup
-category: Frontend, Assets & UI
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Parse simple HTML markup to include in Prawn PDFs Stars: 68; pushed 2026-05-12.'
+title: 'Mustermann 4.0: ''Your Personal String Matching Expert'''
+url: https://sinatrarb.com/2026/04/27/mustermann-4.0.html
+category: Ruby Language & Internals
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: A library used by projects like Sinatra, Hanami and Grape to create regexes from more natural-looking string patterns, as often used to define paths (e.g. /users/:id/*). v4.0 brings significant performance improvements. Its documentation page shows off the full range of what it can do.
 ---

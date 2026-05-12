@@ -1,9 +1,9 @@
 ---
-title: alphagov/smart-answers
-url: https://github.com/alphagov/smart-answers
+title: Puma 8.0.1
+url: https://github.com/puma/puma/releases/tag/v8.0.1
 category: Gems & Libraries
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Serves smart answers on GOV.UK Stars: 179; pushed 2026-05-12.'
+type: release
+source: 'Ruby Weekly #798'
+seen_at: '2026-04-30'
+summary: A Ruby resource worth tracking for current projects.
 ---

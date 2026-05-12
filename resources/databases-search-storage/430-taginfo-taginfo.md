@@ -1,9 +1,9 @@
 ---
-title: taginfo/taginfo
-url: https://github.com/taginfo/taginfo
-category: Databases, Search & Storage
-type: project
-source: GitHub active Ruby search
-updated_at: '2026-05-12'
-summary: 'Brings together information about OpenStreetMap tags and makes it searchable and browsable Stars: 135; pushed 2026-05-12.'
+title: 'Surviving Black Friday: 329 Billion Requests with Falcon'
+url: https://speakerdeck.com/ioquatix/surviving-black-friday-329-billion-requests-with-falcon
+category: Rails & Hotwire
+type: talk
+source: 'Ruby Weekly #799'
+seen_at: '2026-05-07'
+summary: A RubyKaigi slide deck from the creator of Falcon, a high-performance, multi-process, multi-fiber HTTP server built for Ruby apps. Shopify is now using it to scale its 15-year-old Rails codebase to incredible levels of traffic.
 ---
