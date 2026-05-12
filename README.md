@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 410
+- Resources: 411
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 141, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 110 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 142, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 111 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (94)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (82)
+- [Gems & Libraries](#gems-libraries) (83)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
@@ -273,6 +273,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language Stars: 23576; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [sanger/sequencescape](https://github.com/sanger/sequencescape) - Web based LIMS Stars: 111; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [seek4science/seek](https://github.com/seek4science/seek) - For finding, sharing and exchanging Data, Models, Simulations and Processes in Science. Stars: 92; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [stitchfix/immutable-struct](https://github.com/stitchfix/immutable-struct) - Create struct-like classes that don't have setters, but have an awesome constructor. Stars: 171; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [sudara/awesome-juce](https://github.com/sudara/awesome-juce) - A curated list of JUCE modules, templates, plugins, oh my! Stars: 1256; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
