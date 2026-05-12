@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 87
+- Resources: 88
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 20, guide: 3, project: 8, gem: 8, release: 44, talk: 1, news: 3
-- Provenance: 87 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 20, guide: 3, project: 8, gem: 8, release: 45, talk: 1, news: 3
+- Provenance: 88 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (17)
-- [Rails & Hotwire](#rails-hotwire) (26)
+- [Rails & Hotwire](#rails-hotwire) (27)
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
 - [Gems & Libraries](#gems-libraries) (10)
 - [Testing & Quality](#testing-quality) (3)
@@ -78,6 +78,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Inertia.js 3.0](https://inertiajs.com) - – Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1](https://rubyonrails.org/2026/3/23/Rails-Versions-7-2-3-1-8-0-4-1-and-8-1-2-1-have-been-released) - Lots of minor Rails releases this week: Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1 to fix a variety of security issues, and 8.0.5 and 8.1.3 as regular bugfix releases. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [React on Rails v16.4.0](https://github.com/shakacode/react_on_rails/releases/tag/v16.4.0) - ⚛️ React on Rails v16.4.0 – Integrates React and Webpack with Rails, including server-side rendering of React. _(release; Ruby Weekly #792; seen 2026-03-19)_
+- [RouteTranslator 16.0](https://github.com/enriclluelles/route_translator) - 🌐 RouteTranslator 16.0 – Manage the translations of your Rails app's routes. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Ruby Native 0.4: Your Rails App in the App Store](https://rubynative.com) - Think Hotwire Native but without ever having to touch Swift, yet you still get native controls, navbars, menus, and iOS 26 styling. It’s now free right up to using TestFlight with your first 100 users. You only pay once you want to go live in the App Store. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Spectator Sport 0.3](https://github.com/bensheldon/spectator_sport) - 🎥 Spectator Sport 0.3 – Record and replay user browser sessions in a self-hosted Rails engine. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [The Ultimate Turbo Modal for Rails (UTMR) 3.0](https://github.com/cmer/ultimate_turbo_modal) - – Tailwind or vanilla CSS modal dialog implementation for modern Rails apps. _(release; Ruby Weekly #793; seen 2026-03-26)_
