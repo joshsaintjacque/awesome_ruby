@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 356
+- Resources: 357
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 90, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 56 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 91, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 57 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
-- [Rails & Hotwire](#rails-hotwire) (84)
+- [Rails & Hotwire](#rails-hotwire) (85)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (63)
 - [Testing & Quality](#testing-quality) (18)
@@ -138,6 +138,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Mudis: Fast, Thread-Safe, In-Memory, Sharded LRU Cache](https://github.com/kiebor81/mudis) - A pure Ruby in-memory cache (with a snapshot-based ‘soft persistence’ option). Useful for apps where a full Redis install is overkill for doing a little caching. Can integrate with Rails and Hanami. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails Stars: 58425; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
+- [sinaptia/ruby_llm-monitoring](https://github.com/sinaptia/ruby_llm-monitoring) - Monitor your LLM usage within your Rails application. Stars: 79; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [socializer/socializer](https://github.com/socializer/socializer) - Rails engine to make your projects social. Adds stream, profile, circles, groups and notifications. Stars: 58; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Stringer](https://github.com/stringer-rss/stringer) - (above) is a visually pleasing Rails-powered 'anti social' RSS feed reader that sticks to the basics, with no social features or ‘fancy machine learning’ at all. First featured over a year ago, it’s continued to see frequent updates. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
