@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 13
-- Categories: 7
+- Resources: 14
+- Categories: 8
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 2, project: 1, gem: 5, release: 4, talk: 1
-- Provenance: 13 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 2, project: 1, gem: 6, release: 4, talk: 1
+- Provenance: 14 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,6 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (2)
 - [Security & Authentication](#security-authentication) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (1)
+- [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (1)
 
 ## Ruby Language & Internals
@@ -57,6 +58,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Frontend, Assets & UI
 
 - [Ruby Deserves Beautiful Documentation](https://paolino.me/ruby-deserves-beautiful-documentation) - A Jekyll theme that emulates the much-admired docs theme that VitePress offers, minus all the JavaScript. The project's homepage is its own example of the output. _(article; Ruby Weekly #795; seen 2026-04-09)_
+
+## Learning, Articles & Talks
+
+- [How to Publish Gems with Trusted Publishing](https://guides.rubygems.org/trusted-publishing) - 📄 How to Publish Gems with Trusted Publishing – Once set up, it's as easy as pushing a tag to GitHub. RubyGems Guides. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Community, News & Events
 
