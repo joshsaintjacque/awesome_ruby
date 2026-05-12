@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 136
+- Resources: 137
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 63, talk: 1, news: 5
-- Provenance: 136 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 64, talk: 1, news: 5
+- Provenance: 137 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
-- [AI & LLMs](#ai-llms) (5)
+- [AI & LLMs](#ai-llms) (6)
 - [Frontend, Assets & UI](#frontend-assets-ui) (8)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
@@ -179,6 +179,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Which Programming Language is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a) - 🤖 Which Programming Language is Best for Claude Code? — Ruby core team member (and IOCCC champion) ‘mame’ got Claude Code to implement a Git clone in thirteen different languages, including Ruby. Which language could Claude produce quickest and most efficiently? Ruby! _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [How to Enable Ruby LSP in Claude Code](https://allaboutcoding.ghinda.com/configure-claude-code-with-ruby-lsp) - 🤖 How to Enable Ruby LSP in Claude Code – Claude Code has official support for Ruby LSP meaning it can navigate Ruby code more efficiently. Lucian Ghinda. _(guide; Ruby Weekly #791; seen 2026-03-12)_
 - [starting a petition to say 'no' to contributions built with AI assistance.](https://github.com/indutny/no-slop-in-nodejs-core) - 🤖 The Node.js community is wrestling with the role that LLM-produced code should play in its implementation, with the former creator of the io.js fork starting a petition to say 'no' to contributions built with AI assistance. _(project; Ruby Weekly #792; seen 2026-03-19)_
+- [RubyLLM 1.13.0](https://github.com/crmne/ruby_llm/releases/tag/1.13.0) - 🤖 RubyLLM 1.13.0 – A big stabilization release for the popular LLM integration library. Tool calling is now even more robust and controllable. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [RubyMine 2026.1](https://blog.jetbrains.com/ruby/2026/03/rubymine-2026-1-ai-chat-upgrades-new-code-insight-stable-remote-development-and-more) - JetBrains released RubyMine 2026.1, the latest version of its Ruby IDE. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby AI News newsletter](https://rubyai.beehiiv.com/p/ruby-ai-news-march-27th-2026) - 🤖 The Ruby AI News newsletter is celebrating its first birthday and is absolutely packed with stuff. _(news; Ruby Weekly #794; seen 2026-04-02)_
 
