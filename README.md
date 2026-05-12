@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 247
+- Resources: 248
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 67, guide: 12, project: 31, gem: 15, release: 110, talk: 2, news: 10
-- Provenance: 247 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 67, guide: 12, project: 31, gem: 15, release: 110, talk: 2, news: 11
+- Provenance: 248 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (3)
-- [AI & LLMs](#ai-llms) (13)
+- [AI & LLMs](#ai-llms) (14)
 - [Frontend, Assets & UI](#frontend-assets-ui) (19)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (3)
@@ -273,6 +273,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [RubyLLM::MCP v1.0.0](https://github.com/patvice/ruby_llm-mcp/releases/tag/v1.0.0) - 🤖 RubyLLM::MCP v1.0.0 – Ruby client for the Model Context Protocol with seamless integration with RubyLLM. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyMine 2026.1](https://blog.jetbrains.com/ruby/2026/03/rubymine-2026-1-ai-chat-upgrades-new-code-insight-stable-remote-development-and-more) - JetBrains released RubyMine 2026.1, the latest version of its Ruby IDE. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby AI News newsletter](https://rubyai.beehiiv.com/p/ruby-ai-news-march-27th-2026) - 🤖 The Ruby AI News newsletter is celebrating its first birthday and is absolutely packed with stuff. _(news; Ruby Weekly #794; seen 2026-04-02)_
+- [Ruby AI podcast?](https://www.therubyaipodcast.com/2388930) - 🤖 Did you know there's a Ruby AI podcast? It's not AI generated, but hosted by three Rubyists and usually featuring a guest, such as this recent episode with Evan Phoenix. _(news; Ruby Weekly #785; seen 2026-01-29)_
 - [The Ruby AI Podcast](https://www.therubyaipodcast.com) - 🎧 If you're interested in working with AI with/from Ruby, The Ruby AI Podcast is for you. _(news; Ruby Weekly #788; seen 2026-02-19)_
 
 ## Frontend, Assets & UI
