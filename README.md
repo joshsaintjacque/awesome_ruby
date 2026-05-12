@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 354
+- Resources: 355
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 88, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 54 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 89, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 55 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (84)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
-- [Gems & Libraries](#gems-libraries) (62)
+- [Gems & Libraries](#gems-libraries) (63)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (11)
@@ -230,6 +230,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. Stars: 5582; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
+- [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web. Stars: 3747; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [fjordllc/bootcamp](https://github.com/fjordllc/bootcamp) - プログラマー向けEラーニングシステム Stars: 293; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com Stars: 24335; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives. Stars: 856; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
