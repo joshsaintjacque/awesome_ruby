@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 288
+- Resources: 289
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 80, guide: 13, project: 35, gem: 16, release: 131, talk: 2, news: 11
-- Provenance: 288 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 80, guide: 13, project: 36, gem: 16, release: 131, talk: 2, news: 11
+- Provenance: 289 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (21)
 - [Gems & Libraries](#gems-libraries) (36)
 - [Testing & Quality](#testing-quality) (16)
-- [Databases, Search & Storage](#databases-search-storage) (12)
+- [Databases, Search & Storage](#databases-search-storage) (13)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (4)
@@ -259,6 +259,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [recreate something like SQLite with a swarm of agents?](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html) - 🤖 Can you recreate something like SQLite with a swarm of agents? Kian Kyars had a try, as part of an agent coordination experiment. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [the story of how it's scaled Postgres to serve 800+ million users.](https://openai.com/index/scaling-postgresql) - OpenAI shares the story of how it's scaled Postgres to serve 800+ million users. The interesting technical point is they're only using a single primary (coupled with many read replicas) to do so. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [this article on alternatives to 'soft deleting'](https://atlas9.dev/blog/soft-delete.html) - 🐘 If you're a Postgres user, you might enjoy this article on alternatives to 'soft deleting' where rather than use a boolean or datetime flag, you could use a trigger to move a row to an archive table or capture deleted rows from the WAL for archival. _(article; Ruby Weekly #784; seen 2026-01-22)_
+- [how they implemented a new, fast client-side docs search system](https://code.visualstudio.com/blogs/2026/01/15/docfind) - 🔎 The VS Code team has explained how they implemented a new, fast client-side docs search system for the VS Code site using WebAssembly. You can use their docfind engine yourself too, and there's a live demo showing off its speed on an index of 50,000 articles. _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Elasticsearch 9.3](https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0) - – Official Ruby client for Elasticsearch. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Redis::Objects 2.0: Map Redis Types Directly to Ruby Objects](https://github.com/nateware/redis-objects) - An idiomatically Ruby interface to the Redis data structure server that avoids the usual mess of ORMs (since ORMs don’t naturally fit with the lighter Redis approach). _(release; Ruby Weekly #784; seen 2026-01-22)_
