@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 67
+- Resources: 68
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 14, guide: 2, project: 6, gem: 7, release: 34, talk: 1, news: 3
-- Provenance: 67 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 14, guide: 2, project: 7, gem: 7, release: 34, talk: 1, news: 3
+- Provenance: 68 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (1)
 - [Performance & Observability](#performance-observability) (2)
 - [Security & Authentication](#security-authentication) (2)
-- [DevOps & Deployment](#devops-deployment) (1)
+- [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (2)
 - [Frontend, Assets & UI](#frontend-assets-ui) (5)
 - [Data, APIs & Integration](#data-apis-integration) (4)
@@ -112,6 +112,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## DevOps & Deployment
 
+- [Secretlint](https://github.com/secretlint/secretlint) - 🔒 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Gemstash 2.8](https://github.com/rubygems/gemstash) - – Run your own local gem server and caching proxy for RubyGems.org. _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## AI & LLMs
