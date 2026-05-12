@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 277
+- Resources: 278
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 77, guide: 13, project: 35, gem: 16, release: 123, talk: 2, news: 11
-- Provenance: 277 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 78, guide: 13, project: 35, gem: 16, release: 123, talk: 2, news: 11
+- Provenance: 278 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (45)
-- [Rails & Hotwire](#rails-hotwire) (78)
+- [Rails & Hotwire](#rails-hotwire) (79)
 - [Web Frameworks & APIs](#web-frameworks-apis) (20)
 - [Gems & Libraries](#gems-libraries) (31)
 - [Testing & Quality](#testing-quality) (16)
@@ -96,6 +96,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Fizzy](https://www.fizzy.do) - 37signals made its Fizzy Kanban app, built in Rails, 'source available' a few months ago but maintained the paid, SaaS version. That paid version, however, is now entirely free to use. _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Handling Uncountable Words in Rails Inflections](https://andycroll.com/ruby/handle-uncountable-words-in-rails-inflections) - 📄 Handling Uncountable Words in Rails Inflections – Like staff, metadata, feedback.. or maybe sheep? Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
+- [How Active Storage Variants Work to Transform Images](https://www.writesoftwarewell.com/transform-images-with-activestorage-variants-rails) - 📄 How Active Storage Variants Work to Transform Images Akshay Khot. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [How I Actually Use AI to Write Rails Code](https://mariochavez.io/desarrollo/2026/01/26/how-i-actually-use-ai-to-write-ruby-on-rails-code) - 📄 How I Actually Use AI to Write Rails Code Mario Alberto Chávez. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [How We Improved Rails Response Times by 87%](https://fastretro.app/blog/how-we-improved-rails-response-times-by-87-percent) - 📉 How We Improved Rails Response Times by 87% – No tricks. Just setting up good monitoring to finally see where performance problems lie. Fast Retro. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To](https://kaspth.com/posts/i-quit-rails-core-4-years-ago-heres-what-ive-been-up-to) - 📄 I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To – What happens to core members when they leave the core? Kasper Timm Hansen. _(article; Ruby Weekly #792; seen 2026-03-19)_
