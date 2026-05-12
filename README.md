@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 300
+- Resources: 301
 - Categories: 14
 - Freshness window: November 2025 through May 2026
-- Latest source date: 2026-04-09
+- Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 37, gem: 16, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 38, gem: 16, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 1 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (82)
 - [Web Frameworks & APIs](#web-frameworks-apis) (23)
-- [Gems & Libraries](#gems-libraries) (37)
+- [Gems & Libraries](#gems-libraries) (38)
 - [Testing & Quality](#testing-quality) (17)
 - [Databases, Search & Storage](#databases-search-storage) (13)
 - [Performance & Observability](#performance-observability) (10)
@@ -216,6 +216,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [the Ruby GSoC team is looking for ideas](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282026%29) - Saroj Maharjan, one of the coordinators of Ruby's participation in Google Summer of Code, wrote in asking us to share the news that the Ruby GSoC team is looking for ideas for projects across the Ruby ecosystem that could join in and accept contributions from GSoC 2026 participants. _(project; Ruby Weekly #784; seen 2026-01-22)_
+- [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant Stars: 795; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Should RubyGems/Bundler Have a 'Cooldown' Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) - RubyGems’ maintainer reflects on the idea, quickly gathering steam with other package managers (e.g.), of having a waiting period before newly released packages are installed. Hiroshi says yes, but as an opt-in feature, as it's no silver bullet. _(gem; Ruby Weekly #792; seen 2026-03-19)_
