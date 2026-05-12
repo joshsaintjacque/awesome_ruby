@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 173
+- Resources: 174
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 42, guide: 5, project: 26, gem: 11, release: 83, talk: 1, news: 5
-- Provenance: 173 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 42, guide: 5, project: 26, gem: 11, release: 84, talk: 1, news: 5
+- Provenance: 174 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (32)
+- [Ruby Language & Internals](#ruby-language-internals) (33)
 - [Rails & Hotwire](#rails-hotwire) (47)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
@@ -61,6 +61,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [rbspy v0.44.0](https://github.com/rbspy/rbspy/releases/tag/v0.44.0) - 🔎 rbspy v0.44.0 – Sampling profiler for Ruby processes. Adds Ruby 4.0.2 support, a macOS binary for Apple silicon, and a --duration parameter to record for a specified number of seconds. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [rbspy v0.45](https://github.com/rbspy/rbspy) - 🔎 rbspy v0.45 – Sampling profiler for Ruby processes that can be used without restarting them. Now supports Ruby 3.2.11 and 3.3.11. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Refrigerator 1.9](https://github.com/jeremyevans/ruby-refrigerator) - 🧊 Refrigerator 1.9 – Freezes Ruby core classes/modules to prevent runtime modifications. Now supports Ruby 4.0. _(release; Ruby Weekly #792; seen 2026-03-19)_
+- [RSpec 4.0 is now in beta.](https://github.com/rspec/rspec/blob/main/rspec-core/Changelog.md) - Many deprecations removed, Ruby 3.0+ is now required, and monkey patching has been 'scraped out', so you'll now use RSpec.describe rather than describe, for example. _(release; Ruby Weekly #788; seen 2026-02-19)_
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.3.11 has been released](https://www.ruby-lang.org/en/news/2026/03/26/ruby-3-3-11-released) - with a fix for the recent zlib vulnerability. This is the final normal maintenance release of Ruby 3.3, so it's time to plan an upgrade to 3.4 or 4.0. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby 3.4.9 has been released](https://www.ruby-lang.org/en/news/2026/03/11/ruby-3-4-9-released) - ⭐ Ruby 3.4.9 has been released including a fix for the zlib vulnerability we mentioned last week. _(release; Ruby Weekly #791; seen 2026-03-12)_
