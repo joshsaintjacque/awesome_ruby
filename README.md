@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 97
+- Resources: 98
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 23, guide: 3, project: 9, gem: 9, release: 49, talk: 1, news: 3
-- Provenance: 97 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 23, guide: 3, project: 9, gem: 9, release: 50, talk: 1, news: 3
+- Provenance: 98 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (17)
+- [Ruby Language & Internals](#ruby-language-internals) (18)
 - [Rails & Hotwire](#rails-hotwire) (29)
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
 - [Gems & Libraries](#gems-libraries) (12)
@@ -43,6 +43,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Coverband 6.2: Ruby Code Coverage, But in Production](https://github.com/danmayer/coverband) - SimpleCov is great for checking code coverage during testing, but Coverband takes the idea into production, checking live code usage with low performance overhead. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Herb v0.9: The Modern HTML + ERB Toolchain](https://herb-tools.dev/blog/whats-new-in-herb-v0-9) - Herb is an HTML+ERB toolchain (linter, rendering engine, LSP, formatter) supporting numerous languages (not just Ruby). v0.9 is a huge release with Action View tag helper support, a new Herb.parse_ruby API, a new default ‘strict’ parsing option, better error messages, and more. Herb's site has a new Prism playground which supports both Ruby and HTML+ERB. It's a great time to see what the Herb ecosystem offers. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [JRuby 10.0.5.0](https://www.jruby.org/2026/04/06/jruby-10-0-5-0) - – The Ruby 3.4-compatible branch of JRuby gets a variety of bug fixes, adds formal Java 26 support, and JNR gains RISCv64 support. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [mruby 4.0 Enters Release Candidate Stage](https://github.com/mruby/mruby/blob/master/NEWS.md) - mruby is a lightweight, embeddable subset of Ruby to run in constrained environments and that, like CRuby, is led by Matz. v4.0 adds support for pattern matching, many GC, memory and VM improvements, Cosmopolitan Libc support, a mirb overhaul, and more. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [Nokolexbor 0.7: A Faster Drop-in Replacement for Nokogiri](https://github.com/serpapi/nokolexbor) - A Lexbor-based HTML5 parser that’s multiple times faster than Nokogiri. Ruby 2.7 is dropped, but Ruby 4.0 is supported and gets precompiled gems (installed in <4 seconds on my machine). _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Parallel 4.0: Parallel Processing Made Simple](https://github.com/grosser/parallel) - Run blocks of code in parallel processes, threads, or ractors using map, each, any?, and all?. v4.0 requires Ruby 3.3+ and adds ractor support for Ruby 4.x. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RBS 4.0](https://github.com/ruby/rbs/releases/tag/v4.0.0) - , Ruby's type signature language, has been released with experimental inline syntax support so you can write type annotations directly in Ruby code, a la RBS::Inline. _(release; Ruby Weekly #792; seen 2026-03-19)_
