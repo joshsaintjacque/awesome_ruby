@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 418
+- Resources: 419
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 149, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 118 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 150, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 119 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (87)
+- [Gems & Libraries](#gems-libraries) (88)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
@@ -266,6 +266,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones Stars: 1623; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [itamae-kitchen/mitamae](https://github.com/itamae-kitchen/mitamae) - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef Stars: 389; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [jgraichen/redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups. Stars: 452; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [leihs/leihs](https://github.com/leihs/leihs) - leihs is an inventory management, procurement and lending system Stars: 236; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform Stars: 1398; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [metanorma/metanorma](https://github.com/metanorma/metanorma) - The Metanorma project: www.metanorma.org Stars: 135; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [mlibrary/heliotrope](https://github.com/mlibrary/heliotrope) - Codebase for Fulcrum, a Samvera-based digital publishing platform built by the University of Michigan Library Stars: 52; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
