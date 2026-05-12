@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 123
+- Resources: 124
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 29, guide: 4, project: 13, gem: 11, release: 60, talk: 1, news: 5
-- Provenance: 123 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 29, guide: 4, project: 14, gem: 11, release: 60, talk: 1, news: 5
+- Provenance: 124 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -27,7 +27,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Testing & Quality](#testing-quality) (3)
 - [Databases, Search & Storage](#databases-search-storage) (2)
 - [Performance & Observability](#performance-observability) (7)
-- [Security & Authentication](#security-authentication) (4)
+- [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (5)
 - [Frontend, Assets & UI](#frontend-assets-ui) (8)
@@ -151,6 +151,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Security & Authentication
 
+- [Enclave: An Mruby Sandbox for Running Arbitrary Ruby Code](https://beautifulruby.com/code/enclave) - If you don’t want to write explicit functions for each LLM-available tool, letting an LLM write and execute its own code is an option, but has security risks, which Enclave addresses: "Enclave gives you eval without the blast radius." GitHub repo. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Devise 5.0.3](https://github.com/heartcombo/devise/blob/v5.0.3/CHANGELOG.md) - lands an important security fix. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [ruby-mcp-client 1.0](https://github.com/simonx1/ruby-mcp-client/releases/tag/1.0.1) - 🤖 ruby-mcp-client 1.0 – Ruby Model Context Protocol (MCP) client, now with latest spec support including support for audio content, OAuth 2.1 enhancements, and a full RubyLLM integration example. _(release; Ruby Weekly #793; seen 2026-03-26)_
