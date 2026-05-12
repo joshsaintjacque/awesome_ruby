@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 216
+- Resources: 217
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 57, guide: 9, project: 27, gem: 14, release: 100, talk: 1, news: 8
-- Provenance: 216 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 57, guide: 9, project: 27, gem: 14, release: 101, talk: 1, news: 8
+- Provenance: 217 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (39)
-- [Rails & Hotwire](#rails-hotwire) (58)
+- [Rails & Hotwire](#rails-hotwire) (59)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (22)
 - [Testing & Quality](#testing-quality) (13)
@@ -119,6 +119,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Active Admin 3.5](https://activeadmin.info) - – Admin engine for Rails apps. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ancestry 5.0: Organize an Active Record Model into a Tree Structure](https://github.com/stefankroes/ancestry) - Uses the materialized path pattern to efficiently model tree structures or hierarchies in a model, giving methods like parent, children, siblings, and many more to your objects. Now supports Rails 8. _(release; Ruby Weekly #787; seen 2026-02-12)_
+- [Brakeman 8.0: The Vulnerability Scanner for Rails Apps](https://brakemanscanner.org) - A long-standing command-line tool that analyzes the source code of your Rails apps and highlights potential security vulnerabilities. More useful than ever both in the current security climate, and especially if you’re letting AI write any code. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [Build a Resumable CSV Import with ActiveJob::Continuable](https://codewithrails.com/blog/rails-resumable-csv-import-continuable) - Rails 8.1 introduced a feature that allows for jobs to be interrupted and resumed, making it easy to break up laborious tasks into multiple steps. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Formtastic 6.0](https://github.com/formtastic/formtastic/releases/tag/v6.0.0) - – Build accessible, easily-stylable forms in Rails apps. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [How ZJIT Removes Redundant Object Loads and Stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores) - ZJIT, optionally available in Ruby 4.0, is a new, alternative JIT compiler with the potential for being faster and easier to work on than YJIT over time. This article shows off some of how that potential is now bearing performance-shaped fruit. _(release; Ruby Weekly #792; seen 2026-03-19)_
