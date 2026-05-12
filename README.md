@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 177
+- Resources: 178
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 42, guide: 5, project: 26, gem: 13, release: 84, talk: 1, news: 6
-- Provenance: 177 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 42, guide: 5, project: 26, gem: 13, release: 84, talk: 1, news: 7
+- Provenance: 178 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (33)
-- [Rails & Hotwire](#rails-hotwire) (48)
+- [Rails & Hotwire](#rails-hotwire) (49)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (9)
@@ -121,6 +121,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [The Ultimate Turbo Modal for Rails (UTMR) 3.0](https://github.com/cmer/ultimate_turbo_modal) - – Tailwind or vanilla CSS modal dialog implementation for modern Rails apps. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Teaching Claude Code to Upgrade Rails](https://www.youtube.com/watch?v=_BmHYkiDRYo) - 📺 Teaching Claude Code to Upgrade Rails – A lightning talk from Artificial Ruby, a New York-based Ruby group. Ernesto Tagwerker. _(talk; Ruby Weekly #795; seen 2026-04-09)_
 - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit) - The ZJIT team has added Perfetto tracing support to visualize and query slow events in Ruby's next-gen JIT. Deep technical content from the people building Ruby's performance future. _(news; Ruby Weekly #794; seen 2026-04-02)_
+- [What I've Learned From Shipping 25+ Mobile Apps](https://newsletter.masilotti.com/p/what-ive-learned-from-shipping-25) - 📄 What I've Learned From Shipping 25+ Mobile Apps – Hotwire Native has a lot of potential for Rails devs who need to go mobile. Joe Masilotti. _(news; Ruby Weekly #788; seen 2026-02-19)_
 
 ## Web Frameworks & APIs
 
