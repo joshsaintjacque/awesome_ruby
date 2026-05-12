@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 462
+- Resources: 463
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 191, gem: 23, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 162 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 192, gem: 23, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 163 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (51)
-- [Rails & Hotwire](#rails-hotwire) (101)
+- [Rails & Hotwire](#rails-hotwire) (102)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (108)
 - [Testing & Quality](#testing-quality) (21)
@@ -142,6 +142,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [karafka/karafka](https://github.com/karafka/karafka) - Ruby and Rails efficient Kafka processing framework Stars: 2234; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [kiskolabs/carpentry](https://github.com/kiskolabs/carpentry) - Handcrafted prototypes for Rails Stars: 57; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
+- [ledermann/pingcrm](https://github.com/ledermann/pingcrm) - PingCRM on Rails - A Ruby on Rails demo application to illustrate how Inertia.js works Stars: 372; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [lorint/brick](https://github.com/lorint/brick) - Auto-generate models, views, controllers, and routes in a Rails app based on database structure Stars: 384; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Mudis: Fast, Thread-Safe, In-Memory, Sharded LRU Cache](https://github.com/kiebor81/mudis) - A pure Ruby in-memory cache (with a snapshot-based ‘soft persistence’ option). Useful for apps where a full Redis install is overkill for doing a little caching. Can integrate with Rails and Hanami. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [owen2345/camaleon-cms](https://github.com/owen2345/camaleon-cms) - Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails Stars: 1235; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
