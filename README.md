@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 100
+- Resources: 101
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 24, guide: 3, project: 9, gem: 10, release: 50, talk: 1, news: 3
-- Provenance: 100 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 25, guide: 3, project: 9, gem: 10, release: 50, talk: 1, news: 3
+- Provenance: 101 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (3)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (3)
-- [Frontend, Assets & UI](#frontend-assets-ui) (6)
+- [Frontend, Assets & UI](#frontend-assets-ui) (7)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (3)
@@ -153,6 +153,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Frontend, Assets & UI
 
 - [Improving on Sandi Metz's Gear Class from POODR](https://www.saturnci.com/improving-on-sandi-metz-s-gear-class.html) - 📄 Improving on Sandi Metz's Gear Class from POODR – *gasp!* Jason Swett. _(article; Ruby Weekly #794; seen 2026-04-02)_
+- [Kiq: An Official TUI Admin Interface for Sidekiq](https://www.mikeperham.com/2026/03/10/sidekiq-in-the-terminal) - Citing renewed interest in TUIs, Mike has created kiq where you can monitor and (mostly) manage Sidekiq in the terminal. It’s built on top of RatatuiRuby. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Ruby Deserves Beautiful Documentation](https://paolino.me/ruby-deserves-beautiful-documentation) - A Jekyll theme that emulates the much-admired docs theme that VitePress offers, minus all the JavaScript. The project's homepage is its own example of the output. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [What To Know in JavaScript (2026 Edition)](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition) - Keen to brush up your knowledge of modern JavaScript? Chris Coyier's What To Know in JavaScript (2026 Edition) tours the latest language features, plus the state of the most popular runtimes and build tools. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
