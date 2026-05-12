@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 370
+- Resources: 371
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 104, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 70 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 105, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 71 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -27,7 +27,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (12)
-- [Security & Authentication](#security-authentication) (7)
+- [Security & Authentication](#security-authentication) (8)
 - [DevOps & Deployment](#devops-deployment) (7)
 - [AI & LLMs](#ai-llms) (19)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
@@ -343,6 +343,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Four Common Security Risks When Vibe Coding Your App](https://evilmartians.com/chronicles/four-most-common-security-risks-when-vibe-coding-your-app) - 📄 Four Common Security Risks When Vibe Coding Your App Nina Torgunakova (Evil Martians). _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [Enclave: An Mruby Sandbox for Running Arbitrary Ruby Code](https://beautifulruby.com/code/enclave) - If you don’t want to write explicit functions for each LLM-available tool, letting an LLM write and execute its own code is an option, but has security risks, which Enclave addresses: "Enclave gives you eval without the blast radius." GitHub repo. _(project; Ruby Weekly #790; seen 2026-03-05)_
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. Stars: 2798; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Taylor: A mruby and raylib-Based 2D Game Engine](https://taylormadetech.dev) - 🕹️ Taylor: A mruby and raylib-Based 2D Game Engine — The author is “trying to replicate the simplicity of QBasic but with more of a modern approach.” Write in basic Ruby, and get cross-platform support so your games can be distributed. There’s also an online playground where you can run and customize some basic examples. GitHub repo. _(project; Ruby Weekly #786; seen 2026-02-05)_
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Devise 5.0.3](https://github.com/heartcombo/devise/blob/v5.0.3/CHANGELOG.md) - lands an important security fix. _(release; Ruby Weekly #792; seen 2026-03-19)_
