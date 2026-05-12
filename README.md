@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 467
+- Resources: 468
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 195, gem: 24, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 167 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 196, gem: 24, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 168 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (103)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
-- [Gems & Libraries](#gems-libraries) (108)
+- [Gems & Libraries](#gems-libraries) (109)
 - [Testing & Quality](#testing-quality) (21)
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
@@ -267,6 +267,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [buildkite/docs](https://github.com/buildkite/docs) - The source files for the Buildkite documentation Stars: 57; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 Stars: 29173; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS Stars: 2484; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects Stars: 77; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codeforjapan/decidim-cfj](https://github.com/codeforjapan/decidim-cfj) - Code for Japan Decidim Stars: 55; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects Stars: 1461; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
