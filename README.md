@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 164
+- Resources: 165
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 80, talk: 1, news: 5
-- Provenance: 164 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 22, gem: 11, release: 80, talk: 1, news: 5
+- Provenance: 165 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (31)
-- [Rails & Hotwire](#rails-hotwire) (44)
+- [Rails & Hotwire](#rails-hotwire) (45)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (8)
@@ -96,6 +96,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
+- [Stringer](https://github.com/stringer-rss/stringer) - (above) is a visually pleasing Rails-powered 'anti social' RSS feed reader that sticks to the basics, with no social features or ‘fancy machine learning’ at all. First featured over a year ago, it’s continued to see frequent updates. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Building a Faster Bundler](https://railsatscale.com/2026-03-09-faster-bundler) - The Shopify team has been working on improvements to Bundler and RubyGems with the goal of reducing bundle install times. Increasing the HTTP connection pool size, parallel git clones, and optimizing hotspots in the codebase provide big wins, but they seek our help with another area in particular: precompiled gems. _(gem; Ruby Weekly #791; seen 2026-03-12)_
 - [How I Audit a Legacy Rails Codebase](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase) - A methodical walkthrough of how to approach an inherited codebase, including checking versions, scanning the Gemfile for red flags, reviewing the schema, and identifying perf hotspots. _(gem; Ruby Weekly #791; seen 2026-03-12)_
