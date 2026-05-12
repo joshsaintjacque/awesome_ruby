@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 57
+- Resources: 58
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 27, talk: 1, news: 3
-- Provenance: 57 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 28, talk: 1, news: 3
+- Provenance: 58 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
 - [Performance & Observability](#performance-observability) (1)
-- [Security & Authentication](#security-authentication) (1)
+- [Security & Authentication](#security-authentication) (2)
 - [DevOps & Deployment](#devops-deployment) (1)
 - [AI & LLMs](#ai-llms) (2)
 - [Frontend, Assets & UI](#frontend-assets-ui) (4)
@@ -97,6 +97,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Security & Authentication
 
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
+- [ruby-mcp-client 1.0](https://github.com/simonx1/ruby-mcp-client/releases/tag/1.0.1) - 🤖 ruby-mcp-client 1.0 – Ruby Model Context Protocol (MCP) client, now with latest spec support including support for audio content, OAuth 2.1 enhancements, and a full RubyLLM integration example. _(release; Ruby Weekly #793; seen 2026-03-26)_
 
 ## DevOps & Deployment
 
