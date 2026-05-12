@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 264
+- Resources: 265
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 73, guide: 12, project: 33, gem: 16, release: 117, talk: 2, news: 11
-- Provenance: 264 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 73, guide: 13, project: 33, gem: 16, release: 117, talk: 2, news: 11
+- Provenance: 265 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (4)
-- [AI & LLMs](#ai-llms) (14)
+- [AI & LLMs](#ai-llms) (15)
 - [Frontend, Assets & UI](#frontend-assets-ui) (21)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (3)
@@ -278,6 +278,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby is the Best Language for Building AI Apps'](https://paolino.me/ruby-is-the-best-language-for-ai-apps) - 🤖 'Ruby is the Best Language for Building AI Apps' — Whether you agree with his thesis or not, there’s no denying that Carmine Paolino has been a powerhouse over the past year with his RubyLLM project. This post, backed up by his recent RubyConfTH keynote, paints a rosy picture of how Ruby and RubyLLM offer a smooth developer experience when working with LLMs. _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [Ruby Skills: Teaching Claude Code About Ruby's Tooling](https://st0012.dev/2026/01/24/ruby-skills-teaching-claude-code-about-ruby-tooling-and-ecosystem) - 📄 Ruby Skills: Teaching Claude Code About Ruby's Tooling Stan Lo. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Which Programming Language is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a) - 🤖 Which Programming Language is Best for Claude Code? — Ruby core team member (and IOCCC champion) ‘mame’ got Claude Code to implement a Git clone in thirteen different languages, including Ruby. Which language could Claude produce quickest and most efficiently? Ruby! _(article; Ruby Weekly #790; seen 2026-03-05)_
+- [how he ported 100k lines of TypeScript to Rust](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html) - A well-known JavaScript developer explained how he ported 100k lines of TypeScript to Rust using Claude Code. The languages aren't important; it's really about the insights in nudging agentic tools to get through such tasks. _(guide; Ruby Weekly #785; seen 2026-01-29)_
 - [How to Enable Ruby LSP in Claude Code](https://allaboutcoding.ghinda.com/configure-claude-code-with-ruby-lsp) - 🤖 How to Enable Ruby LSP in Claude Code – Claude Code has official support for Ruby LSP meaning it can navigate Ruby code more efficiently. Lucian Ghinda. _(guide; Ruby Weekly #791; seen 2026-03-12)_
 - [starting a petition to say 'no' to contributions built with AI assistance.](https://github.com/indutny/no-slop-in-nodejs-core) - 🤖 The Node.js community is wrestling with the role that LLM-produced code should play in its implementation, with the former creator of the io.js fork starting a petition to say 'no' to contributions built with AI assistance. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [EasyTalk: Define, Generate and Validate JSON Schemas in Ruby](https://github.com/sergiobayona/easy_talk) - Reduce complexity with a single Ruby DSL for generating JSON Schema, validations, and error messages. This week’s v3.3.1 release also integrates with RubyLLM for building structured output schemas. _(release; Ruby Weekly #787; seen 2026-02-12)_
