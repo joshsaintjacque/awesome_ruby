@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 193
+- Resources: 194
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 46, guide: 6, project: 27, gem: 13, release: 92, talk: 1, news: 8
-- Provenance: 193 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 46, guide: 7, project: 27, gem: 13, release: 92, talk: 1, news: 8
+- Provenance: 194 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (33)
+- [Ruby Language & Internals](#ruby-language-internals) (34)
 - [Rails & Hotwire](#rails-hotwire) (53)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
 - [Gems & Libraries](#gems-libraries) (19)
@@ -40,6 +40,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking](https://bugs.ruby-lang.org/issues/21930) - 📄 Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking Ruby Issue Tracker. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [How We Fixed YAML Comment Preservation in Ruby](https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it) - Discourse sponsored Kevin Newton to stabilize Psych::Pure, a pure-Ruby alternative to the Psych YAML parser, in order to solve some of Discourse’s long standing requirements, such as needing to maintain comments in YAML files. This work is ultimately good news for all of us. _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [JSLinux](https://bellard.org/jslinux) - is Fabrice Bellard's JavaScript-powered Linux VM that runs in the browser. It's not new, but it now supports x86_64. I was happy to see Ruby is ready to go, too, if you drop into this full Alpine Linux environment, though irb is broken, alas. _(article; Ruby Weekly #791; seen 2026-03-12)_
+- [Falcon: A High-Performance Web Server for Ruby](https://socketry.github.io/falcon) - A multi-process, multi-fiber rack-compatible HTTP server built on top of async, async-container and async-http. It’s been a lonnng time since we mentioned this, but it’s now serving most of Shopify’s traffic so you know it can scale. GitHub repo and a getting started guide. _(guide; Ruby Weekly #787; seen 2026-02-12)_
 - [Difftastic](https://difftastic.wilfred.me.uk) - is a tool that can diff code files, not merely on a line-by-line basis like diff, but based on syntax. It supports all popular languages including Ruby, natch. Marco Roth has a Ruby wrapper for it, as well as Minitest::Difftastic for using it to show diffs in test runs. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [mlx-ruby: Ruby Bindings for Apple's MLX Framework](https://github.com/skryl/mlx-ruby) - An agent-assisted attempt to bring bindings to Apple’s ML-focused array framework to Ruby, including an idiomatic Ruby DSL. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [Rubysyn](https://github.com/squadette/rubysyn/blob/master/README.md) - is an interesting attempt to 'clarify Ruby's syntax and semantics'. _(project; Ruby Weekly #794; seen 2026-04-02)_
