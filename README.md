@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 453
+- Resources: 454
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 183, gem: 22, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 153 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 183, gem: 23, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 154 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (98)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
-- [Gems & Libraries](#gems-libraries) (105)
+- [Gems & Libraries](#gems-libraries) (106)
 - [Testing & Quality](#testing-quality) (21)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
@@ -313,6 +313,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [wikimedia/mediawiki-vagrant](https://github.com/wikimedia/mediawiki-vagrant) - A virtual MediaWiki development environment, built on Vagrant, VirtualBox, and Puppet. This is a mirror from https://gerrit.wikimedia.org. Stars: 69; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yast/yast-yast2](https://github.com/yast/yast-yast2) - YaST module yast2 Stars: 71; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface. Opensource SIP SBC with billing. Stars: 63; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [doorkeeper-gem/doorkeeper-openid_connect](https://github.com/doorkeeper-gem/doorkeeper-openid_connect) - OpenID Connect extension for Doorkeeper Stars: 200; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Should RubyGems/Bundler Have a 'Cooldown' Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) - RubyGems’ maintainer reflects on the idea, quickly gathering steam with other package managers (e.g.), of having a waiting period before newly released packages are installed. Hiroshi says yes, but as an opt-in feature, as it's no silver bullet. _(gem; Ruby Weekly #792; seen 2026-03-19)_
