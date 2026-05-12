@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 446
+- Resources: 447
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 177, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 146 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 178, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 147 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (97)
 - [Web Frameworks & APIs](#web-frameworks-apis) (35)
-- [Gems & Libraries](#gems-libraries) (103)
+- [Gems & Libraries](#gems-libraries) (104)
 - [Testing & Quality](#testing-quality) (20)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
@@ -249,6 +249,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [approvals/ApprovalTests.Ruby](https://github.com/approvals/ApprovalTests.Ruby) - Approval Tests for Ruby Stars: 231; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Arie/serveme](https://github.com/Arie/serveme) - serveme.tf Stars: 97; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [bcdice/BCDice](https://github.com/bcdice/BCDice) - The most popular TRPG dice command engine in Japan Stars: 158; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you Stars: 304; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [brave-intl/publishers](https://github.com/brave-intl/publishers) - Publisher interface for Brave Payments Stars: 65; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧 Stars: 134; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
