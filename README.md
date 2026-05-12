@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 360
+- Resources: 361
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 94, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 60 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 95, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 61 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -33,7 +33,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (9)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
-- [Community, News & Events](#community-news-events) (14)
+- [Community, News & Events](#community-news-events) (15)
 
 ## Ruby Language & Internals
 
@@ -424,6 +424,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [The Ruby Runway: A RubyConf Pitch Competition](https://rubycentral.teamtailor.com/jobs/6963879-rubyconf-pitch-competition-the-ruby-runway) - RubyConf has launched a competition for Ruby-powered startups to take the stage at RubyConf and compete for various cash prizes and awards. You need to represent a business using Ruby at its core, and not have raised more than $500k so far. The submission deadline is February 28 — and if you can't enter, RubyConf is looking for reviewers and judges for the entries. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [bborn/lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. Stars: 319; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [csa-admin-org/csa-admin](https://github.com/csa-admin-org/csa-admin) - Web application to manage CSA (Community Supported Agriculture), ACP (Agriculture Contractuelle de Proximité) or Solawi (Solidarische Landwirtschaft) organizations. Stars: 74; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. Stars: 47010; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 Stars: 22695; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion Stars: 4668; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
