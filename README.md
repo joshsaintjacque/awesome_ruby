@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 481
+- Resources: 482
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 207, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 181 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 208, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 182 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (37)
-- [Gems & Libraries](#gems-libraries) (114)
+- [Gems & Libraries](#gems-libraries) (115)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (12)
@@ -331,6 +331,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [wikimedia/mediawiki-vagrant](https://github.com/wikimedia/mediawiki-vagrant) - A virtual MediaWiki development environment, built on Vagrant, VirtualBox, and Puppet. This is a mirror from https://gerrit.wikimedia.org. Stars: 69; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yast/yast-yast2](https://github.com/yast/yast-yast2) - YaST module yast2 Stars: 71; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface. Opensource SIP SBC with billing. Stars: 63; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system. Stars: 5601; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [doorkeeper-gem/doorkeeper-openid_connect](https://github.com/doorkeeper-gem/doorkeeper-openid_connect) - OpenID Connect extension for Doorkeeper Stars: 200; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
