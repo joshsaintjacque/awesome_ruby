@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 296
+- Resources: 297
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 83, guide: 14, project: 37, gem: 16, release: 133, talk: 2, news: 11
-- Provenance: 296 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 37, gem: 16, release: 134, talk: 2, news: 11
+- Provenance: 297 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (47)
+- [Ruby Language & Internals](#ruby-language-internals) (48)
 - [Rails & Hotwire](#rails-hotwire) (82)
 - [Web Frameworks & APIs](#web-frameworks-apis) (22)
 - [Gems & Libraries](#gems-libraries) (37)
@@ -82,6 +82,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby Evolution: New Ruby Features Added in v2.0 → 4.0](https://rubyreferences.github.io/rubychanges/evolution.html) - First launched a couple of years ago covering up to Ruby 3.1, Victor’s handy resource covering the key changes to the Ruby language over the years now goes up to Ruby 4.0. Helpful as both a reference guide and a subtle reminder of features you really ought to know but likely don’t. _(release; Ruby Weekly #786; seen 2026-02-05)_
 - [ruby-prof 2.0: The Tracing Profiler for CRuby](https://ruby-prof.github.io) - Now celebrating its 21st birthday(!), ruby-prof remains a great way to figure out what’s slowing your app down, particularly if you want to see exact call counts and precise timings that tracing profilers offer (as opposed to sampling profilers - see a comparison here). v2.0 adds Ruby 4.0 support, flame graph visualizations, improved docs, and more. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [ruby.wasm 2.9.0](https://github.com/ruby/ruby.wasm) - – An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [RubyLLM 1.10.0: The Cross-Provider LLM API for Ruby](https://github.com/crmne/ruby_llm/releases/tag/1.10.0) - 🤖 RubyLLM 1.10.0: The Cross-Provider LLM API for Ruby — A significant release for the popular cross-provider LLM API that brings first-class extended thinking across providers, Ruby 4.0 support, full Gemini 3 thinking-signature support, and more. _(release; Ruby Weekly #783; seen 2026-01-15)_
 - [TestProf 1.6](https://github.com/test-prof/test-prof/releases/tag/v1.6.0) - 📈 TestProf 1.6 – Collection of tools to analyze and optimize Ruby test suite performance. Adds a TPS (tests-per-second) profiler and a GC profiling mode. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [The 6th edition of Programming Ruby is now in beta.](https://pragprog.com/titles/ruby6/programming-ruby-4-6th-edition) - 📕 The 6th edition of Programming Ruby is now in beta. The Pickaxe book, as it is commonly known, is set for final publication in March and covers Ruby 4.0 in depth. _(release; Ruby Weekly #784; seen 2026-01-22)_
 
