@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 203
+- Resources: 204
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 51, guide: 7, project: 27, gem: 13, release: 96, talk: 1, news: 8
-- Provenance: 203 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 51, guide: 7, project: 27, gem: 13, release: 97, talk: 1, news: 8
+- Provenance: 204 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (21)
 - [Testing & Quality](#testing-quality) (13)
 - [Databases, Search & Storage](#databases-search-storage) (5)
-- [Performance & Observability](#performance-observability) (8)
+- [Performance & Observability](#performance-observability) (9)
 - [Security & Authentication](#security-authentication) (6)
 - [DevOps & Deployment](#devops-deployment) (3)
 - [AI & LLMs](#ai-llms) (12)
@@ -204,6 +204,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rubydex: A Static Analysis Toolkit for Ruby](https://github.com/Shopify/rubydex) - A new high-performance Ruby indexer with an MCP server designed for LLM tooling. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [The Outcomes of Last Week's Ruby 'Dev Meeting'](https://github.com/ruby/dev-meeting-log/blob/master/2026/DevMeeting-2026-02-12.md) - Last week I mentioned a meeting was taking place where lead core team members would answer questions around proposals, features, and bugs. Here are the rough notes of what happened, but a few quick highlights:. _(project; Ruby Weekly #788; seen 2026-02-19)_
+- [Dalli 5.0](https://github.com/petergoldstein/dalli) - – High-performance Ruby memcached client. Changelog. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Falcon 0.55](https://github.com/socketry/falcon) - – High-performance Ruby web server. Used in production by Shopify, this is the first release in some time. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [pure-jpeg 0.3](https://github.com/peterc/pure_jpeg) - 🖼️ pure-jpeg 0.3 – My pure Ruby JPEG encoder/decoder library is now much faster (0.2s on a 1024x1024 image) thanks to some third-party contributors 🎉. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [SmarterCSV v1.16](https://github.com/tilo/smarter_csv/blob/main/CHANGELOG.md) - – Performance-focused CSV reading/writing library. The recent CHANGELOG entries are very thorough. _(release; Ruby Weekly #792; seen 2026-03-19)_
