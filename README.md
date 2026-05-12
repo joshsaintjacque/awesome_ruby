@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 488
+- Resources: 489
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 214, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 188 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 215, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 189 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (106)
 - [Web Frameworks & APIs](#web-frameworks-apis) (39)
-- [Gems & Libraries](#gems-libraries) (115)
+- [Gems & Libraries](#gems-libraries) (116)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (21)
 - [Performance & Observability](#performance-observability) (13)
@@ -283,6 +283,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. Stars: 5582; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [digital-fabric/uringmachine](https://github.com/digital-fabric/uringmachine) - A lean mean io_uring machine Stars: 55; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything Stars: 3255; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web. Stars: 3747; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [fjordllc/bootcamp](https://github.com/fjordllc/bootcamp) - プログラマー向けEラーニングシステム Stars: 293; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com Stars: 24335; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
