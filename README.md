@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 330
+- Resources: 331
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 65, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 30 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 66, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 31 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (6)
 - [AI & LLMs](#ai-llms) (18)
-- [Frontend, Assets & UI](#frontend-assets-ui) (22)
+- [Frontend, Assets & UI](#frontend-assets-ui) (23)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
 - [Community, News & Events](#community-news-events) (12)
@@ -362,6 +362,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html) - 📄 Git's Magic Files – Useful guide to the many files that influence git's behavior in areas like ignoring files, language detection, and pre-filling commit messages. Andrew Nesbitt. _(guide; Ruby Weekly #789; seen 2026-02-26)_
 - [Oat](https://oat.ink) - If you're tired of large JavaScript UI component libraries and their associated build tools, Oat might appeal to you. 8KB of CSS and JS (gzipped) gets you a UI component library you can use via regular semantic HTML elements. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [RatatuiRuby: A Fresh Way to Build Terminal UIs in Ruby](https://www.ratatui-ruby.dev) - Ratatui is a popular Rust library for building fast, modern terminal user interfaces, and RatatuiRuby brings it to Ruby too. Despite being in beta/pre-release, this is an incredibly solid effort and I had fun playing with it (above). _(project; Ruby Weekly #784; seen 2026-01-22)_
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. Stars: 909; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [A Simple Tailwind CSS Setup for Jekyll](https://andycroll.com/ruby/simple-tailwind-css-4-setup-for-jekyll) - 📄 A Simple Tailwind CSS Setup for Jekyll – How to set up Tailwind with Jekyll using the jekyll-tailwind gem. Andy Croll. _(gem; Ruby Weekly #785; seen 2026-01-29)_
 - [Organizations" feature on RubyGems.org](https://blog.rubygems.org/2026/02/16/organizations-beta.html) - The "Organizations" feature on RubyGems.org is now in private beta for gem publishers with large teams who manage gem publishing workflows. _(gem; Ruby Weekly #788; seen 2026-02-19)_
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
