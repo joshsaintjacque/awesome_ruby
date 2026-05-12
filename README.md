@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 435
+- Resources: 436
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 166, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 135 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 167, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 136 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (100)
+- [Gems & Libraries](#gems-libraries) (101)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
@@ -278,6 +278,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform Stars: 1398; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [metanorma/metanorma](https://github.com/metanorma/metanorma) - The Metanorma project: www.metanorma.org Stars: 135; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [mlibrary/heliotrope](https://github.com/mlibrary/heliotrope) - Codebase for Fulcrum, a Samvera-based digital publishing platform built by the University of Michigan Library Stars: 52; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL - alternative to hightouch and census. Stars: 1653; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [nuhkoca/kotlin-android-fastlane-firebase-app-distribution](https://github.com/nuhkoca/kotlin-android-fastlane-firebase-app-distribution) - A repository that shows how to use Firebase App Distribution to distribute android app to testers by fastlane. Stars: 92; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications Stars: 4460; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [OpenC3/cosmos](https://github.com/OpenC3/cosmos) - OpenC3 COSMOS Stars: 219; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
