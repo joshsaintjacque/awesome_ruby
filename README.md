@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 14
+- Resources: 15
 - Categories: 8
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 2, project: 1, gem: 6, release: 4, talk: 1
-- Provenance: 14 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 3, project: 1, gem: 6, release: 4, talk: 1
+- Provenance: 15 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (4)
 - [Rails & Hotwire](#rails-hotwire) (3)
 - [Web Frameworks & APIs](#web-frameworks-apis) (1)
-- [Gems & Libraries](#gems-libraries) (2)
+- [Gems & Libraries](#gems-libraries) (3)
 - [Security & Authentication](#security-authentication) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (1)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
@@ -48,6 +48,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Gems & Libraries
 
+- [From Sidekiq to Temporal: A Zero-Downtime Migration Strategy](https://firehydrant.com/blog/sidekiq-to-temporal-a-zero-downtime-migration-strategy) - 📄 From Sidekiq to Temporal: A Zero-Downtime Migration Strategy David Haley (FireHydrant). _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 
