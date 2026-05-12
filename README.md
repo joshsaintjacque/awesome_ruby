@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 404
+- Resources: 405
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 136, gem: 20, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 104 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 137, gem: 20, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 105 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -32,7 +32,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [AI & LLMs](#ai-llms) (20)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (13)
-- [Learning, Articles & Talks](#learning-articles-talks) (4)
+- [Learning, Articles & Talks](#learning-articles-talks) (5)
 - [Community, News & Events](#community-news-events) (15)
 
 ## Ruby Language & Internals
@@ -458,6 +458,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Learning, Articles & Talks
 
+- [scinote-eln/scinote-web](https://github.com/scinote-eln/scinote-web) - Open source electronic lab notebook (ELN) that helps you manage your laboratory work and stores all your experimental data in one place. Stars: 300; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard) - Wiki Education Foundation's Wikipedia course dashboard system Stars: 427; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [WP2TXT](https://github.com/yohasebe/wp2txt) - is a Ruby-powered toolkit for extracting text content from Wikipedia dump files – it'll even download the dumps for you, and can extract specific articles without downloading the full dumps. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [How to Publish Gems with Trusted Publishing](https://guides.rubygems.org/trusted-publishing) - 📄 How to Publish Gems with Trusted Publishing – Once set up, it's as easy as pushing a tag to GitHub. RubyGems Guides. _(gem; Ruby Weekly #795; seen 2026-04-09)_
