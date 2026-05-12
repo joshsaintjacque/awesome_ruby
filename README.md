@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 122
+- Resources: 123
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 29, guide: 4, project: 13, gem: 10, release: 60, talk: 1, news: 5
-- Provenance: 122 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 29, guide: 4, project: 13, gem: 11, release: 60, talk: 1, news: 5
+- Provenance: 123 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -33,7 +33,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Frontend, Assets & UI](#frontend-assets-ui) (8)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
-- [Community, News & Events](#community-news-events) (4)
+- [Community, News & Events](#community-news-events) (5)
 
 ## Ruby Language & Internals
 
@@ -194,6 +194,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Community, News & Events
 
+- [Four Months of Ruby Central Moving Ruby Backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward) - If you thought the Ruby Central/Bundler incident of 2025 was all resolved, think again. André’s not happy with Ruby Central's answers so far, and suggests how everyone can help address the situation, including using independent projects like rv and gem.coop. _(gem; Ruby Weekly #790; seen 2026-03-05)_
 - [The 'RubyGems Fracture' Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report) - A postmortem of the Ruby Central vs Bundler story in late 2025 which resulted in the Ruby core team taking stewardship of RubyGems and Bundler. The timeline of events is laid out in detail, but it’s unlikely to resolve the matter entirely (as demonstrated in this Reddit comment by Mike Perham). _(gem; Ruby Weekly #794; seen 2026-04-02)_
 - [Towards an Amicable Resolution with Ruby Central](https://andre.arko.net/2026/04/02/towards-an-amicable-resolution-with-ruby-central) - Last week, Richard Schneeman and Ruby Central published a report into 2025’s contentious ‘RubyGems fracture’ and now former Bundler maintainer André has his say and makes two requests for the incident to be considered amicably settled. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Haggis Ruby 2026](https://haggisruby.co.uk) - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Haggis Ruby 2026 is a Scottish Ruby conference returning this April 23-24 with a fantastic lineup. _(news; Ruby Weekly #793; seen 2026-03-26)_
