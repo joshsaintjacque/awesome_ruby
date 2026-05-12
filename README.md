@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 414
+- Resources: 415
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 145, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 114 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 146, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 115 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -33,7 +33,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (14)
 - [Learning, Articles & Talks](#learning-articles-talks) (5)
-- [Community, News & Events](#community-news-events) (16)
+- [Community, News & Events](#community-news-events) (17)
 
 ## Ruby Language & Internals
 
@@ -479,6 +479,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [csa-admin-org/csa-admin](https://github.com/csa-admin-org/csa-admin) - Web application to manage CSA (Community Supported Agriculture), ACP (Agriculture Contractuelle de Proximité) or Solawi (Solidarische Landwirtschaft) organizations. Stars: 74; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. Stars: 47010; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 Stars: 22695; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [hitobito/hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more. Stars: 468; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion Stars: 4668; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community Stars: 49946; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) - On a mission to index all Ruby events. Stars: 547; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
