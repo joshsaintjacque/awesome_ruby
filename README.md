@@ -10,18 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 3
-- Categories: 3
+- Resources: 4
+- Categories: 4
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 1, gem: 1, release: 1
-- Provenance: 3 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 1, gem: 2, release: 1
+- Provenance: 4 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (1)
 - [Rails & Hotwire](#rails-hotwire) (1)
+- [Security & Authentication](#security-authentication) (1)
 - [Community, News & Events](#community-news-events) (1)
 
 ## Ruby Language & Internals
@@ -31,6 +32,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Rails & Hotwire
 
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
+
+## Security & Authentication
+
+- [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Community, News & Events
 
