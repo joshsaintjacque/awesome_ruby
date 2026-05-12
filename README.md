@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 298
+- Resources: 299
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 83, guide: 14, project: 37, gem: 16, release: 135, talk: 2, news: 11
-- Provenance: 298 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 37, gem: 16, release: 135, talk: 2, news: 12
+- Provenance: 299 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -33,7 +33,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Frontend, Assets & UI](#frontend-assets-ui) (22)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (3)
-- [Community, News & Events](#community-news-events) (8)
+- [Community, News & Events](#community-news-events) (9)
 
 ## Ruby Language & Internals
 
@@ -372,6 +372,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Towards an Amicable Resolution with Ruby Central](https://andre.arko.net/2026/04/02/towards-an-amicable-resolution-with-ruby-central) - Last week, Richard Schneeman and Ruby Central published a report into 2025’s contentious ‘RubyGems fracture’ and now former Bundler maintainer André has his say and makes two requests for the incident to be considered amicably settled. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [a talk about what happened to RubyGems during its crisis last year](https://www.youtube.com/watch?v=0AF8ayewrAQ) - At FOSDEM last week, Mike McQuaid (of Homebrew fame) gave ▶️ a talk about what happened to RubyGems during its crisis last year, and what we can learn from it. _(talk; Ruby Weekly #786; seen 2026-02-05)_
 - [Haggis Ruby 2026](https://haggisruby.co.uk) - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Haggis Ruby 2026 is a Scottish Ruby conference returning this April 23-24 with a fantastic lineup. _(news; Ruby Weekly #793; seen 2026-03-26)_
+- [Ruby Central released a substantial 'annual report'](https://rubycentral.org/support) - covering its work across 2022-2024. It goes into a lot of depth and paints a good picture of what Ruby Central actually does. _(news; Ruby Weekly #783; seen 2026-01-15)_
 - [Ruby Community Conference](https://www.rubycommunityconference.com) - 🇵🇱 Ruby Community Conference is taking place this March 13 in Kraków, Poland. Obie Fernandez and Marco Roth will be speaking. _(news; Ruby Weekly #786; seen 2026-02-05)_
 - [RubyEvents.org](https://www.rubyevents.org) - 🌐 RubyEvents.org has shared a monthly update that includes future Ruby events and currently open CFPs. _(news; Ruby Weekly #791; seen 2026-03-12)_
 
