@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 157
+- Resources: 158
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 73, talk: 1, news: 5
-- Provenance: 157 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 74, talk: 1, news: 5
+- Provenance: 158 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (5)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (7)
-- [Frontend, Assets & UI](#frontend-assets-ui) (12)
+- [Frontend, Assets & UI](#frontend-assets-ui) (13)
 - [Data, APIs & Integration](#data-apis-integration) (5)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (5)
@@ -209,6 +209,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [What To Know in JavaScript (2026 Edition)](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition) - Keen to brush up your knowledge of modern JavaScript? Chris Coyier's What To Know in JavaScript (2026 Edition) tours the latest language features, plus the state of the most popular runtimes and build tools. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html) - 📄 Git's Magic Files – Useful guide to the many files that influence git's behavior in areas like ignoring files, language detection, and pre-filling commit messages. Andrew Nesbitt. _(guide; Ruby Weekly #789; seen 2026-02-26)_
 - [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
+- [Premailer 1.28](https://github.com/premailer/premailer) - ✉️ Premailer 1.28 – Inlines CSS into HTML emails and creates plain text alternatives. It's long been a part of our toolchain for Ruby Weekly. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems 4.0.9](https://blog.rubygems.org/2026/03/25/4.0.9-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [wxRuby3 v1.7.0](https://github.com/mcorino/wxRuby3/releases/tag/v1.7.0) - – Cross-platform GUI library for Ruby that uses native widgets via wxWidgets 3.2/3.3. _(release; Ruby Weekly #790; seen 2026-03-05)_
