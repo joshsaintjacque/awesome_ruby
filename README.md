@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 403
+- Resources: 404
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 135, gem: 20, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 103 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 136, gem: 20, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 104 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (9)
 - [DevOps & Deployment](#devops-deployment) (11)
-- [AI & LLMs](#ai-llms) (19)
+- [AI & LLMs](#ai-llms) (20)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (13)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
@@ -395,6 +395,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Which Programming Language is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a) - 🤖 Which Programming Language is Best for Claude Code? — Ruby core team member (and IOCCC champion) ‘mame’ got Claude Code to implement a Git clone in thirteen different languages, including Ruby. Which language could Claude produce quickest and most efficiently? Ruby! _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [how he ported 100k lines of TypeScript to Rust](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html) - A well-known JavaScript developer explained how he ported 100k lines of TypeScript to Rust using Claude Code. The languages aren't important; it's really about the insights in nudging agentic tools to get through such tasks. _(guide; Ruby Weekly #785; seen 2026-01-29)_
 - [How to Enable Ruby LSP in Claude Code](https://allaboutcoding.ghinda.com/configure-claude-code-with-ruby-lsp) - 🤖 How to Enable Ruby LSP in Claude Code – Claude Code has official support for Ruby LSP meaning it can navigate Ruby code more efficiently. Lucian Ghinda. _(guide; Ruby Weekly #791; seen 2026-03-12)_
+- [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner) - AI model safety scanner built on NVIDIA garak Stars: 532; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [newrelic/newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent) - New Relic RPM Ruby Agent Stars: 1208; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [raullenchai/homebrew-rapid-mlx](https://github.com/raullenchai/homebrew-rapid-mlx) - Homebrew tap for Rapid-MLX — AI inference for Apple Silicon Stars: 123; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [starting a petition to say 'no' to contributions built with AI assistance.](https://github.com/indutny/no-slop-in-nodejs-core) - 🤖 The Node.js community is wrestling with the role that LLM-produced code should play in its implementation, with the former creator of the io.js fork starting a petition to say 'no' to contributions built with AI assistance. _(project; Ruby Weekly #792; seen 2026-03-19)_
