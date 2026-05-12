@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 255
+- Resources: 256
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 70, guide: 12, project: 32, gem: 16, release: 112, talk: 2, news: 11
-- Provenance: 255 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 70, guide: 12, project: 32, gem: 16, release: 113, talk: 2, news: 11
+- Provenance: 256 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (73)
 - [Web Frameworks & APIs](#web-frameworks-apis) (17)
 - [Gems & Libraries](#gems-libraries) (26)
-- [Testing & Quality](#testing-quality) (15)
+- [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (9)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
@@ -221,6 +221,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
 - [RBS::Inline 0.13](https://github.com/soutaro/rbs-inline) - – Embed type declarations into Ruby code as comments. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [RuboCop 1.85](https://github.com/rubocop/rubocop/releases/tag/v1.85.0) - – Static code analyzer and formatter. _(release; Ruby Weekly #789; seen 2026-02-26)_
+- [RubyCritic 5.0](https://github.com/whitesmith/rubycritic) - – Get quality reports for Ruby code through static analysis. _(release; Ruby Weekly #785; seen 2026-01-29)_
 - [Typelizer 0.8](https://github.com/skryukov/typelizer/releases/tag/v0.8.0) - – TypeScript type generator for Ruby serializers. _(release; Ruby Weekly #788; seen 2026-02-19)_
 
 ## Databases, Search & Storage
