@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 262
+- Resources: 263
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 71, guide: 12, project: 33, gem: 16, release: 117, talk: 2, news: 11
-- Provenance: 262 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 72, guide: 12, project: 33, gem: 16, release: 117, talk: 2, news: 11
+- Provenance: 263 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
-- [Rails & Hotwire](#rails-hotwire) (75)
+- [Rails & Hotwire](#rails-hotwire) (76)
 - [Web Frameworks & APIs](#web-frameworks-apis) (19)
 - [Gems & Libraries](#gems-libraries) (27)
 - [Testing & Quality](#testing-quality) (16)
@@ -99,6 +99,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Mistral's Attempt to Put Rails Testing on Autopilot](https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont) - 🤖 Mistral's Attempt to Put Rails Testing on Autopilot — A post from France’s best-known AI shop detailing an autonomous agent they’ve built to work on RSpec suites in Rails apps. The end result is called Mistral Vibe. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [on X](https://x.com/garrytan/status/2018368128108167344) - Garry Tan, the CEO of Y Combinator, posted on X about how he thinks "people are sleeping a bit on how much Ruby on Rails + Claude Code is a crazy unlock.". _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Optimizations for Rails Apps](https://www.driftingruby.com/episodes/optimizations) - ▶️ Optimizations for Rails Apps – A 19-minute tour of some elementary techniques and tools (e.g. Prosopite). Drifting Ruby. _(article; Ruby Weekly #790; seen 2026-03-05)_
+- [original creator](https://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv) - Julia Evans (the original creator of rbspy) wrote up her notes on starting to use Django and has some reflections on how it compares to Rails. She found Django's explicitness easier to return to after months away, but really appreciates both the ORM and the auto-generated admin interface. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Rails Upgrade Methodology as Claude Code Skills](https://www.fastruby.io/blog/open-source-claude-code-skill-for-rails-upgrades.html) - 🤖 Rails Upgrade Methodology as Claude Code Skills — I actually used the raw MD files last weekend to upgrade a Rails 6 app to Rails 8 and it went well. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Responsive Code Formatting on the Web – The Ruby Way](https://mostlyobvio.us/2026/02/responsive-code-formatting) - Rubyist Paweł wanted the code blocks on his site to render well and be responsive. He explored three options: using Ruby and Rouge via WebAssembly, a pre-rendered approach, and using Hotwire and Turbo Frames. A creative look at an old problem, complete with code and demos. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Sam Ruby experiments with running 'Rails' on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - , Erlang's virtual machine (as also used by Elixir). It's not quite Rails as you'd expect though. _(article; Ruby Weekly #795; seen 2026-04-09)_
