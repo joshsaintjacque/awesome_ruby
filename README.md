@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 421
+- Resources: 422
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 152, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 121 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 153, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 122 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (90)
+- [Gems & Libraries](#gems-libraries) (91)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
@@ -250,6 +250,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects Stars: 1461; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [darkbitio/gcp-iam-role-permissions](https://github.com/darkbitio/gcp-iam-role-permissions) - Exports primitive and predefined GCP IAM Roles and their permissions Stars: 111; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [datacite/schema](https://github.com/datacite/schema) - DataCite Metadata Schema Repository Stars: 51; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [demarche-numerique/demarche.numerique.gouv.fr](https://github.com/demarche-numerique/demarche.numerique.gouv.fr) - Dématérialiser et simplifier les démarches administratives Stars: 260; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. Stars: 5582; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
