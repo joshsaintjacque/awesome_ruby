@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 369
+- Resources: 370
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 103, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 69 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 104, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 70 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (86)
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
-- [Gems & Libraries](#gems-libraries) (69)
+- [Gems & Libraries](#gems-libraries) (70)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (12)
@@ -232,6 +232,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [brave-intl/publishers](https://github.com/brave-intl/publishers) - Publisher interface for Brave Payments Stars: 65; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧 Stars: 134; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 Stars: 29173; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS Stars: 2484; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. Stars: 5582; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
