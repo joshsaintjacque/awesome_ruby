@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 460
+- Resources: 461
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 189, gem: 23, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 160 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 190, gem: 23, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 161 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (51)
-- [Rails & Hotwire](#rails-hotwire) (99)
+- [Rails & Hotwire](#rails-hotwire) (100)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (108)
 - [Testing & Quality](#testing-quality) (21)
@@ -136,6 +136,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [b3s/b3s](https://github.com/b3s/b3s) - Totally sweet Ruby on Rails-based forum software Stars: 119; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ChaosToTheRescue: LLM-Powered Method Generation and Rails Error Rescue Suggestions](https://github.com/codenamev/chaos_to_the_rescue) - 🤖 ChaosToTheRescue: LLM-Powered Method Generation and Rails Error Rescue Suggestions — “This experiment explores how much uncertainty Ruby code can tolerate before it stops feeling deterministic.” Please don't put this into prod! 😅. _(project; Ruby Weekly #785; seen 2026-01-29)_
+- [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2) - Rails 6 re-write of Coursemology Stars: 157; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Eric-Guo/wechat](https://github.com/Eric-Guo/wechat) - API, command and message handling for WeChat in Rails Stars: 1338; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Introducing Upright: 37signals' Synthetic Monitoring System](https://dev.37signals.com/introducing-upright) - This new Rails engine runs health checks from multiple locations (which can be cheap VPSes) and sends notifications when things break. Even if you don’t want to run it, its codebase is yet another example of how 37signals builds software. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [karafka/karafka](https://github.com/karafka/karafka) - Ruby and Rails efficient Kafka processing framework Stars: 2234; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
