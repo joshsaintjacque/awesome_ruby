@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 40
-- Categories: 11
+- Resources: 41
+- Categories: 12
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, project: 2, gem: 7, release: 17, talk: 1, news: 2
-- Provenance: 40 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, project: 2, gem: 7, release: 18, talk: 1, news: 2
+- Provenance: 41 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,6 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (5)
 - [Testing & Quality](#testing-quality) (2)
 - [Security & Authentication](#security-authentication) (1)
+- [DevOps & Deployment](#devops-deployment) (1)
 - [AI & LLMs](#ai-llms) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (4)
 - [Data, APIs & Integration](#data-apis-integration) (1)
@@ -80,6 +81,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Security & Authentication
 
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
+
+## DevOps & Deployment
+
+- [Gemstash 2.8](https://github.com/rubygems/gemstash) - – Run your own local gem server and caching proxy for RubyGems.org. _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## AI & LLMs
 
