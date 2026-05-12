@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 147
+- Resources: 148
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 38, guide: 4, project: 18, gem: 11, release: 70, talk: 1, news: 5
-- Provenance: 147 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 39, guide: 4, project: 18, gem: 11, release: 70, talk: 1, news: 5
+- Provenance: 148 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (27)
+- [Ruby Language & Internals](#ruby-language-internals) (28)
 - [Rails & Hotwire](#rails-hotwire) (41)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
@@ -38,6 +38,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Ruby Language & Internals
 
 - [Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking](https://bugs.ruby-lang.org/issues/21930) - 📄 Feature: Add Ractor#empty? Method to Check for Pending Messages Without Blocking Ruby Issue Tracker. _(article; Ruby Weekly #790; seen 2026-03-05)_
+- [How We Fixed YAML Comment Preservation in Ruby](https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it) - Discourse sponsored Kevin Newton to stabilize Psych::Pure, a pure-Ruby alternative to the Psych YAML parser, in order to solve some of Discourse’s long standing requirements, such as needing to maintain comments in YAML files. This work is ultimately good news for all of us. _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [JSLinux](https://bellard.org/jslinux) - is Fabrice Bellard's JavaScript-powered Linux VM that runs in the browser. It's not new, but it now supports x86_64. I was happy to see Ruby is ready to go, too, if you drop into this full Alpine Linux environment, though irb is broken, alas. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Difftastic](https://difftastic.wilfred.me.uk) - is a tool that can diff code files, not merely on a line-by-line basis like diff, but based on syntax. It supports all popular languages including Ruby, natch. Marco Roth has a Ruby wrapper for it, as well as Minitest::Difftastic for using it to show diffs in test runs. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubysyn](https://github.com/squadette/rubysyn/blob/master/README.md) - is an interesting attempt to 'clarify Ruby's syntax and semantics'. _(project; Ruby Weekly #794; seen 2026-04-02)_
