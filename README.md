@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 334
+- Resources: 335
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 69, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 34 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 70, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 35 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (54)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (16)
-- [Performance & Observability](#performance-observability) (10)
+- [Performance & Observability](#performance-observability) (11)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (6)
 - [AI & LLMs](#ai-llms) (18)
@@ -306,6 +306,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [From 40 Minutes to 4 with Tests Parallelization](https://www.fastruby.io/blog/speed-up-tests-from-40-to-4-minutes.html) - 📄 From 40 Minutes to 4 with Tests Parallelization Ariel Juodziukynas (Ombulabs). _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubydex: A Static Analysis Toolkit for Ruby](https://github.com/Shopify/rubydex) - A new high-performance Ruby indexer with an MCP server designed for LLM tooling. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [solectrus/solectrus](https://github.com/solectrus/solectrus) - Self-hosted photovoltaic dashboard for monitoring solar production, consumption, battery usage, grid exchange, and financial performance. Stars: 156; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [The Outcomes of Last Week's Ruby 'Dev Meeting'](https://github.com/ruby/dev-meeting-log/blob/master/2026/DevMeeting-2026-02-12.md) - Last week I mentioned a meeting was taking place where lead core team members would answer questions around proposals, features, and bugs. Here are the rough notes of what happened, but a few quick highlights:. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [Dalli 5.0](https://github.com/petergoldstein/dalli) - – High-performance Ruby memcached client. Changelog. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Falcon 0.55](https://github.com/socketry/falcon) - – High-performance Ruby web server. Used in production by Shopify, this is the first release in some time. _(release; Ruby Weekly #791; seen 2026-03-12)_
