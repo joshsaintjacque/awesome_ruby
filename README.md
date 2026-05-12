@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 427
+- Resources: 428
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 158, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 127 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 159, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 128 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (95)
+- [Gems & Libraries](#gems-libraries) (96)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
@@ -295,6 +295,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [tobymao/18xx](https://github.com/tobymao/18xx) - A platform for playing 18xx games online! Stars: 354; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [untra/polyglot](https://github.com/untra/polyglot) - :abc: Multilingual and i18n support tool for Jekyll Blogs Stars: 494; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [usetrmnl/terminus](https://github.com/usetrmnl/terminus) - The flagship TRMNL BYOS application. Stars: 548; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [volcengine/volcengine-specs](https://github.com/volcengine/volcengine-specs) - Volcengine CocoaPods specs. Stars: 67; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) Stars: 8168; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [wikimedia/mediawiki-vagrant](https://github.com/wikimedia/mediawiki-vagrant) - A virtual MediaWiki development environment, built on Vagrant, VirtualBox, and Puppet. This is a mirror from https://gerrit.wikimedia.org. Stars: 69; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [yast/yast-yast2](https://github.com/yast/yast-yast2) - YaST module yast2 Stars: 71; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
