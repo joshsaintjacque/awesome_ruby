@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 496
+- Resources: 497
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 222, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 196 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 223, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 197 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
 - [Rails & Hotwire](#rails-hotwire) (109)
 - [Web Frameworks & APIs](#web-frameworks-apis) (39)
-- [Gems & Libraries](#gems-libraries) (119)
+- [Gems & Libraries](#gems-libraries) (120)
 - [Testing & Quality](#testing-quality) (23)
 - [Databases, Search & Storage](#databases-search-storage) (22)
 - [Performance & Observability](#performance-observability) (13)
@@ -315,6 +315,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [nuhkoca/kotlin-android-fastlane-firebase-app-distribution](https://github.com/nuhkoca/kotlin-android-fastlane-firebase-app-distribution) - A repository that shows how to use Firebase App Distribution to distribute android app to testers by fastlane. Stars: 92; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications Stars: 4460; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [OpenC3/cosmos](https://github.com/OpenC3/cosmos) - OpenC3 COSMOS Stars: 219; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet Stars: 166; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. Stars: 15046; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project Stars: 2059; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github Stars: 72; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
