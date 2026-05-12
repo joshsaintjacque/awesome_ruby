@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 222
+- Resources: 223
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 58, guide: 9, project: 29, gem: 14, release: 102, talk: 2, news: 8
-- Provenance: 222 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 59, guide: 9, project: 29, gem: 14, release: 102, talk: 2, news: 8
+- Provenance: 223 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (40)
 - [Rails & Hotwire](#rails-hotwire) (60)
 - [Web Frameworks & APIs](#web-frameworks-apis) (16)
-- [Gems & Libraries](#gems-libraries) (22)
+- [Gems & Libraries](#gems-libraries) (23)
 - [Testing & Quality](#testing-quality) (13)
 - [Databases, Search & Storage](#databases-search-storage) (7)
 - [Performance & Observability](#performance-observability) (9)
@@ -162,6 +162,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Gems & Libraries
 
+- [Balkan Ruby](https://balkanruby.com) - 🇧🇬 Balkan Ruby is taking place in Sofia, Bulgaria this May 15-16 and there are just four days left to submit your proposal if you'd like to speak. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [From Sidekiq to Temporal: A Zero-Downtime Migration Strategy](https://firehydrant.com/blog/sidekiq-to-temporal-a-zero-downtime-migration-strategy) - 📄 From Sidekiq to Temporal: A Zero-Downtime Migration Strategy David Haley (FireHydrant). _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [get its own built-in CPU time profiler?](https://bugs.ruby-lang.org/issues/21950) - Should Ruby get its own built-in CPU time profiler? _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [handle a lack of mandatory semicolons.](https://terts.dev/blog/no-semicolons-needed) - ;? Some analysis of how different programming languages (including Ruby) handle a lack of mandatory semicolons. _(article; Ruby Weekly #792; seen 2026-03-19)_
