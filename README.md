@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 331
+- Resources: 332
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 66, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 31 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 67, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 32 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (83)
 - [Web Frameworks & APIs](#web-frameworks-apis) (26)
-- [Gems & Libraries](#gems-libraries) (52)
+- [Gems & Libraries](#gems-libraries) (53)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (16)
 - [Performance & Observability](#performance-observability) (10)
@@ -221,6 +221,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs. Stars: 5582; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
+- [fjordllc/bootcamp](https://github.com/fjordllc/bootcamp) - プログラマー向けEラーニングシステム Stars: 293; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives. Stars: 856; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries Stars: 22013; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) Stars: 15282; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
