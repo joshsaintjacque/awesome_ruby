@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 26
+- Resources: 27
 - Categories: 10
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 6, project: 1, gem: 7, release: 11, talk: 1
-- Provenance: 26 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 7, project: 1, gem: 7, release: 11, talk: 1
+- Provenance: 27 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (5)
-- [Rails & Hotwire](#rails-hotwire) (6)
+- [Rails & Hotwire](#rails-hotwire) (7)
 - [Web Frameworks & APIs](#web-frameworks-apis) (2)
 - [Gems & Libraries](#gems-libraries) (4)
 - [Testing & Quality](#testing-quality) (1)
@@ -42,6 +42,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Rails & Hotwire
 
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
+- [Rails Upgrade Methodology as Claude Code Skills](https://www.fastruby.io/blog/open-source-claude-code-skill-for-rails-upgrades.html) - 🤖 Rails Upgrade Methodology as Claude Code Skills — I actually used the raw MD files last weekend to upgrade a Rails 6 app to Rails 8 and it went well. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Sam Ruby experiments with running 'Rails' on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - , Erlang's virtual machine (as also used by Elixir). It's not quite Rails as you'd expect though. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
 - [Ruby Native 0.4: Your Rails App in the App Store](https://rubynative.com) - Think Hotwire Native but without ever having to touch Swift, yet you still get native controls, navbars, menus, and iOS 26 styling. It’s now free right up to using TestFlight with your first 100 users. You only pay once you want to go live in the App Store. _(release; Ruby Weekly #794; seen 2026-04-02)_
