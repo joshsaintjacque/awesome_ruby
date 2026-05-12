@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 415
+- Resources: 416
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 146, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 115 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 147, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 116 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (94)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
-- [Gems & Libraries](#gems-libraries) (85)
+- [Gems & Libraries](#gems-libraries) (86)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (19)
 - [Performance & Observability](#performance-observability) (12)
@@ -243,6 +243,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you Stars: 304; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [brave-intl/publishers](https://github.com/brave-intl/publishers) - Publisher interface for Brave Payments Stars: 65; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧 Stars: 134; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [buildkite/docs](https://github.com/buildkite/docs) - The source files for the Buildkite documentation Stars: 57; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 Stars: 29173; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS Stars: 2484; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
