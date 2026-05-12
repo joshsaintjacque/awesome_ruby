@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 451
+- Resources: 452
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 182, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 151 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 182, gem: 22, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 152 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
-- [Rails & Hotwire](#rails-hotwire) (97)
+- [Rails & Hotwire](#rails-hotwire) (98)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (105)
 - [Testing & Quality](#testing-quality) (20)
@@ -158,6 +158,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [decidim/decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails Stars: 1748; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [How I Audit a Legacy Rails Codebase](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase) - A methodical walkthrough of how to approach an inherited codebase, including checking versions, scanning the Gemfile for red flags, reviewing the schema, and identifying perf hotspots. _(gem; Ruby Weekly #791; seen 2026-03-12)_
 - [Rails Multi-Tenancy](https://dev.37signals.com/rails-multi-tenancy) - 📺 Rails Multi-Tenancy – Mike Dalessio shares the benefits of multi-tenant databases and how the Active Record Tenanted gem came to be. 37Signals. _(gem; Ruby Weekly #788; seen 2026-02-19)_
+- [railspulse/rails_pulse](https://github.com/railspulse/rails_pulse) - Rails Pulse is a comprehensive performance monitoring and debugging gem that provides insights into your Rails application's health. Stars: 457; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [Active Admin 3.5](https://activeadmin.info) - – Admin engine for Rails apps. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [ActiveType v2.8.0](https://github.com/makandra/active_type) - – Rails presenter and form model library providing ActiveRecord-like features for non-database-backed or extended models. _(release; Ruby Weekly #785; seen 2026-01-29)_
