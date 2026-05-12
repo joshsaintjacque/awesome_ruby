@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 385
+- Resources: 386
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 119, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 85 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 120, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 86 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (91)
 - [Web Frameworks & APIs](#web-frameworks-apis) (32)
-- [Gems & Libraries](#gems-libraries) (74)
+- [Gems & Libraries](#gems-libraries) (75)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (12)
@@ -259,6 +259,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [OpenC3/cosmos](https://github.com/OpenC3/cosmos) - OpenC3 COSMOS Stars: 219; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software. Stars: 15046; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project Stars: 2059; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github Stars: 72; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language Stars: 23576; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [sudara/awesome-juce](https://github.com/sudara/awesome-juce) - A curated list of JUCE modules, templates, plugins, oh my! Stars: 1256; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
