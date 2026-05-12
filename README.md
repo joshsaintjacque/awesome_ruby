@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 438
+- Resources: 439
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 169, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 138 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 170, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 139 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (35)
-- [Gems & Libraries](#gems-libraries) (101)
+- [Gems & Libraries](#gems-libraries) (102)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
@@ -244,6 +244,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK Stars: 179; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [alphanodes/additionals](https://github.com/alphanodes/additionals) - Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins. Stars: 160; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [approvals/ApprovalTests.Ruby](https://github.com/approvals/ApprovalTests.Ruby) - Approval Tests for Ruby Stars: 231; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Arie/serveme](https://github.com/Arie/serveme) - serveme.tf Stars: 97; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you Stars: 304; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
