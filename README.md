@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 307
+- Resources: 308
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 43, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 7 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 44, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 8 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
-- [Rails & Hotwire](#rails-hotwire) (82)
+- [Rails & Hotwire](#rails-hotwire) (83)
 - [Web Frameworks & APIs](#web-frameworks-apis) (24)
 - [Gems & Libraries](#gems-libraries) (42)
 - [Testing & Quality](#testing-quality) (17)
@@ -136,6 +136,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Introducing Upright: 37signals' Synthetic Monitoring System](https://dev.37signals.com/introducing-upright) - This new Rails engine runs health checks from multiple locations (which can be cheap VPSes) and sends notifications when things break. Even if you don’t want to run it, its codebase is yet another example of how 37signals builds software. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [Mudis: Fast, Thread-Safe, In-Memory, Sharded LRU Cache](https://github.com/kiebor81/mudis) - A pure Ruby in-memory cache (with a snapshot-based ‘soft persistence’ option). Useful for apps where a full Redis install is overkill for doing a little caching. Can integrate with Rails and Hanami. _(project; Ruby Weekly #785; seen 2026-01-29)_
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails Stars: 58425; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [Stringer](https://github.com/stringer-rss/stringer) - (above) is a visually pleasing Rails-powered 'anti social' RSS feed reader that sticks to the basics, with no social features or ‘fancy machine learning’ at all. First featured over a year ago, it’s continued to see frequent updates. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
