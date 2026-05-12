@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 8
-- Categories: 5
+- Resources: 9
+- Categories: 6
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 1, gem: 3, release: 4
-- Provenance: 8 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 2, gem: 3, release: 4
+- Provenance: 9 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,6 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (1)
 - [Web Frameworks & APIs](#web-frameworks-apis) (1)
 - [Security & Authentication](#security-authentication) (1)
+- [Frontend, Assets & UI](#frontend-assets-ui) (1)
 - [Community, News & Events](#community-news-events) (1)
 
 ## Ruby Language & Internals
@@ -44,6 +45,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Security & Authentication
 
 - [Protecting RubyGems.org from the Outside In](https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html) - A quick update on work the RubyGems team has been doing to ensure the integrity of the gem registry, including password checks and validating gem contents at push time. _(gem; Ruby Weekly #795; seen 2026-04-09)_
+
+## Frontend, Assets & UI
+
+- [Ruby Deserves Beautiful Documentation](https://paolino.me/ruby-deserves-beautiful-documentation) - A Jekyll theme that emulates the much-admired docs theme that VitePress offers, minus all the JavaScript. The project's homepage is its own example of the output. _(article; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Community, News & Events
 
