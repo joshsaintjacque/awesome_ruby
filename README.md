@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 338
+- Resources: 339
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 73, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 38 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 74, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 39 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (84)
 - [Web Frameworks & APIs](#web-frameworks-apis) (26)
-- [Gems & Libraries](#gems-libraries) (55)
+- [Gems & Libraries](#gems-libraries) (56)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (11)
@@ -218,6 +218,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rubycon Italy](https://rubycon.it) - 🇮🇹 Rubycon Italy, taking place this May 8, has just unveiled its schedule, written in Ruby itself! _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [super-technical look behind the scenes](https://bernsteinbear.com/blog/multiple-entry) - Max Bernstein, who works on ZJIT, shares a brief but super-technical look behind the scenes at just one of many design decisions taking place in the deepest parts of Ruby. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [tiny ruby conf](https://helsinkiruby.fi/tinyruby) - 🇫🇮 tiny ruby conf is headed back to Helsinki this October 1. _(article; Ruby Weekly #785; seen 2026-01-29)_
+- [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP) Stars: 579; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [brave-intl/publishers](https://github.com/brave-intl/publishers) - Publisher interface for Brave Payments Stars: 65; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [codebar/planner](https://github.com/codebar/planner) - 🗓 the main codebar site Stars: 102; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
