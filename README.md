@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 89
+- Resources: 90
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 20, guide: 3, project: 8, gem: 8, release: 46, talk: 1, news: 3
-- Provenance: 89 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 20, guide: 3, project: 8, gem: 8, release: 47, talk: 1, news: 3
+- Provenance: 90 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (2)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (2)
-- [Frontend, Assets & UI](#frontend-assets-ui) (5)
+- [Frontend, Assets & UI](#frontend-assets-ui) (6)
 - [Data, APIs & Integration](#data-apis-integration) (4)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (3)
@@ -146,6 +146,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Improving on Sandi Metz's Gear Class from POODR](https://www.saturnci.com/improving-on-sandi-metz-s-gear-class.html) - 📄 Improving on Sandi Metz's Gear Class from POODR – *gasp!* Jason Swett. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby Deserves Beautiful Documentation](https://paolino.me/ruby-deserves-beautiful-documentation) - A Jekyll theme that emulates the much-admired docs theme that VitePress offers, minus all the JavaScript. The project's homepage is its own example of the output. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [What To Know in JavaScript (2026 Edition)](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition) - Keen to brush up your knowledge of modern JavaScript? Chris Coyier's What To Know in JavaScript (2026 Edition) tours the latest language features, plus the state of the most popular runtimes and build tools. _(article; Ruby Weekly #795; seen 2026-04-09)_
+- [Brut 0.20](https://brutrb.com) - – Raw, standards-based, HTML-first web framework. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [RubyGems 4.0.10](https://blog.rubygems.org/2026/04/08/4.0.10-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems 4.0.9](https://blog.rubygems.org/2026/03/25/4.0.9-released.html) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #793; seen 2026-03-26)_
 
