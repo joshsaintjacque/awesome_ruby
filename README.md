@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 111
+- Resources: 112
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 26, guide: 4, project: 11, gem: 10, release: 54, talk: 1, news: 5
-- Provenance: 111 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 26, guide: 4, project: 11, gem: 10, release: 55, talk: 1, news: 5
+- Provenance: 112 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (19)
 - [Rails & Hotwire](#rails-hotwire) (32)
-- [Web Frameworks & APIs](#web-frameworks-apis) (7)
+- [Web Frameworks & APIs](#web-frameworks-apis) (8)
 - [Gems & Libraries](#gems-libraries) (13)
 - [Testing & Quality](#testing-quality) (3)
 - [Databases, Search & Storage](#databases-search-storage) (2)
@@ -101,6 +101,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rack 3.2.6](https://github.com/rack/rack) - A Ruby resource worth tracking for current projects. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [telegram-bot-ruby 2.6](https://github.com/atipugin/telegram-bot-ruby) - 💬 telegram-bot-ruby 2.6 – Ruby wrapper for Telegram's Bot API – now supporting Bot API 9.5. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [The Twitter (X) Ruby Gem 8.3](https://github.com/sferik/twitter-ruby) - – Ruby interface to the official X API. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [Typhoeus 1.6](https://github.com/typhoeus/typhoeus/blob/master/CHANGELOG.md) - – libcurl-wrapper optimized for parallel HTTP request use cases. _(release; Ruby Weekly #791; seen 2026-03-12)_
 
 ## Gems & Libraries
 
