@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 358
+- Resources: 359
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 92, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 58 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 93, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 59 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (85)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
-- [Gems & Libraries](#gems-libraries) (63)
+- [Gems & Libraries](#gems-libraries) (64)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (11)
@@ -225,6 +225,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [tiny ruby conf](https://helsinkiruby.fi/tinyruby) - 🇫🇮 tiny ruby conf is headed back to Helsinki this October 1. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP) Stars: 579; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks Stars: 9064; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [brave-intl/publishers](https://github.com/brave-intl/publishers) - Publisher interface for Brave Payments Stars: 65; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧 Stars: 134; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 Stars: 29173; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
