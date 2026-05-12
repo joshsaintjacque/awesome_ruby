@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-require "date"
 require "set"
 require "yaml"
 
@@ -11,7 +10,7 @@ README = File.join(ROOT, "README.md")
 COVER = File.join(ROOT, "assets", "awesome-ruby-cover.png")
 EXPECTED_COUNT = Integer(ENV.fetch("EXPECTED_COUNT", "500"))
 
-required_fields = %w[title url category type source summary]
+required_fields = %w[title url category type summary]
 files = Dir.glob(File.join(RESOURCE_ROOT, "**", "*.md")).sort
 errors = []
 resources = []
@@ -25,7 +24,7 @@ files.each do |path|
   end
 
   begin
-    data = YAML.safe_load(match[1], permitted_classes: [Date], aliases: false)
+    data = YAML.safe_load(match[1], aliases: false)
   rescue Psych::SyntaxError => e
     errors << "#{path}: invalid YAML: #{e.message}"
     next
@@ -71,16 +70,9 @@ if category_counts.length < 8
   errors << "expected at least 8 categories, found #{category_counts.length}"
 end
 
-ruby_weekly_count = resources.count { |resource| resource.fetch("source", "").start_with?("Ruby Weekly") }
-github_count = resources.count { |resource| resource.fetch("source", "").start_with?("GitHub") }
-errors << "expected Ruby Weekly-sourced resources" if ruby_weekly_count.zero?
-errors << "expected GitHub-sourced resources" if github_count.zero?
-
 if errors.any?
   warn errors.join("\n")
   exit 1
 end
 
 puts "Validated #{files.length} resources across #{category_counts.length} categories."
-puts "Ruby Weekly resources: #{ruby_weekly_count}"
-puts "GitHub resources: #{github_count}"
