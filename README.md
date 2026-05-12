@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 124
+- Resources: 125
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 29, guide: 4, project: 14, gem: 11, release: 60, talk: 1, news: 5
-- Provenance: 124 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 29, guide: 4, project: 15, gem: 11, release: 60, talk: 1, news: 5
+- Provenance: 125 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (22)
-- [Rails & Hotwire](#rails-hotwire) (34)
+- [Rails & Hotwire](#rails-hotwire) (35)
 - [Web Frameworks & APIs](#web-frameworks-apis) (10)
 - [Gems & Libraries](#gems-libraries) (15)
 - [Testing & Quality](#testing-quality) (3)
@@ -76,6 +76,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Building Browser-Based Ruby Tutorials with Tutorialkit.rb](https://evilmartians.com/chronicles/tutorialkit-rb-interactive-ruby-tutorials-entirely-in-the-browser) - TutorialKit.rb is a toolkit for building interactive Ruby (and Rails!) tutorials that run in-browser with WebAssembly. This post tours building your own experiences, shares working examples right in the post, and explains the tech behind it all, including a custom Ruby WASM build that can run Rails. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [Deploying a Rails 8 App with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal) - 📄 Deploying a Rails 8 App with Kamal on Hetzner – An exhaustive step-by-step walkthrough of the process. Mooktakim Ahmed. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [How to Declare Acronyms in Rails Inflections](https://andycroll.com/ruby/declare-acronyms-in-rails-inflections) - 📄 How to Declare Acronyms in Rails Inflections – For when you don’t want "api".camelize to be "Api" but "API". Andy Croll. _(guide; Ruby Weekly #792; seen 2026-03-19)_
+- [ActiveCanvas: An AI-Powered CMS Engine for Rails](https://www.active-canvas.com) - A new Rails 8-focused CMS engine with a visual page builder, Tailwind CSS styling and AI integration for editing copy or generating images. Drop it into your Rails app and turn it into a full-featured CMS. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
