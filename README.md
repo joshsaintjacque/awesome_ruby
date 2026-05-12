@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 424
+- Resources: 425
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 155, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 124 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 156, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 125 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (49)
+- [Ruby Language & Internals](#ruby-language-internals) (50)
 - [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
 - [Gems & Libraries](#gems-libraries) (93)
@@ -46,6 +46,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Falcon: A High-Performance Web Server for Ruby](https://socketry.github.io/falcon) - A multi-process, multi-fiber rack-compatible HTTP server built on top of async, async-container and async-http. It’s been a lonnng time since we mentioned this, but it’s now serving most of Shopify’s traffic so you know it can scale. GitHub repo and a getting started guide. _(guide; Ruby Weekly #787; seen 2026-02-12)_
 - [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone) - 😍 Shades of Halftone is a gorgeously detailed walkthrough of creating pixelation, dithering, and halftone printing effects using GLSL and React Three Fiber. So aesthetic. _(guide; Ruby Weekly #787; seen 2026-02-12)_
 - [Difftastic](https://difftastic.wilfred.me.uk) - is a tool that can diff code files, not merely on a line-by-line basis like diff, but based on syntax. It supports all popular languages including Ruby, natch. Marco Roth has a Ruby wrapper for it, as well as Minitest::Difftastic for using it to show diffs in test runs. _(project; Ruby Weekly #791; seen 2026-03-12)_
+- [jruby/jruby](https://github.com/jruby/jruby) - JRuby, an implementation of Ruby on the JVM Stars: 3897; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [mlx-ruby: Ruby Bindings for Apple's MLX Framework](https://github.com/skryl/mlx-ruby) - An agent-assisted attempt to bring bindings to Apple’s ML-focused array framework to Ruby, including an idiomatic Ruby DSL. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [Rubysyn](https://github.com/squadette/rubysyn/blob/master/README.md) - is an interesting attempt to 'clarify Ruby's syntax and semantics'. _(project; Ruby Weekly #794; seen 2026-04-02)_
 - [the ability to use a WebAssembly build of Ruby's Prism parser to JRuby](https://github.com/jruby/jruby/pull/9184) - Charles Nutter has been adding the ability to use a WebAssembly build of Ruby's Prism parser to JRuby as a way to maintain Ruby language compatibility without a native library requirement. _(project; Ruby Weekly #785; seen 2026-01-29)_
