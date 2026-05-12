@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 162
+- Resources: 163
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 78, talk: 1, news: 5
-- Provenance: 162 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 79, talk: 1, news: 5
+- Provenance: 163 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -31,7 +31,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (9)
 - [Frontend, Assets & UI](#frontend-assets-ui) (13)
-- [Data, APIs & Integration](#data-apis-integration) (5)
+- [Data, APIs & Integration](#data-apis-integration) (6)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
 - [Community, News & Events](#community-news-events) (5)
 
@@ -225,6 +225,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Bunny 3.0/3.1](https://github.com/ruby-amqp/bunny) - – RabbitMQ client library. Here's what changed in v3.0. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [ruby-duckdb 1.5](https://github.com/suketa/ruby-duckdb) - – Ruby client for DuckDB. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [Stripe Ruby Library 19.0](https://github.com/stripe/stripe-ruby/releases/tag/v19.0.0) - 💳 Stripe Ruby Library 19.0 – Stripe's official library. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Stripe Ruby Library v18.4.0](https://github.com/stripe/stripe-ruby/releases/tag/v18.4.0) - 💳 Stripe Ruby Library v18.4.0. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [Wombat 3.3](https://github.com/felipecsl/wombat) - – Ruby DSL for scraping pages and parsing structured data. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Learning, Articles & Talks
