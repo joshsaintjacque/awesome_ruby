@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 343
+- Resources: 344
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 78, gem: 17, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 43 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 79, gem: 17, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 44 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -33,7 +33,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Frontend, Assets & UI](#frontend-assets-ui) (23)
 - [Data, APIs & Integration](#data-apis-integration) (7)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
-- [Community, News & Events](#community-news-events) (12)
+- [Community, News & Events](#community-news-events) (13)
 
 ## Ruby Language & Internals
 
@@ -411,6 +411,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [bborn/lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats. Stars: 319; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. Stars: 47010; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion Stars: 4668; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community Stars: 49946; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Four Months of Ruby Central Moving Ruby Backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward) - If you thought the Ruby Central/Bundler incident of 2025 was all resolved, think again. André’s not happy with Ruby Central's answers so far, and suggests how everyone can help address the situation, including using independent projects like rv and gem.coop. _(gem; Ruby Weekly #790; seen 2026-03-05)_
 - [The 'RubyGems Fracture' Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report) - A postmortem of the Ruby Central vs Bundler story in late 2025 which resulted in the Ruby core team taking stewardship of RubyGems and Bundler. The timeline of events is laid out in detail, but it’s unlikely to resolve the matter entirely (as demonstrated in this Reddit comment by Mike Perham). _(gem; Ruby Weekly #794; seen 2026-04-02)_
 - [Towards an Amicable Resolution with Ruby Central](https://andre.arko.net/2026/04/02/towards-an-amicable-resolution-with-ruby-central) - Last week, Richard Schneeman and Ruby Central published a report into 2025’s contentious ‘RubyGems fracture’ and now former Bundler maintainer André has his say and makes two requests for the incident to be considered amicably settled. _(gem; Ruby Weekly #795; seen 2026-04-09)_
