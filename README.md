@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 271
+- Resources: 272
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 76, guide: 13, project: 34, gem: 16, release: 119, talk: 2, news: 11
-- Provenance: 271 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 76, guide: 13, project: 34, gem: 16, release: 120, talk: 2, news: 11
+- Provenance: 272 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -25,7 +25,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Web Frameworks & APIs](#web-frameworks-apis) (20)
 - [Gems & Libraries](#gems-libraries) (29)
 - [Testing & Quality](#testing-quality) (16)
-- [Databases, Search & Storage](#databases-search-storage) (10)
+- [Databases, Search & Storage](#databases-search-storage) (11)
 - [Performance & Observability](#performance-observability) (10)
 - [Security & Authentication](#security-authentication) (7)
 - [DevOps & Deployment](#devops-deployment) (4)
@@ -246,6 +246,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [the story of how it's scaled Postgres to serve 800+ million users.](https://openai.com/index/scaling-postgresql) - OpenAI shares the story of how it's scaled Postgres to serve 800+ million users. The interesting technical point is they're only using a single primary (coupled with many read replicas) to do so. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Chewy 8.0](https://github.com/toptal/chewy) - – A high level framework for Elasticsearch. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Elasticsearch 9.3](https://github.com/elastic/elasticsearch-ruby/releases/tag/v9.3.0) - – Official Ruby client for Elasticsearch. _(release; Ruby Weekly #786; seen 2026-02-05)_
+- [Redis::Objects 2.0: Map Redis Types Directly to Ruby Objects](https://github.com/nateware/redis-objects) - An idiomatically Ruby interface to the Redis data structure server that avoids the usual mess of ORMs (since ORMs don’t naturally fit with the lighter Redis approach). _(release; Ruby Weekly #784; seen 2026-01-22)_
 - [Windows 3.11 experience in your browser.](https://pieter.com) - Play with a full Windows 3.11 experience in your browser. There's a recreation of '90s search engine AltaVista, a version of mIRC that connects to an actual IRC server, and a variety of classic games. _(release; Ruby Weekly #789; seen 2026-02-26)_
 
 ## Performance & Observability
