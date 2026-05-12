@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 439
+- Resources: 440
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 170, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 139 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 171, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 140 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
-- [Rails & Hotwire](#rails-hotwire) (95)
+- [Rails & Hotwire](#rails-hotwire) (96)
 - [Web Frameworks & APIs](#web-frameworks-apis) (35)
 - [Gems & Libraries](#gems-libraries) (102)
 - [Testing & Quality](#testing-quality) (18)
@@ -136,6 +136,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ChaosToTheRescue: LLM-Powered Method Generation and Rails Error Rescue Suggestions](https://github.com/codenamev/chaos_to_the_rescue) - 🤖 ChaosToTheRescue: LLM-Powered Method Generation and Rails Error Rescue Suggestions — “This experiment explores how much uncertainty Ruby code can tolerate before it stops feeling deterministic.” Please don't put this into prod! 😅. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [Eric-Guo/wechat](https://github.com/Eric-Guo/wechat) - API, command and message handling for WeChat in Rails Stars: 1338; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Introducing Upright: 37signals' Synthetic Monitoring System](https://dev.37signals.com/introducing-upright) - This new Rails engine runs health checks from multiple locations (which can be cheap VPSes) and sends notifications when things break. Even if you don’t want to run it, its codebase is yet another example of how 37signals builds software. _(project; Ruby Weekly #788; seen 2026-02-19)_
+- [karafka/karafka](https://github.com/karafka/karafka) - Ruby and Rails efficient Kafka processing framework Stars: 2234; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [kiskolabs/carpentry](https://github.com/kiskolabs/carpentry) - Handcrafted prototypes for Rails Stars: 57; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [lorint/brick](https://github.com/lorint/brick) - Auto-generate models, views, controllers, and routes in a Rails app based on database structure Stars: 384; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
