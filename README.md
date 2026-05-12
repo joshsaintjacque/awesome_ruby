@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 191
+- Resources: 192
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 46, guide: 5, project: 27, gem: 13, release: 91, talk: 1, news: 8
-- Provenance: 191 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 46, guide: 6, project: 27, gem: 13, release: 91, talk: 1, news: 8
+- Provenance: 192 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (33)
-- [Rails & Hotwire](#rails-hotwire) (51)
+- [Rails & Hotwire](#rails-hotwire) (52)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
 - [Gems & Libraries](#gems-libraries) (19)
 - [Testing & Quality](#testing-quality) (11)
@@ -93,6 +93,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Building Browser-Based Ruby Tutorials with Tutorialkit.rb](https://evilmartians.com/chronicles/tutorialkit-rb-interactive-ruby-tutorials-entirely-in-the-browser) - TutorialKit.rb is a toolkit for building interactive Ruby (and Rails!) tutorials that run in-browser with WebAssembly. This post tours building your own experiences, shares working examples right in the post, and explains the tech behind it all, including a custom Ruby WASM build that can run Rails. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [Deploying a Rails 8 App with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal) - 📄 Deploying a Rails 8 App with Kamal on Hetzner – An exhaustive step-by-step walkthrough of the process. Mooktakim Ahmed. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [How to Declare Acronyms in Rails Inflections](https://andycroll.com/ruby/declare-acronyms-in-rails-inflections) - 📄 How to Declare Acronyms in Rails Inflections – For when you don’t want "api".camelize to be "Api" but "API". Andy Croll. _(guide; Ruby Weekly #792; seen 2026-03-19)_
+- [TutorialKit.rb: The ruby.wasm Journey Goes Onward](https://evilmartians.com/chronicles/tutorialkit-rb-the-ruby-wasm-journey-goes-onward) - TutorialKit.rb is a toolkit for building interactive Ruby and Rails tutorials that run entirely in the browser using WebAssembly and WebContainers – here's a live example. A fantastic look at what's possible with Ruby in the browser right now. _(guide; Ruby Weekly #787; seen 2026-02-12)_
 - [about to land in Rails.](https://github.com/rails/rails/pull/55770) - this_week?/this_month?/this_year? are about to land in Rails. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [ActiveCanvas: An AI-Powered CMS Engine for Rails](https://www.active-canvas.com) - A new Rails 8-focused CMS engine with a visual page builder, Tailwind CSS styling and AI integration for editing copy or generating images. Drop it into your Rails app and turn it into a full-featured CMS. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
