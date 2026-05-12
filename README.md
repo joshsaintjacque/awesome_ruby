@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 494
+- Resources: 495
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 220, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 194 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 221, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 195 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (52)
-- [Rails & Hotwire](#rails-hotwire) (108)
+- [Rails & Hotwire](#rails-hotwire) (109)
 - [Web Frameworks & APIs](#web-frameworks-apis) (39)
 - [Gems & Libraries](#gems-libraries) (118)
 - [Testing & Quality](#testing-quality) (23)
@@ -162,6 +162,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [sinaptia/ruby_llm-monitoring](https://github.com/sinaptia/ruby_llm-monitoring) - Monitor your LLM usage within your Rails application. Stars: 79; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [socializer/socializer](https://github.com/socializer/socializer) - Rails engine to make your projects social. Adds stream, profile, circles, groups and notifications. Stars: 58; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Stringer](https://github.com/stringer-rss/stringer) - (above) is a visually pleasing Rails-powered 'anti social' RSS feed reader that sticks to the basics, with no social features or ‘fancy machine learning’ at all. First featured over a year ago, it’s continued to see frequent updates. _(project; Ruby Weekly #789; seen 2026-02-26)_
+- [templatus/templatus-inertia](https://github.com/templatus/templatus-inertia) - Opinionated template for starting new web applications with Ruby on Rails and Inertia (using Svelte.js) Stars: 73; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [templatus/templatus-vue](https://github.com/templatus/templatus-vue) - Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3 Stars: 87; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [ViewComponent/view_component](https://github.com/ViewComponent/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails. Stars: 3560; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
