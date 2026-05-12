@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 139
+- Resources: 140
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 36, guide: 4, project: 16, gem: 11, release: 66, talk: 1, news: 5
-- Provenance: 139 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 36, guide: 4, project: 17, gem: 11, release: 66, talk: 1, news: 5
+- Provenance: 140 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (26)
 - [Rails & Hotwire](#rails-hotwire) (40)
 - [Web Frameworks & APIs](#web-frameworks-apis) (11)
-- [Gems & Libraries](#gems-libraries) (16)
+- [Gems & Libraries](#gems-libraries) (17)
 - [Testing & Quality](#testing-quality) (4)
 - [Databases, Search & Storage](#databases-search-storage) (2)
 - [Performance & Observability](#performance-observability) (7)
@@ -130,6 +130,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby is officially taking part](https://rubycentral.org/news/ruby-participates-in-gsoc-2026) - in this year's Google Summer of Code. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Rubycon Italy](https://rubycon.it) - 🇮🇹 Rubycon Italy, taking place this May 8, has just unveiled its schedule, written in Ruby itself! _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [eliminate RubyGems' dependency on libyaml.](https://github.com/ruby/rubygems/pull/9352) - Ruby core contributor Hiroshi Shibata is working to eliminate RubyGems' dependency on libyaml. _(project; Ruby Weekly #791; seen 2026-03-12)_
+- [Textbringer v19](https://github.com/shugo/textbringer) - – Emacs-like text editor written in Ruby. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [Should RubyGems/Bundler Have a 'Cooldown' Feature?](https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp) - RubyGems’ maintainer reflects on the idea, quickly gathering steam with other package managers (e.g.), of having a waiting period before newly released packages are installed. Hiroshi says yes, but as an opt-in feature, as it's no silver bullet. _(gem; Ruby Weekly #792; seen 2026-03-19)_
