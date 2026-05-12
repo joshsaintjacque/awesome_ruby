@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 359
+- Resources: 360
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 93, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 59 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 94, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 60 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -31,7 +31,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [DevOps & Deployment](#devops-deployment) (7)
 - [AI & LLMs](#ai-llms) (19)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
-- [Data, APIs & Integration](#data-apis-integration) (8)
+- [Data, APIs & Integration](#data-apis-integration) (9)
 - [Learning, Articles & Talks](#learning-articles-talks) (4)
 - [Community, News & Events](#community-news-events) (14)
 
@@ -405,6 +405,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Transfer Manager Directory Support for AWS SDK for Ruby](https://aws.amazon.com/blogs/developer/transfer-manager-directory-support-for-aws-sdk-for-ruby) - 📄 Transfer Manager Directory Support for AWS SDK for Ruby – The AWS SDK for Ruby Transfer Manager now supports directory uploads and downloads. Juli Tera (AWS). _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby Stars: 3643; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [googleapis/google-cloud-ruby](https://github.com/googleapis/google-cloud-ruby) - Google Cloud Client Library for Ruby Stars: 1406; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Bunny 3.0/3.1](https://github.com/ruby-amqp/bunny) - – RabbitMQ client library. Here's what changed in v3.0. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [ruby-duckdb 1.5](https://github.com/suketa/ruby-duckdb) - – Ruby client for DuckDB. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [SmarterCSV v1.15](https://github.com/tilo/smarter_csv) - – A more intelligent Ruby CSV library. _(release; Ruby Weekly #786; seen 2026-02-05)_
