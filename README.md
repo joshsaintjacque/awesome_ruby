@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 53
+- Resources: 54
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 11, guide: 1, project: 4, gem: 7, release: 26, talk: 1, news: 3
-- Provenance: 53 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 11, guide: 1, project: 4, gem: 7, release: 27, talk: 1, news: 3
+- Provenance: 54 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Performance & Observability](#performance-observability) (1)
 - [Security & Authentication](#security-authentication) (1)
 - [DevOps & Deployment](#devops-deployment) (1)
-- [AI & LLMs](#ai-llms) (1)
+- [AI & LLMs](#ai-llms) (2)
 - [Frontend, Assets & UI](#frontend-assets-ui) (4)
 - [Data, APIs & Integration](#data-apis-integration) (2)
 - [Learning, Articles & Talks](#learning-articles-talks) (1)
@@ -102,6 +102,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## AI & LLMs
 
+- [RubyMine 2026.1](https://blog.jetbrains.com/ruby/2026/03/rubymine-2026-1-ai-chat-upgrades-new-code-insight-stable-remote-development-and-more) - JetBrains released RubyMine 2026.1, the latest version of its Ruby IDE. _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Ruby AI News newsletter](https://rubyai.beehiiv.com/p/ruby-ai-news-march-27th-2026) - 🤖 The Ruby AI News newsletter is celebrating its first birthday and is absolutely packed with stuff. _(news; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Frontend, Assets & UI
