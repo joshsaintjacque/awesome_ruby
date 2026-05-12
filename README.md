@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 117
+- Resources: 118
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 26, guide: 4, project: 12, gem: 10, release: 59, talk: 1, news: 5
-- Provenance: 117 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 27, guide: 4, project: 12, gem: 10, release: 59, talk: 1, news: 5
+- Provenance: 118 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (20)
+- [Ruby Language & Internals](#ruby-language-internals) (21)
 - [Rails & Hotwire](#rails-hotwire) (34)
 - [Web Frameworks & APIs](#web-frameworks-apis) (9)
 - [Gems & Libraries](#gems-libraries) (14)
@@ -37,6 +37,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Ruby Language & Internals
 
+- [JSLinux](https://bellard.org/jslinux) - is Fabrice Bellard's JavaScript-powered Linux VM that runs in the browser. It's not new, but it now supports x86_64. I was happy to see Ruby is ready to go, too, if you drop into this full Alpine Linux environment, though irb is broken, alas. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Difftastic](https://difftastic.wilfred.me.uk) - is a tool that can diff code files, not merely on a line-by-line basis like diff, but based on syntax. It supports all popular languages including Ruby, natch. Marco Roth has a Ruby wrapper for it, as well as Minitest::Difftastic for using it to show diffs in test runs. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Rubysyn](https://github.com/squadette/rubysyn/blob/master/README.md) - is an interesting attempt to 'clarify Ruby's syntax and semantics'. _(project; Ruby Weekly #794; seen 2026-04-02)_
 - [Building a (Frontend) Framework-Agnostic Gem](https://newsletter.masilotti.com/p/on-building-a-framework-agnostic) - Let’s say you want your code to work alongside ERB, React, and Vue. There’s more than compatibility to contend with, as each approach has to feel right, which is the harder bit. _(gem; Ruby Weekly #795; seen 2026-04-09)_
