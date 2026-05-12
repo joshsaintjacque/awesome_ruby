@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 416
+- Resources: 417
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 147, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 116 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 148, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 117 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
-- [Rails & Hotwire](#rails-hotwire) (94)
+- [Rails & Hotwire](#rails-hotwire) (95)
 - [Web Frameworks & APIs](#web-frameworks-apis) (34)
 - [Gems & Libraries](#gems-libraries) (86)
 - [Testing & Quality](#testing-quality) (18)
@@ -137,6 +137,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Introducing Upright: 37signals' Synthetic Monitoring System](https://dev.37signals.com/introducing-upright) - This new Rails engine runs health checks from multiple locations (which can be cheap VPSes) and sends notifications when things break. Even if you don’t want to run it, its codebase is yet another example of how 37signals builds software. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [kiskolabs/carpentry](https://github.com/kiskolabs/carpentry) - Handcrafted prototypes for Rails Stars: 57; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
+- [lorint/brick](https://github.com/lorint/brick) - Auto-generate models, views, controllers, and routes in a Rails app based on database structure Stars: 384; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Mudis: Fast, Thread-Safe, In-Memory, Sharded LRU Cache](https://github.com/kiebor81/mudis) - A pure Ruby in-memory cache (with a snapshot-based ‘soft persistence’ option). Useful for apps where a full Redis install is overkill for doing a little caching. Can integrate with Rails and Hanami. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [rails/bootsnap](https://github.com/rails/bootsnap) - Boot large Ruby/Rails apps faster Stars: 2725; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails Stars: 58425; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
