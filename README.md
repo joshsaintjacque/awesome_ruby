@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 270
+- Resources: 271
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 75, guide: 13, project: 34, gem: 16, release: 119, talk: 2, news: 11
-- Provenance: 270 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 76, guide: 13, project: 34, gem: 16, release: 119, talk: 2, news: 11
+- Provenance: 271 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (43)
 - [Rails & Hotwire](#rails-hotwire) (77)
 - [Web Frameworks & APIs](#web-frameworks-apis) (20)
-- [Gems & Libraries](#gems-libraries) (28)
+- [Gems & Libraries](#gems-libraries) (29)
 - [Testing & Quality](#testing-quality) (16)
 - [Databases, Search & Storage](#databases-search-storage) (10)
 - [Performance & Observability](#performance-observability) (10)
@@ -192,6 +192,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [get its own built-in CPU time profiler?](https://bugs.ruby-lang.org/issues/21950) - Should Ruby get its own built-in CPU time profiler? _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [handle a lack of mandatory semicolons.](https://terts.dev/blog/no-semicolons-needed) - ;? Some analysis of how different programming languages (including Ruby) handle a lack of mandatory semicolons. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [PicoRuby](https://picoruby.org) - is a tiny Ruby implementation for single chip microcontrollers, and someone's created a tiny IDE for it for the T-Deck Plus handheld device. _(article; Ruby Weekly #786; seen 2026-02-05)_
+- [POSSE Party: 'Quit Social Media by Posting More'](https://posseparty.com) - A source-available (GitHub repo) Ruby app enabling you to “Publish (on your) Own Site, Syndicate Elsewhere” (a.k.a. POSSE) which is a concept for blogging on your own site and having the content pushed out to social networks for you. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [Ruby Is Not a Serious Programming Language](https://www.wired.com/story/ruby-is-not-a-serious-programming-language) - Remember back in December when WIRED published the widely-panned Ruby Is Not a Serious Programming Language? They're back at it, this time calling COBOL the 'Asbestos of Programming Languages'. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Ruby is officially taking part](https://rubycentral.org/news/ruby-participates-in-gsoc-2026) - in this year's Google Summer of Code. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Ruby Users Forum](https://www.rubyforum.org) - Want to chat with other Rubyists old-school forum style? The Ruby Users Forum has just launched. _(article; Ruby Weekly #785; seen 2026-01-29)_
