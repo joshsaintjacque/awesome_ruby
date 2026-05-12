@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 62
+- Resources: 63
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 32, talk: 1, news: 3
-- Provenance: 62 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 5, gem: 7, release: 32, talk: 1, news: 3
+- Provenance: 63 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (11)
-- [Rails & Hotwire](#rails-hotwire) (17)
+- [Rails & Hotwire](#rails-hotwire) (18)
 - [Web Frameworks & APIs](#web-frameworks-apis) (6)
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
@@ -60,6 +60,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Building Browser-Based Ruby Tutorials with Tutorialkit.rb](https://evilmartians.com/chronicles/tutorialkit-rb-interactive-ruby-tutorials-entirely-in-the-browser) - TutorialKit.rb is a toolkit for building interactive Ruby (and Rails!) tutorials that run in-browser with WebAssembly. This post tours building your own experiences, shares working examples right in the post, and explains the tech behind it all, including a custom Ruby WASM build that can run Rails. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [Deploying a Rails 8 App with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal) - 📄 Deploying a Rails 8 App with Kamal on Hetzner – An exhaustive step-by-step walkthrough of the process. Mooktakim Ahmed. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
+- [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Inertia.js 3.0](https://inertiajs.com) - – Provides glue between React, Vue and Svelte SPAs and non-JS server-side frameworks like Rails and Django. More on v3. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1](https://rubyonrails.org/2026/3/23/Rails-Versions-7-2-3-1-8-0-4-1-and-8-1-2-1-have-been-released) - Lots of minor Rails releases this week: Rails 7.2.3.1, 8.0.4.1, and 8.1.2.1 to fix a variety of security issues, and 8.0.5 and 8.1.3 as regular bugfix releases. _(release; Ruby Weekly #793; seen 2026-03-26)_
