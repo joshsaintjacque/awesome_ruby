@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 443
+- Resources: 444
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 174, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 143 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 175, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 144 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (20)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (12)
-- [DevOps & Deployment](#devops-deployment) (12)
+- [DevOps & Deployment](#devops-deployment) (13)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (15)
@@ -414,6 +414,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gusto/it-cpe-opensource](https://github.com/Gusto/it-cpe-opensource) - Tools used by the CPE team at Gusto to manage our endpoints and software deployment systems. Stars: 68; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [heroku/heroku-buildpack-clojure](https://github.com/heroku/heroku-buildpack-clojure) - Heroku's classic buildpack for Clojure applications. Stars: 117; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [heroku/heroku-buildpack-scala](https://github.com/heroku/heroku-buildpack-scala) - Heroku's classic buildpack for Scala applications. Stars: 190; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Turn almost any website into an RSS feed and serve it instantly. Automatic scraping. Start fast with Docker. Stars: 156; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles) - Collection of Dockerfiles Stars: 77; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [openstreetmap/chef](https://github.com/openstreetmap/chef) - Chef configuration management repo for configuring & maintaining the OpenStreetMap servers. Stars: 112; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Secretlint](https://github.com/secretlint/secretlint) - 🔒 More than ever, it's essential to ensure no secrets have snuck into your repos. Secretlint is a linting tool dedicated entirely to the task. It's written in Node but can be used with Docker against projects of any language. _(project; Ruby Weekly #793; seen 2026-03-26)_
