@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 441
+- Resources: 442
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 172, gem: 21, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 141 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 173, gem: 21, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 142 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (50)
-- [Rails & Hotwire](#rails-hotwire) (96)
+- [Rails & Hotwire](#rails-hotwire) (97)
 - [Web Frameworks & APIs](#web-frameworks-apis) (35)
 - [Gems & Libraries](#gems-libraries) (102)
 - [Testing & Quality](#testing-quality) (18)
@@ -153,6 +153,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Stringer](https://github.com/stringer-rss/stringer) - (above) is a visually pleasing Rails-powered 'anti social' RSS feed reader that sticks to the basics, with no social features or ‘fancy machine learning’ at all. First featured over a year ago, it’s continued to see frequent updates. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [ViewComponent/view_component](https://github.com/ViewComponent/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails. Stars: 3560; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [vishaltps/solid_queue_monitor](https://github.com/vishaltps/solid_queue_monitor) - A lightweight, zero-dependency web interface for monitoring Solid Queue jobs in Rails applications. Stars: 67; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Building a Faster Bundler](https://railsatscale.com/2026-03-09-faster-bundler) - The Shopify team has been working on improvements to Bundler and RubyGems with the goal of reducing bundle install times. Increasing the HTTP connection pool size, parallel git clones, and optimizing hotspots in the codebase provide big wins, but they seek our help with another area in particular: precompiled gems. _(gem; Ruby Weekly #791; seen 2026-03-12)_
 - [decidim/decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails Stars: 1748; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
 - [How I Audit a Legacy Rails Codebase](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase) - A methodical walkthrough of how to approach an inherited codebase, including checking versions, scanning the Gemfile for red flags, reviewing the schema, and identifying perf hotspots. _(gem; Ruby Weekly #791; seen 2026-03-12)_
