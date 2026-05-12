@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 487
+- Resources: 488
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 213, gem: 26, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 187 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 214, gem: 26, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 188 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -30,7 +30,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Security & Authentication](#security-authentication) (13)
 - [DevOps & Deployment](#devops-deployment) (19)
 - [AI & LLMs](#ai-llms) (21)
-- [Frontend, Assets & UI](#frontend-assets-ui) (26)
+- [Frontend, Assets & UI](#frontend-assets-ui) (27)
 - [Data, APIs & Integration](#data-apis-integration) (17)
 - [Learning, Articles & Talks](#learning-articles-talks) (5)
 - [Community, News & Events](#community-news-events) (17)
@@ -500,6 +500,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [grosser/kennel](https://github.com/grosser/kennel) - Datadog monitors/dashboards/slos as code, avoid chaotic management via UI Stars: 145; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files. Stars: 1936; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Oat](https://oat.ink) - If you're tired of large JavaScript UI component libraries and their associated build tools, Oat might appeal to you. 8KB of CSS and JS (gzipped) gets you a UI component library you can use via regular semantic HTML elements. _(project; Ruby Weekly #788; seen 2026-02-19)_
+- [puzzle/prawn-markup](https://github.com/puzzle/prawn-markup) - Parse simple HTML markup to include in Prawn PDFs Stars: 68; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [RatatuiRuby: A Fresh Way to Build Terminal UIs in Ruby](https://www.ratatui-ruby.dev) - Ratatui is a popular Rust library for building fast, modern terminal user interfaces, and RatatuiRuby brings it to Ruby too. Despite being in beta/pre-release, this is an incredibly solid effort and I had fun playing with it (above). _(project; Ruby Weekly #784; seen 2026-01-22)_
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. Stars: 909; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [A Simple Tailwind CSS Setup for Jekyll](https://andycroll.com/ruby/simple-tailwind-css-4-setup-for-jekyll) - 📄 A Simple Tailwind CSS Setup for Jekyll – How to set up Tailwind with Jekyll using the jekyll-tailwind gem. Andy Croll. _(gem; Ruby Weekly #785; seen 2026-01-29)_
