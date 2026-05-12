@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 213
+- Resources: 214
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 55, guide: 8, project: 27, gem: 14, release: 100, talk: 1, news: 8
-- Provenance: 213 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 56, guide: 8, project: 27, gem: 14, release: 100, talk: 1, news: 8
+- Provenance: 214 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (39)
-- [Rails & Hotwire](#rails-hotwire) (55)
+- [Rails & Hotwire](#rails-hotwire) (56)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (22)
 - [Testing & Quality](#testing-quality) (13)
@@ -92,6 +92,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Mistral's Attempt to Put Rails Testing on Autopilot](https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont) - 🤖 Mistral's Attempt to Put Rails Testing on Autopilot — A post from France’s best-known AI shop detailing an autonomous agent they’ve built to work on RSpec suites in Rails apps. The end result is called Mistral Vibe. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Optimizations for Rails Apps](https://www.driftingruby.com/episodes/optimizations) - ▶️ Optimizations for Rails Apps – A 19-minute tour of some elementary techniques and tools (e.g. Prosopite). Drifting Ruby. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Rails Upgrade Methodology as Claude Code Skills](https://www.fastruby.io/blog/open-source-claude-code-skill-for-rails-upgrades.html) - 🤖 Rails Upgrade Methodology as Claude Code Skills — I actually used the raw MD files last weekend to upgrade a Rails 6 app to Rails 8 and it went well. _(article; Ruby Weekly #794; seen 2026-04-02)_
+- [Responsive Code Formatting on the Web – The Ruby Way](https://mostlyobvio.us/2026/02/responsive-code-formatting) - Rubyist Paweł wanted the code blocks on his site to render well and be responsive. He explored three options: using Ruby and Rouge via WebAssembly, a pre-rendered approach, and using Hotwire and Turbo Frames. A creative look at an old problem, complete with code and demos. _(article; Ruby Weekly #786; seen 2026-02-05)_
 - [Sam Ruby experiments with running 'Rails' on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - , Erlang's virtual machine (as also used by Elixir). It's not quite Rails as you'd expect though. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Smooth UI Animations on Server-Rendered HTML in Rails 8](https://blog.siami.fr/smooth-ui-animations-on-server-rendered-html) - 📄 Smooth UI Animations on Server-Rendered HTML in Rails 8 – Using Turbo’s morphing, the View Transitions API, and some Stimulus. Adrien Siami. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Storing Multi-Valued enum Fields in Active Record](https://sinaptia.dev/posts/storing-multi-valued-enum-fields-in-activerecord) - 📄 Storing Multi-Valued enum Fields in Active Record Nazareno Moresco. _(article; Ruby Weekly #790; seen 2026-03-05)_
