@@ -10,23 +10,24 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 4
+- Resources: 5
 - Categories: 4
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 1, gem: 2, release: 1
-- Provenance: 4 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 1, gem: 3, release: 1
+- Provenance: 5 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (1)
+- [Ruby Language & Internals](#ruby-language-internals) (2)
 - [Rails & Hotwire](#rails-hotwire) (1)
 - [Security & Authentication](#security-authentication) (1)
 - [Community, News & Events](#community-news-events) (1)
 
 ## Ruby Language & Internals
 
+- [Building a (Frontend) Framework-Agnostic Gem](https://newsletter.masilotti.com/p/on-building-a-framework-agnostic) - Let’s say you want your code to work alongside ERB, React, and Vue. There’s more than compatibility to contend with, as each approach has to feel right, which is the harder bit. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [A Maintainer's Guide to Ruby's Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) - Core team member hsbt explains how Ruby 3.2 and 3.3 are reaching their end, how Ruby versioning works generally, who maintains what, and what terms like ‘security maintenance’ mean in the context of a Ruby version’s lifecycle. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Rails & Hotwire
