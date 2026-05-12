@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 69
+- Resources: 70
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 14, guide: 2, project: 7, gem: 8, release: 34, talk: 1, news: 3
-- Provenance: 69 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 14, guide: 2, project: 7, gem: 8, release: 35, talk: 1, news: 3
+- Provenance: 70 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (11)
+- [Ruby Language & Internals](#ruby-language-internals) (12)
 - [Rails & Hotwire](#rails-hotwire) (19)
 - [Web Frameworks & APIs](#web-frameworks-apis) (6)
 - [Gems & Libraries](#gems-libraries) (8)
@@ -47,6 +47,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [rbspy v0.45](https://github.com/rbspy/rbspy) - 🔎 rbspy v0.45 – Sampling profiler for Ruby processes that can be used without restarting them. Now supports Ruby 3.2.11 and 3.3.11. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.3.11 has been released](https://www.ruby-lang.org/en/news/2026/03/26/ruby-3-3-11-released) - with a fix for the recent zlib vulnerability. This is the final normal maintenance release of Ruby 3.3, so it's time to plan an upgrade to 3.4 or 4.0. _(release; Ruby Weekly #793; seen 2026-03-26)_
+- [Ruby 4.0.2 Released to Fix a Tricky YJIT Bug](https://www.ruby-lang.org/en/news/2026/03/16/ruby-4-0-2-released) - A routine update with a fix for a YJIT bug that crashed processes. It was noticed when running Puma in cluster mode but affects any app where YJIT is enabled lazily and where local variables had escaped to the heap before YJIT started observing (there’s a proof of concept in YJIT’s test suite). There's also a fix for a GC-related perf regression. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [ruby.wasm 2.9.0](https://github.com/ruby/ruby.wasm) - – An official collection of WebAssembly ports of CRuby. Here's a handy cheat sheet. _(release; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Rails & Hotwire
