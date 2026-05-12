@@ -10,19 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 9
-- Categories: 6
+- Resources: 10
+- Categories: 7
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 2, gem: 3, release: 4
-- Provenance: 9 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 2, gem: 4, release: 4
+- Provenance: 10 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (4)
 - [Rails & Hotwire](#rails-hotwire) (1)
 - [Web Frameworks & APIs](#web-frameworks-apis) (1)
+- [Gems & Libraries](#gems-libraries) (1)
 - [Security & Authentication](#security-authentication) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (1)
 - [Community, News & Events](#community-news-events) (1)
@@ -41,6 +42,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Web Frameworks & APIs
 
 - [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
+
+## Gems & Libraries
+
+- [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Security & Authentication
 
