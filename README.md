@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 129
+- Resources: 130
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 30, guide: 4, project: 15, gem: 11, release: 63, talk: 1, news: 5
-- Provenance: 129 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 30, guide: 4, project: 16, gem: 11, release: 63, talk: 1, news: 5
+- Provenance: 130 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (25)
-- [Rails & Hotwire](#rails-hotwire) (35)
+- [Rails & Hotwire](#rails-hotwire) (36)
 - [Web Frameworks & APIs](#web-frameworks-apis) (10)
 - [Gems & Libraries](#gems-libraries) (16)
 - [Testing & Quality](#testing-quality) (3)
@@ -82,6 +82,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [ActiveCanvas: An AI-Powered CMS Engine for Rails](https://www.active-canvas.com) - A new Rails 8-focused CMS engine with a visual page builder, Tailwind CSS styling and AI integration for editing copy or generating images. Drop it into your Rails app and turn it into a full-featured CMS. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [an official AGENTS.md file](https://github.com/rails/rails/blob/main/AGENTS.md) - 🤖 Rails has gained an official AGENTS.md file aimed at AI agents being used to work directly upon the Rails code base (not regular apps). _(project; Ruby Weekly #795; seen 2026-04-09)_
 - [Avo 4 Open Beta](https://avohq.io/blog/avo-4-open-beta) - – A popular framework for building Rails apps for internal tools. _(project; Ruby Weekly #793; seen 2026-03-26)_
+- [land a to_markdown method](https://github.com/rails/rails/pull/56858) - Action Text is set to land a to_markdown method for rich text to be exported as Markdown, much like to_plain_text does for plain text. _(project; Ruby Weekly #790; seen 2026-03-05)_
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [this commit](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) - 🤖 With this commit, the Rails homepage adopted a 'fresh pitch for the agentic age' focused on selling Rails' benefits for agentic development. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [Building a Faster Bundler](https://railsatscale.com/2026-03-09-faster-bundler) - The Shopify team has been working on improvements to Bundler and RubyGems with the goal of reducing bundle install times. Increasing the HTTP connection pool size, parallel git clones, and optimizing hotspots in the codebase provide big wins, but they seek our help with another area in particular: precompiled gems. _(gem; Ruby Weekly #791; seen 2026-03-12)_
