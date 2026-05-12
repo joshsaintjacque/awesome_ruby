@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 56
+- Resources: 57
 - Categories: 13
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 12, guide: 2, project: 4, gem: 7, release: 27, talk: 1, news: 3
-- Provenance: 56 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 13, guide: 2, project: 4, gem: 7, release: 27, talk: 1, news: 3
+- Provenance: 57 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (11)
-- [Rails & Hotwire](#rails-hotwire) (15)
+- [Rails & Hotwire](#rails-hotwire) (16)
 - [Web Frameworks & APIs](#web-frameworks-apis) (5)
 - [Gems & Libraries](#gems-libraries) (7)
 - [Testing & Quality](#testing-quality) (2)
@@ -52,6 +52,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Handling Uncountable Words in Rails Inflections](https://andycroll.com/ruby/handle-uncountable-words-in-rails-inflections) - 📄 Handling Uncountable Words in Rails Inflections – Like staff, metadata, feedback.. or maybe sheep? Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
+- [Migrating from Devise to Rails' Authentication Generator](https://nithinbekal.com/posts/devise-to-rails-auth) - 📄 Migrating from Devise to Rails' Authentication Generator Nithin Bekal. _(article; Ruby Weekly #793; seen 2026-03-26)_
 - [Rails Upgrade Methodology as Claude Code Skills](https://www.fastruby.io/blog/open-source-claude-code-skill-for-rails-upgrades.html) - 🤖 Rails Upgrade Methodology as Claude Code Skills — I actually used the raw MD files last weekend to upgrade a Rails 6 app to Rails 8 and it went well. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Sam Ruby experiments with running 'Rails' on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - , Erlang's virtual machine (as also used by Elixir). It's not quite Rails as you'd expect though. _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [Teach Rails Irregular Plurals with Inflections](https://andycroll.com/ruby/teach-rails-irregular-plurals-with-inflections) - 📄 Teach Rails Irregular Plurals with Inflections — So criterion becomes criteria, say. Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
