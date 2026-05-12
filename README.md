@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 212
+- Resources: 213
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 55, guide: 8, project: 27, gem: 13, release: 100, talk: 1, news: 8
-- Provenance: 212 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 55, guide: 8, project: 27, gem: 14, release: 100, talk: 1, news: 8
+- Provenance: 213 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (38)
+- [Ruby Language & Internals](#ruby-language-internals) (39)
 - [Rails & Hotwire](#rails-hotwire) (55)
 - [Web Frameworks & APIs](#web-frameworks-apis) (15)
 - [Gems & Libraries](#gems-libraries) (22)
@@ -47,6 +47,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Difftastic](https://difftastic.wilfred.me.uk) - is a tool that can diff code files, not merely on a line-by-line basis like diff, but based on syntax. It supports all popular languages including Ruby, natch. Marco Roth has a Ruby wrapper for it, as well as Minitest::Difftastic for using it to show diffs in test runs. _(project; Ruby Weekly #791; seen 2026-03-12)_
 - [mlx-ruby: Ruby Bindings for Apple's MLX Framework](https://github.com/skryl/mlx-ruby) - An agent-assisted attempt to bring bindings to Apple’s ML-focused array framework to Ruby, including an idiomatic Ruby DSL. _(project; Ruby Weekly #788; seen 2026-02-19)_
 - [Rubysyn](https://github.com/squadette/rubysyn/blob/master/README.md) - is an interesting attempt to 'clarify Ruby's syntax and semantics'. _(project; Ruby Weekly #794; seen 2026-04-02)_
+- [Announcing the 2026 Gem Fellowship](https://gem.coop/updates/2026-fellowship) - gem.coop and Mike Perham recently announced a program to give $100,000 in grants to Ruby open source maintainers, and the ‘class of 2026’ has been revealed with projects like Rouge, Herb, Bridgetown, and Ferrum set to benefit. _(gem; Ruby Weekly #786; seen 2026-02-05)_
 - [Building a (Frontend) Framework-Agnostic Gem](https://newsletter.masilotti.com/p/on-building-a-framework-agnostic) - Let’s say you want your code to work alongside ERB, React, and Vue. There’s more than compatibility to contend with, as each approach has to feel right, which is the harder bit. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [A Maintainer's Guide to Ruby's Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) - Core team member hsbt explains how Ruby 3.2 and 3.3 are reaching their end, how Ruby versioning works generally, who maintains what, and what terms like ‘security maintenance’ mean in the context of a Ruby version’s lifecycle. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Clamp 1.5: A Minimal CLI Utility Framework](https://github.com/mdub/clamp) - A mature CLI framework with all the options you’d expect to “handle all the boring stuff”, along with a nice, idiomatic Ruby DSL syntax. _(release; Ruby Weekly #790; seen 2026-03-05)_
