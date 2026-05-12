@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 371
+- Resources: 372
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 105, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 71 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 106, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 72 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (86)
-- [Web Frameworks & APIs](#web-frameworks-apis) (31)
+- [Web Frameworks & APIs](#web-frameworks-apis) (32)
 - [Gems & Libraries](#gems-libraries) (70)
 - [Testing & Quality](#testing-quality) (18)
 - [Databases, Search & Storage](#databases-search-storage) (17)
@@ -182,6 +182,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby dev meeting is taking place today](https://bugs.ruby-lang.org/issues/21839) - An official Ruby dev meeting is taking place today where lead core team members, like Matz, answer questions about features and bugs. A few fun things in the agenda, like autoload_relative and a new API to scan directories efficiently. _(article; Ruby Weekly #787; seen 2026-02-12)_
 - [The Hanami project thanks Mike Perham and Sidekiq](https://hanamirb.org/blog/2026/03/12/thank-you-sidekiq-2026) - for their continued support in 2026. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Protocol::URL A New Way to Parse, Manipulate and Construct URLs](https://socketry.github.io/protocol-url/guides/getting-started/index.html) - A modern clean, standards-compliant API for working with URLs according to RFC 3986. Tidy and well documented. _(guide; Ruby Weekly #783; seen 2026-01-15)_
+- [3scale/porta](https://github.com/3scale/porta) - Red Hat 3scale API Management, Porta Stars: 78; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [AcceptLanguage](https://github.com/cyril/accept_language.rb) - – Accept-Language HTTP header parsing library. _(project; Ruby Weekly #785; seen 2026-01-29)_
 - [fleetyards/fleetyards](https://github.com/fleetyards/fleetyards) - A Ship Database and Web API based on the official Star Citizen Ship Matrix. Stars: 60; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [getlago/lago-api](https://github.com/getlago/lago-api) - Open Source Metering and Usage Based Billing Stars: 421; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
