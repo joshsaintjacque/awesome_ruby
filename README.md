@@ -10,17 +10,17 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 76
+- Resources: 77
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 16, guide: 2, project: 8, gem: 8, release: 38, talk: 1, news: 3
-- Provenance: 76 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 16, guide: 2, project: 8, gem: 8, release: 39, talk: 1, news: 3
+- Provenance: 77 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (13)
+- [Ruby Language & Internals](#ruby-language-internals) (14)
 - [Rails & Hotwire](#rails-hotwire) (22)
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
 - [Gems & Libraries](#gems-libraries) (8)
@@ -45,6 +45,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [JRuby 10.0.5.0](https://www.jruby.org/2026/04/06/jruby-10-0-5-0) - – The Ruby 3.4-compatible branch of JRuby gets a variety of bug fixes, adds formal Java 26 support, and JNR gains RISCv64 support. _(release; Ruby Weekly #795; seen 2026-04-09)_
 - [Nokolexbor 0.7: A Faster Drop-in Replacement for Nokogiri](https://github.com/serpapi/nokolexbor) - A Lexbor-based HTML5 parser that’s multiple times faster than Nokogiri. Ruby 2.7 is dropped, but Ruby 4.0 is supported and gets precompiled gems (installed in <4 seconds on my machine). _(release; Ruby Weekly #793; seen 2026-03-26)_
 - [Parallel 4.0: Parallel Processing Made Simple](https://github.com/grosser/parallel) - Run blocks of code in parallel processes, threads, or ractors using map, each, any?, and all?. v4.0 requires Ruby 3.3+ and adds ractor support for Ruby 4.x. _(release; Ruby Weekly #795; seen 2026-04-09)_
+- [RBS 4.0](https://github.com/ruby/rbs/releases/tag/v4.0.0) - , Ruby's type signature language, has been released with experimental inline syntax support so you can write type annotations directly in Ruby code, a la RBS::Inline. _(release; Ruby Weekly #792; seen 2026-03-19)_
 - [rbspy v0.45](https://github.com/rbspy/rbspy) - 🔎 rbspy v0.45 – Sampling profiler for Ruby processes that can be used without restarting them. Now supports Ruby 3.2.11 and 3.3.11. _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.2.11 has been released](https://www.ruby-lang.org/en/news/2026/03/27/ruby-3-2-11-released) - to fix the recent zlib vulnerability, much as Ruby 3.3.11 did last week. Note that Ruby 3.2 is now EOL (End of Life). _(release; Ruby Weekly #794; seen 2026-04-02)_
 - [Ruby 3.3.11 has been released](https://www.ruby-lang.org/en/news/2026/03/26/ruby-3-3-11-released) - with a fix for the recent zlib vulnerability. This is the final normal maintenance release of Ruby 3.3, so it's time to plan an upgrade to 3.4 or 4.0. _(release; Ruby Weekly #793; seen 2026-03-26)_
