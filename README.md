@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 266
+- Resources: 267
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 73, guide: 13, project: 34, gem: 16, release: 117, talk: 2, news: 11
-- Provenance: 266 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 74, guide: 13, project: 34, gem: 16, release: 117, talk: 2, news: 11
+- Provenance: 267 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (42)
-- [Rails & Hotwire](#rails-hotwire) (76)
+- [Rails & Hotwire](#rails-hotwire) (77)
 - [Web Frameworks & APIs](#web-frameworks-apis) (19)
 - [Gems & Libraries](#gems-libraries) (27)
 - [Testing & Quality](#testing-quality) (16)
@@ -86,6 +86,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [37signals Open Sources Its Writebook Rails App](https://once.com/writebook) - 📕 37signals Open Sources Its Writebook Rails App — Launched in 2024 in ‘source available’ form, 37signals has now opened up its Markdown Web book creator / renderer with the MIT license. GitHub repo. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design](https://blog.jetbrains.com/ruby/2026/02/rubymine-mcp-and-the-rails-toolset) - 📄 Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design Daniel Domjan (JetBrains). _(article; Ruby Weekly #789; seen 2026-02-26)_
 - [Claude Code for Semi-Reluctant Rails Developers](https://robbyonrails.com/claude-code-curious-rails-developers) - 🤖 Claude Code for Semi-Reluctant Rails Developers – Helpful advice from a long-time Rails developer. Robby Russell. _(article; Ruby Weekly #792; seen 2026-03-19)_
+- [Considering GoodJob, Solid Queue, Sidekiq, and Active Job in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026) - The Ruby ecosystem is lucky to have many options for running background jobs. Here, Ben, the maintainer of GoodJob, shares his genuine thoughts on choosing between the options, built upon his years of Rails experience. He finds merits in each option, depending on the specific scenario. _(article; Ruby Weekly #784; seen 2026-01-22)_
 - [DHH posted the rails stats output](https://x.com/dhh/status/2016449600257720742) - Over on X, DHH posted the rails stats output (see above) for 37signals' flagship Basecamp app, which is now entering development for Basecamp 5. He says: "So that's now a 12(!) year-old code base, and we're able to run the entire test suite in just 45 seconds on a local 16-core AMD Linux box.". _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Doing AI Agent Orchestration on Rails](https://jessewaites.com/blog/post/ai-agent-orchestration-on-rails) - 📄 Doing AI Agent Orchestration on Rails Jesse Waites. _(article; Ruby Weekly #788; seen 2026-02-19)_
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
