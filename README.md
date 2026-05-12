@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 75
+- Resources: 76
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 15, guide: 2, project: 8, gem: 8, release: 38, talk: 1, news: 3
-- Provenance: 75 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 16, guide: 2, project: 8, gem: 8, release: 38, talk: 1, news: 3
+- Provenance: 76 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Gems & Libraries](#gems-libraries) (8)
 - [Testing & Quality](#testing-quality) (3)
 - [Databases, Search & Storage](#databases-search-storage) (1)
-- [Performance & Observability](#performance-observability) (2)
+- [Performance & Observability](#performance-observability) (3)
 - [Security & Authentication](#security-authentication) (2)
 - [DevOps & Deployment](#devops-deployment) (2)
 - [AI & LLMs](#ai-llms) (2)
@@ -109,6 +109,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Performance & Observability
 
+- [an interesting performance remedy](https://bugs.ruby-lang.org/issues/14718) - jemalloc, the malloc implementation, has long provided an interesting performance remedy in the Ruby world but it became unmaintained last year. Well.. Meta's investing in jemalloc and bringing it back. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) - A Rust-powered bridge between Ruby and Python’s C APIs that brings Python into the same memory space as Ruby and shuttles objects back and forth (with no IPC or serialization) and uses uv to manage dependencies. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [pure-jpeg 0.3](https://github.com/peterc/pure_jpeg) - 🖼️ pure-jpeg 0.3 – My pure Ruby JPEG encoder/decoder library is now much faster (0.2s on a 1024x1024 image) thanks to some third-party contributors 🎉. _(release; Ruby Weekly #793; seen 2026-03-26)_
 
