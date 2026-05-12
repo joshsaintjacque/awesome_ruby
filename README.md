@@ -10,18 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 7
-- Categories: 4
+- Resources: 8
+- Categories: 5
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 1, gem: 3, release: 3
-- Provenance: 7 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 1, gem: 3, release: 4
+- Provenance: 8 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (4)
 - [Rails & Hotwire](#rails-hotwire) (1)
+- [Web Frameworks & APIs](#web-frameworks-apis) (1)
 - [Security & Authentication](#security-authentication) (1)
 - [Community, News & Events](#community-news-events) (1)
 
@@ -35,6 +36,10 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Rails & Hotwire
 
 - [Dynamic Ruby and Hidden Maintenance Costs](https://danielabaron.me/blog/dynamic-ruby-and-long-term-maintenance) - ‘Clever’ has a cost, so it better have a valuable benefit. Ruby and Rails make metaprogramming easy, but in long-lived app code, explicit and boring often beats elegant and clever. _(article; Ruby Weekly #795; seen 2026-04-09)_
+
+## Web Frameworks & APIs
+
+- [Puma 8.0: The Rack Web Server Built for Parallelism](https://github.com/puma/puma/releases/tag/v8.0.0) - Among many small improvements, Puma gets smarter concurrency controls, including a feature for framework authors to mark requests as IO-bound to allow them to go past the normal thread ceiling, as well as the ability to change thread pool limits at runtime. The Puma 8 upgrade guide digs into all the details. _(release; Ruby Weekly #795; seen 2026-04-09)_
 
 ## Security & Authentication
 
