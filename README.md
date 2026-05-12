@@ -10,20 +10,20 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 93
+- Resources: 94
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 20, guide: 3, project: 9, gem: 8, release: 49, talk: 1, news: 3
-- Provenance: 93 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 21, guide: 3, project: 9, gem: 8, release: 49, talk: 1, news: 3
+- Provenance: 94 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (17)
 - [Rails & Hotwire](#rails-hotwire) (28)
 - [Web Frameworks & APIs](#web-frameworks-apis) (7)
-- [Gems & Libraries](#gems-libraries) (10)
+- [Gems & Libraries](#gems-libraries) (11)
 - [Testing & Quality](#testing-quality) (3)
 - [Databases, Search & Storage](#databases-search-storage) (1)
 - [Performance & Observability](#performance-observability) (4)
@@ -100,6 +100,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 - [From Sidekiq to Temporal: A Zero-Downtime Migration Strategy](https://firehydrant.com/blog/sidekiq-to-temporal-a-zero-downtime-migration-strategy) - 📄 From Sidekiq to Temporal: A Zero-Downtime Migration Strategy David Haley (FireHydrant). _(article; Ruby Weekly #795; seen 2026-04-09)_
 - [get its own built-in CPU time profiler?](https://bugs.ruby-lang.org/issues/21950) - Should Ruby get its own built-in CPU time profiler? _(article; Ruby Weekly #792; seen 2026-03-19)_
+- [Ruby Is Not a Serious Programming Language](https://www.wired.com/story/ruby-is-not-a-serious-programming-language) - Remember back in December when WIRED published the widely-panned Ruby Is Not a Serious Programming Language? They're back at it, this time calling COBOL the 'Asbestos of Programming Languages'. _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [Rubycon Italy](https://rubycon.it) - 🇮🇹 Rubycon Italy, taking place this May 8, has just unveiled its schedule, written in Ruby itself! _(article; Ruby Weekly #792; seen 2026-03-19)_
 - [how dependency cooldowns / delayed updates could work in RubyGems](https://github.com/ruby/rubygems/discussions/9113) - Hiroshi Shibata has drafted an initial design proposal for how dependency cooldowns / delayed updates could work in RubyGems and Bundler. Notably, per-gem granularity is avoided. _(gem; Ruby Weekly #795; seen 2026-04-09)_
 - [RubyGems.org](https://rubygems.org) - 🌐 RubyGems.org has temporarily disabled access to localized/translated pages due to intense crawler activity. _(gem; Ruby Weekly #795; seen 2026-04-09)_
