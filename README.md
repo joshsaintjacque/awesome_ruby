@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 195
+- Resources: 196
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 46, guide: 7, project: 27, gem: 13, release: 93, talk: 1, news: 8
-- Provenance: 195 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 46, guide: 7, project: 27, gem: 13, release: 94, talk: 1, news: 8
+- Provenance: 196 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (34)
-- [Rails & Hotwire](#rails-hotwire) (53)
+- [Rails & Hotwire](#rails-hotwire) (54)
 - [Web Frameworks & APIs](#web-frameworks-apis) (14)
 - [Gems & Libraries](#gems-libraries) (19)
 - [Testing & Quality](#testing-quality) (11)
@@ -109,6 +109,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails Multi-Tenancy](https://dev.37signals.com/rails-multi-tenancy) - 📺 Rails Multi-Tenancy – Mike Dalessio shares the benefits of multi-tenant databases and how the Active Record Tenanted gem came to be. 37Signals. _(gem; Ruby Weekly #788; seen 2026-02-19)_
 - [Active Admin 3.5](https://activeadmin.info) - – Admin engine for Rails apps. _(release; Ruby Weekly #791; seen 2026-03-12)_
 - [ActiveHash 4.1](https://github.com/active-hash/active_hash) - – Use hashes as a read-only data source for ActiveRecord-like models. _(release; Ruby Weekly #794; seen 2026-04-02)_
+- [Ancestry 5.0: Organize an Active Record Model into a Tree Structure](https://github.com/stefankroes/ancestry) - Uses the materialized path pattern to efficiently model tree structures or hierarchies in a model, giving methods like parent, children, siblings, and many more to your objects. Now supports Rails 8. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Build a Resumable CSV Import with ActiveJob::Continuable](https://codewithrails.com/blog/rails-resumable-csv-import-continuable) - Rails 8.1 introduced a feature that allows for jobs to be interrupted and resumed, making it easy to break up laborious tasks into multiple steps. _(release; Ruby Weekly #787; seen 2026-02-12)_
 - [Formtastic 6.0](https://github.com/formtastic/formtastic/releases/tag/v6.0.0) - – Build accessible, easily-stylable forms in Rails apps. _(release; Ruby Weekly #789; seen 2026-02-26)_
 - [How ZJIT Removes Redundant Object Loads and Stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores) - ZJIT, optionally available in Ruby 4.0, is a new, alternative JIT compiler with the potential for being faster and easier to work on than YJIT over time. This article shows off some of how that potential is now bearing performance-shaped fruit. _(release; Ruby Weekly #792; seen 2026-03-19)_
