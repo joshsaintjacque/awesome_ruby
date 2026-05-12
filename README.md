@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 161
+- Resources: 162
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 77, talk: 1, news: 5
-- Provenance: 161 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 41, guide: 5, project: 21, gem: 11, release: 78, talk: 1, news: 5
+- Provenance: 162 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (44)
 - [Web Frameworks & APIs](#web-frameworks-apis) (13)
 - [Gems & Libraries](#gems-libraries) (17)
-- [Testing & Quality](#testing-quality) (7)
+- [Testing & Quality](#testing-quality) (8)
 - [Databases, Search & Storage](#databases-search-storage) (2)
 - [Performance & Observability](#performance-observability) (7)
 - [Security & Authentication](#security-authentication) (5)
@@ -161,6 +161,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [SchnellMCP: A Ruby-Native MCP Server Experience](https://rubyelders.com/writings/2026-02-schnellmcp.html) - Annotate Ruby methods with a @mcp.tool YARD tag and they become MCP server tools callable by an LLM agent. This write-up digs into all the details. Inspired by Python's FastMCP. _(project; Ruby Weekly #789; seen 2026-02-26)_
 - [Thanos](https://github.com/redneckbeard/thanos) - Four years ago, we first mentioned Thanos, an experimental Ruby to Go transpiler. Its author has recently wielded AI to 'finish the job'. I took it for a spin and it's very cool, but type inference demands and a lack of metaprogramming make many potential use cases a no-Go...? 😅. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [Mutant 0.15](https://github.com/mbj/mutant) - – Ruby mutation testing framework that modifies code to confirm tests actually catch defects. _(release; Ruby Weekly #790; seen 2026-03-05)_
+- [RuboCop 1.85](https://github.com/rubocop/rubocop/releases/tag/v1.85.0) - – Static code analyzer and formatter. _(release; Ruby Weekly #789; seen 2026-02-26)_
 
 ## Databases, Search & Storage
 
