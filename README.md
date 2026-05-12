@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 240
+- Resources: 241
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 65, guide: 12, project: 29, gem: 14, release: 108, talk: 2, news: 10
-- Provenance: 240 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 66, guide: 12, project: 29, gem: 14, release: 108, talk: 2, news: 10
+- Provenance: 241 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (40)
-- [Rails & Hotwire](#rails-hotwire) (67)
+- [Rails & Hotwire](#rails-hotwire) (68)
 - [Web Frameworks & APIs](#web-frameworks-apis) (17)
 - [Gems & Libraries](#gems-libraries) (24)
 - [Testing & Quality](#testing-quality) (14)
@@ -102,6 +102,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Storing Multi-Valued enum Fields in Active Record](https://sinaptia.dev/posts/storing-multi-valued-enum-fields-in-activerecord) - 📄 Storing Multi-Valued enum Fields in Active Record Nazareno Moresco. _(article; Ruby Weekly #790; seen 2026-03-05)_
 - [Teach Rails Irregular Plurals with Inflections](https://andycroll.com/ruby/teach-rails-irregular-plurals-with-inflections) - 📄 Teach Rails Irregular Plurals with Inflections — So criterion becomes criteria, say. Andy Croll. _(article; Ruby Weekly #794; seen 2026-04-02)_
 - [Using Minitest::Spec in Rails? Watch Out for the Lifecycle Hooks](https://remimercier.com/minitest-spec-and-rails-hooks) - 📄 Using Minitest::Spec in Rails? Watch Out for the Lifecycle Hooks – Namely the order setup and before blocks execute in. Remi Mercier. _(article; Ruby Weekly #790; seen 2026-03-05)_
+- [What Finally Posting Rails UI to Hacker News Taught Me](https://railsui.com/blog/what-finally-posting-rails-ui-to-hacker-news-taught-me) - Practical advice on what to think about when sharing a project (in this case, a new commercial suite of components and themes for Rails) in a popular space. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Building Browser-Based Ruby Tutorials with Tutorialkit.rb](https://evilmartians.com/chronicles/tutorialkit-rb-interactive-ruby-tutorials-entirely-in-the-browser) - TutorialKit.rb is a toolkit for building interactive Ruby (and Rails!) tutorials that run in-browser with WebAssembly. This post tours building your own experiences, shares working examples right in the post, and explains the tech behind it all, including a custom Ruby WASM build that can run Rails. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [Deploying a Rails 8 App with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal) - 📄 Deploying a Rails 8 App with Kamal on Hetzner – An exhaustive step-by-step walkthrough of the process. Mooktakim Ahmed. _(guide; Ruby Weekly #793; seen 2026-03-26)_
 - [How to Declare Acronyms in Rails Inflections](https://andycroll.com/ruby/declare-acronyms-in-rails-inflections) - 📄 How to Declare Acronyms in Rails Inflections – For when you don’t want "api".camelize to be "Api" but "API". Andy Croll. _(guide; Ruby Weekly #792; seen 2026-03-19)_
