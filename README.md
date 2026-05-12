@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 397
+- Resources: 398
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 131, gem: 18, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 97 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 132, gem: 18, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 98 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -28,7 +28,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Databases, Search & Storage](#databases-search-storage) (17)
 - [Performance & Observability](#performance-observability) (12)
 - [Security & Authentication](#security-authentication) (9)
-- [DevOps & Deployment](#devops-deployment) (10)
+- [DevOps & Deployment](#devops-deployment) (11)
 - [AI & LLMs](#ai-llms) (19)
 - [Frontend, Assets & UI](#frontend-assets-ui) (26)
 - [Data, APIs & Integration](#data-apis-integration) (13)
@@ -374,6 +374,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rendering Seismic Observation Data with Ruby](https://rubystacknews.com/2026/01/27/ruby-rendering-seismic-observation-data) - 📄 Rendering Seismic Observation Data with Ruby Giménez Silva Germán Alberto. _(article; Ruby Weekly #785; seen 2026-01-29)_
 - [Ruby Can Draw Cities Now](https://rubystacknews.com/2026/01/09/ruby-can-draw-cities-now) - 🌐 Ruby Can Draw Cities Now — An initial look at using libgd-gis, a libgd-powered way to render maps and GeoJSON layers from Ruby. _(article; Ruby Weekly #783; seen 2026-01-15)_
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server. Stars: 2006; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [Gusto/it-cpe-opensource](https://github.com/Gusto/it-cpe-opensource) - Tools used by the CPE team at Gusto to manage our endpoints and software deployment systems. Stars: 68; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [heroku/heroku-buildpack-clojure](https://github.com/heroku/heroku-buildpack-clojure) - Heroku's classic buildpack for Clojure applications. Stars: 117; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [heroku/heroku-buildpack-scala](https://github.com/heroku/heroku-buildpack-scala) - Heroku's classic buildpack for Scala applications. Stars: 190; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [minimum2scp/dockerfiles](https://github.com/minimum2scp/dockerfiles) - Collection of Dockerfiles Stars: 77; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
