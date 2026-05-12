@@ -10,13 +10,13 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 32
+- Resources: 33
 - Categories: 11
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-04-09
 
-- Mix: article: 7, project: 2, gem: 7, release: 13, talk: 1, news: 2
-- Provenance: 32 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 8, project: 2, gem: 7, release: 13, talk: 1, news: 2
+- Provenance: 33 from Ruby Weekly, 0 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Rails & Hotwire](#rails-hotwire) (8)
 - [Web Frameworks & APIs](#web-frameworks-apis) (2)
 - [Gems & Libraries](#gems-libraries) (5)
-- [Testing & Quality](#testing-quality) (1)
+- [Testing & Quality](#testing-quality) (2)
 - [Security & Authentication](#security-authentication) (1)
 - [AI & LLMs](#ai-llms) (1)
 - [Frontend, Assets & UI](#frontend-assets-ui) (3)
@@ -69,6 +69,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 ## Testing & Quality
 
 - [A Testing Anti-Pattern: Distracting Setup Data](https://www.saturnci.com/testing-anti-pattern-distracting-setup-data.html) - 📄 A Testing Anti-Pattern: Distracting Setup Data Jason Swett. _(article; Ruby Weekly #795; seen 2026-04-09)_
+- [Migrating 9,000 Tests from RSpec to Minitest with AI Agents](https://augmentedcode.dev/multi-agent-pipeline-minitest-migration) - 📄 Migrating 9,000 Tests from RSpec to Minitest with AI Agents Viktor Schmidt. _(article; Ruby Weekly #794; seen 2026-04-02)_
 
 ## Security & Authentication
 
