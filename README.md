@@ -10,18 +10,18 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 463
+- Resources: 464
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 192, gem: 23, release: 137, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 163 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 193, gem: 23, release: 137, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 164 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (51)
-- [Rails & Hotwire](#rails-hotwire) (102)
+- [Rails & Hotwire](#rails-hotwire) (103)
 - [Web Frameworks & APIs](#web-frameworks-apis) (36)
 - [Gems & Libraries](#gems-libraries) (108)
 - [Testing & Quality](#testing-quality) (21)
@@ -153,6 +153,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [Ruby Native: The Tool I Wish I Had 25 Apps Ago](https://newsletter.masilotti.com/p/the-tool-i-wish-i-had-25-apps-ago) - Ruby Native is a commercial tool for turning Rails sites into iOS apps (think Hotwire Native but without having to touch Swift). It’s currently in preview but you can try it out. _(project; Ruby Weekly #792; seen 2026-03-19)_
 - [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance. Stars: 5195; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Shopify/app_profiler](https://github.com/Shopify/app_profiler) - Collect performance profiles for your Rails application. Stars: 267; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. Stars: 1283; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [sinaptia/ruby_llm-monitoring](https://github.com/sinaptia/ruby_llm-monitoring) - Monitor your LLM usage within your Rails application. Stars: 79; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [socializer/socializer](https://github.com/socializer/socializer) - Rails engine to make your projects social. Adds stream, profile, circles, groups and notifications. Stars: 58; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Stringer](https://github.com/stringer-rss/stringer) - (above) is a visually pleasing Rails-powered 'anti social' RSS feed reader that sticks to the basics, with no social features or ‘fancy machine learning’ at all. First featured over a year ago, it’s continued to see frequent updates. _(project; Ruby Weekly #789; seen 2026-02-26)_
