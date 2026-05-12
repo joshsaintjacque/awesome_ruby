@@ -10,19 +10,19 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 
 ## Snapshot
 
-- Resources: 312
+- Resources: 313
 - Categories: 14
 - Freshness window: November 2025 through May 2026
 - Latest source date: 2026-05-12
 
-- Mix: article: 83, guide: 14, project: 48, gem: 17, release: 136, talk: 2, news: 12
-- Provenance: 300 from Ruby Weekly, 12 from actively updated GitHub projects, 0 from other sources
+- Mix: article: 83, guide: 14, project: 49, gem: 17, release: 136, talk: 2, news: 12
+- Provenance: 300 from Ruby Weekly, 13 from actively updated GitHub projects, 0 from other sources
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (49)
 - [Rails & Hotwire](#rails-hotwire) (83)
-- [Web Frameworks & APIs](#web-frameworks-apis) (24)
+- [Web Frameworks & APIs](#web-frameworks-apis) (25)
 - [Gems & Libraries](#gems-libraries) (44)
 - [Testing & Quality](#testing-quality) (17)
 - [Databases, Search & Storage](#databases-search-storage) (14)
@@ -180,6 +180,7 @@ This catalog emphasizes resources published, seen, or actively updated in the la
 - [The Hanami project thanks Mike Perham and Sidekiq](https://hanamirb.org/blog/2026/03/12/thank-you-sidekiq-2026) - for their continued support in 2026. _(article; Ruby Weekly #791; seen 2026-03-12)_
 - [Protocol::URL A New Way to Parse, Manipulate and Construct URLs](https://socketry.github.io/protocol-url/guides/getting-started/index.html) - A modern clean, standards-compliant API for working with URLs according to RFC 3986. Tidy and well documented. _(guide; Ruby Weekly #783; seen 2026-01-15)_
 - [AcceptLanguage](https://github.com/cyril/accept_language.rb) - – Accept-Language HTTP header parsing library. _(project; Ruby Weekly #785; seen 2026-01-29)_
+- [projectblacklight/blacklight](https://github.com/projectblacklight/blacklight) - Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index. Stars: 785; pushed 2026-05-12. _(project; GitHub active Ruby search; updated 2026-05-12)_
 - [Semian: Get Resiliency When Calling External Services](https://github.com/Shopify/semian) - Intercepts resource access from several different libraries (e.g. mysql2, redis, Net::HTTP) and ‘fails fast’ when said external resources are slow or unresponsive. _(project; Ruby Weekly #786; seen 2026-02-05)_
 - [wreq-ruby: An HTTP Client with Real Browser TLS/HTTP2 Signatures](https://github.com/SearchApi/wreq-ruby) - Uses the Rust-powered wreq under the hood to make HTTP requests that appear as if they come from mainstream browsers by using the same headers, TLS extension and cipher suite ordering, HTTP/2 frame settings, etc. _(project; Ruby Weekly #793; seen 2026-03-26)_
 - [open-telemetry/opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) - OpenTelemetry Ruby API & SDK, and related gems Stars: 571; pushed 2026-05-12. _(gem; GitHub active Ruby search; updated 2026-05-12)_
