@@ -10,14 +10,14 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 452
+- Resources: 453
 - Categories: 15
-- Mix: article: 117, guide: 21, project: 147, gem: 146, talk: 3, news: 18
+- Mix: article: 118, guide: 21, project: 147, gem: 146, talk: 3, news: 18
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (36)
-- [Rails & Hotwire](#rails-hotwire) (70)
+- [Rails & Hotwire](#rails-hotwire) (71)
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
@@ -125,6 +125,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [Teach Rails Irregular Plurals with Inflections](https://andycroll.com/ruby/teach-rails-irregular-plurals-with-inflections) | Quick Rails inflection recipe for handling domain-specific irregular plurals. |
 | [The Rails Way in 2026](https://blog.arkency.com/the-rails-way-in-2026) | Arkency essay on how the Rails Way feels in modern product development. |
 | [TutorialKit.rb: The ruby.wasm Journey Goes Onward](https://evilmartians.com/chronicles/tutorialkit-rb-the-ruby-wasm-journey-goes-onward) | TutorialKit.rb progress report for building interactive Ruby lessons in the browser. |
+| [Use class_names to Conditionally Apply CSS Classes](https://andycroll.com/ruby/use-class-names-to-conditionally-apply-css-classes/) | Rails view-helper pattern for conditional CSS classes without brittle ERB interpolation. |
 | [Using Claude Code to Build Rails Apps](https://www.driftingruby.com/episodes/claude-code) | Drifting Ruby walkthrough for adding Claude Code to everyday Rails development. |
 | [What Finally Posting Rails UI to Hacker News Taught Me](https://railsui.com/blog/what-finally-posting-rails-ui-to-hacker-news-taught-me) | Launch retrospective with useful positioning lessons for Rails product builders. |
 | [What I've Learned From Shipping 25+ Mobile Apps](https://newsletter.masilotti.com/p/what-ive-learned-from-shipping-25) | Hard-earned product lessons for teams shipping Hotwire Native mobile apps. |
