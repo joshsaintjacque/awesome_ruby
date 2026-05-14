@@ -10,14 +10,14 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 453
+- Resources: 454
 - Categories: 15
-- Mix: article: 118, guide: 21, project: 147, gem: 146, talk: 3, news: 18
+- Mix: article: 119, guide: 21, project: 147, gem: 146, talk: 3, news: 18
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (36)
-- [Rails & Hotwire](#rails-hotwire) (71)
+- [Rails & Hotwire](#rails-hotwire) (72)
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
@@ -113,6 +113,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [How to Declare Acronyms in Rails Inflections](https://andycroll.com/ruby/declare-acronyms-in-rails-inflections) | Tiny Rails inflector tip for preserving acronyms in class and table names. |
 | [I Quit Rails Core 4 Years Ago: Here’s What I’ve Been Up To](https://kaspth.com/posts/i-quit-rails-core-4-years-ago-heres-what-ive-been-up-to) | Personal framework-design reflection from a former Rails core contributor. |
 | [Implementing a Production RAG System on Rails](https://jessewaites.com/blog/post/rag-on-rails) | Rails RAG architecture for search, retrieval, and LLM responses in production. |
+| [Migrating a Rails App from Sprockets to JS Bundling with esbuild](https://www.fastruby.io/blog/migrate-rails-app-from-sprockets-to-esbuild.html) | Incremental Rails asset migration story using parallel Sprockets and esbuild pipelines. |
 | [Optimistic UI in Rails with Optimism and Inertia](https://evilmartians.com/chronicles/optimistic-ui-in-rails-with-optimism-and-inertia) | Rails optimistic UI pattern for faster-feeling interactions with Inertia. |
 | [Rails Homepage Repositions Around Agentic Development](https://github.com/rails/website/commit/8e261885e35839a2d11795dfd01ec23b8a1cfc29) | Rails website commit showing how the framework now positions agentic development. |
 | [Rails Multi-Tenancy](https://dev.37signals.com/rails-multi-tenancy) | 37signals pattern for adding multi-tenant boundaries to Rails applications. |
