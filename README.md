@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 454
+- Resources: 455
 - Categories: 15
-- Mix: article: 119, guide: 21, project: 147, gem: 146, talk: 3, news: 18
+- Mix: article: 120, guide: 21, project: 147, gem: 146, talk: 3, news: 18
 
 ## Contents
 
@@ -26,7 +26,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
 - [Security & Authentication](#security-authentication) (20)
-- [DevOps & Deployment](#devops-deployment) (21)
+- [DevOps & Deployment](#devops-deployment) (22)
 - [AI & LLMs](#ai-llms) (20)
 - [Frontend, Assets & UI](#frontend-assets-ui) (32)
 - [Data, APIs & Integration](#data-apis-integration) (23)
@@ -536,6 +536,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 | Name | Description |
 | --- | --- |
+| [Data Sovereignty: How to Keep All of Your Services in Europe](https://blog.appsignal.com/2026/05/07/data-sovereignty-how-to-keep-all-of-your-services-in-europe-appsignal-hatchbox.html) | Rails deployment walkthrough for keeping hosting and monitoring on European infrastructure. |
 | [From Sidekiq to Temporal: A Zero-Downtime Migration Strategy](https://firehydrant.com/blog/sidekiq-to-temporal-a-zero-downtime-migration-strategy) | Migration playbook for moving critical background work from Sidekiq to Temporal. |
 | [Kamal-Backup: Scheduled Rails Backups for Kamal Apps](https://paolino.me/kamal-backup) | Rails backup recipe for Kamal deployments that need scheduled, recoverable database snapshots. |
 | [Self-Hosted GitHub Actions on a Spare Mac Mini](https://theguardian.engineering/blog/faster-cheaper-messier-lessons-from-switch-to-self-hosted-github-actions) | Self-hosted CI story with cost and speed lessons for Ruby teams. |
