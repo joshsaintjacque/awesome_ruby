@@ -10,14 +10,14 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 455
+- Resources: 456
 - Categories: 15
-- Mix: article: 120, guide: 21, project: 147, gem: 146, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 147, gem: 146, talk: 3, news: 18
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (36)
-- [Rails & Hotwire](#rails-hotwire) (72)
+- [Rails & Hotwire](#rails-hotwire) (73)
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
@@ -93,6 +93,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | --- | --- |
 | [37signals Open Sources Its Writebook Rails App](https://once.com/writebook) | Writebook source release gives Rails developers a polished production app to study. |
 | [Action Text Adds Markdown Export](https://github.com/rails/rails/pull/56858) | Action Text change adding Markdown export for rich-text content. |
+| [Adding Edit, Delete and Reposition for Nested Forms in Rails with Stimulus](https://railsdesigner.com/extending-nested-forms-stimulus/) | Stimulus pattern for editing, deleting, and drag-reordering nested Rails form records without Cocoon. |
 | [Build a Feature Flag System in 50 Lines with Rails.app.creds](https://codewithrails.com/blog/rails-feature-flags-credentials) | Tiny Rails feature-flag pattern backed by encrypted application credentials. |
 | [Build a Resumable CSV Import with ActiveJob::Continuable](https://codewithrails.com/blog/rails-resumable-csv-import-continuable) | Active Job pattern for CSV imports that can pause, resume, and recover. |
 | [Building Browser-Based Ruby Tutorials with Tutorialkit.rb](https://evilmartians.com/chronicles/tutorialkit-rb-interactive-ruby-tutorials-entirely-in-the-browser) | Browser tutorial pattern for teaching Ruby with runnable examples and ruby.wasm. |
