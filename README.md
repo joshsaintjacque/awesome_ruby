@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 457
+- Resources: 458
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 148, gem: 146, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 149, gem: 146, talk: 3, news: 18
 
 ## Contents
 
@@ -21,7 +21,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
-- [Testing & Quality](#testing-quality) (40)
+- [Testing & Quality](#testing-quality) (41)
 - [Tooling & Developer Experience](#tooling-developer-experience) (39)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
@@ -336,6 +336,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [RuboCop](https://github.com/rubocop/rubocop) | Static analyzer and formatter for Ruby style, lint, and autocorrection. |
 | [Rubydex: A Static Analysis Toolkit for Ruby](https://github.com/Shopify/rubydex) | Static-analysis toolkit from Shopify for inspecting Ruby code at scale. |
 | [Shopify/tapioca](https://github.com/Shopify/tapioca) | Sorbet RBI generator that makes dynamic Ruby APIs visible to static type checking. |
+| [Sorbet](https://github.com/sorbet/sorbet) | Fast Ruby type checker and signature system for larger codebases. |
 | [Spectator Sport](https://github.com/bensheldon/spectator_sport) | Rails-friendly tooling for watching specs and keeping feedback tight. |
 | [standardrb/standard](https://github.com/standardrb/standard) | Zero-config Ruby style guide and formatter built on top of RuboCop. |
 | [Steep](https://github.com/soutaro/steep) | Static type checker for Ruby codebases that use RBS signatures. |
