@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 467
+- Resources: 468
 - Categories: 15
-- Mix: article: 122, guide: 21, project: 152, gem: 150, talk: 4, news: 18
+- Mix: article: 122, guide: 21, project: 152, gem: 151, talk: 4, news: 18
 
 ## Contents
 
@@ -20,7 +20,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Rails & Hotwire](#rails-hotwire) (73)
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
-- [Gems & Libraries](#gems-libraries) (20)
+- [Gems & Libraries](#gems-libraries) (21)
 - [Testing & Quality](#testing-quality) (46)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
@@ -304,6 +304,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [Parallel](https://github.com/grosser/parallel) | Simple helper for parallelizing Ruby work across processes or threads. |
 | [re2](https://github.com/mudge/re2) | Bindings to Google's RE2 engine for fast regular expressions with predictable runtime. |
 | [Refrigerator](https://github.com/jeremyevans/ruby-refrigerator) | Gem for freezing object graphs and catching accidental mutation in Ruby. |
+| [ruby-enhance_module](https://github.com/Verseth/ruby-enhance_module) | Sorbet-friendly helper for extending object instances with Ruby modules. |
 | [rubyzip](https://github.com/rubyzip/rubyzip) | ZIP archive toolkit for reading and writing compressed files from Ruby. |
 | [stitchfix/immutable-struct](https://github.com/stitchfix/immutable-struct) | Tiny immutable value-object helper for making Ruby data structures safer. |
 | [Stoplight](https://github.com/bolshakov/stoplight) | Circuit breaker for keeping failing external dependencies from overwhelming Ruby apps. |
