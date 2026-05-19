@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 468
+- Resources: 469
 - Categories: 15
-- Mix: article: 122, guide: 21, project: 152, gem: 151, talk: 4, news: 18
+- Mix: article: 122, guide: 21, project: 152, gem: 152, talk: 4, news: 18
 
 ## Contents
 
@@ -29,7 +29,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [DevOps & Deployment](#devops-deployment) (22)
 - [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (32)
-- [Data, APIs & Integration](#data-apis-integration) (23)
+- [Data, APIs & Integration](#data-apis-integration) (24)
 - [Community, News & Events](#community-news-events) (25)
 
 ## Ruby Language & Internals
@@ -710,6 +710,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [Net::IMAP](https://github.com/ruby/net-imap) | Modern Ruby IMAP library for building email clients and mailbox automations. |
 | [Ruby Classifier](https://rubyclassifier.com) | Text classification toolkit for adding lightweight machine learning to Ruby apps. |
 | [ruby-duckdb](https://github.com/suketa/ruby-duckdb) | DuckDB bindings for fast local analytics over files and tabular data from Ruby. |
+| [ruby-shale-builder](https://github.com/Verseth/ruby-shale-builder) | Builder DSL for Shale with Sorbet and Tapioca support for typed data mapping. |
 | [ruby/json](https://github.com/ruby/json) | Core JSON parser and generator used across Ruby applications and libraries. |
 | [Rubyx-py: A New Way to Call Python Code from Ruby](https://github.com/yinho999/rubyx) | Ruby-to-Python bridge for calling Python libraries from Ruby without awkward glue. |
 | [Rumale](https://github.com/yoshoku/rumale) | Machine-learning toolkit that brings classical ML algorithms to Ruby. |
