@@ -10,16 +10,16 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 466
+- Resources: 467
 - Categories: 15
-- Mix: article: 122, guide: 21, project: 152, gem: 149, talk: 4, news: 18
+- Mix: article: 122, guide: 21, project: 152, gem: 150, talk: 4, news: 18
 
 ## Contents
 
 - [Ruby Language & Internals](#ruby-language-internals) (36)
 - [Rails & Hotwire](#rails-hotwire) (73)
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
-- [Web Frameworks & APIs](#web-frameworks-apis) (30)
+- [Web Frameworks & APIs](#web-frameworks-apis) (31)
 - [Gems & Libraries](#gems-libraries) (20)
 - [Testing & Quality](#testing-quality) (46)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
@@ -253,6 +253,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [Excon](https://github.com/excon/excon) | Fast HTTP client library for Ruby applications. |
 | [Gems](https://github.com/rubygems/gems) | RubyGems.org API wrapper for searching and inspecting published gems. |
 | [Grape](https://github.com/ruby-grape/grape) | Ruby framework for building REST-like APIs. |
+| [grape_sorbet](https://github.com/thatch-health/grape_sorbet) | Sorbet signatures and Tapioca DSL compiler support for Grape APIs. |
 | [grpc](https://github.com/grpc/grpc) | gRPC library caveat for Ruby upgrades that depend on native extension compatibility. |
 | [HoneyryderChuck/httpx](https://github.com/HoneyryderChuck/httpx) | Feature-rich HTTP client with HTTP/2, streaming, plugins, and concurrent requests. |
 | [HTTP.rb](https://github.com/httprb/http) | Flexible Ruby HTTP client with a small, chainable request API. |
