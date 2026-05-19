@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 469
+- Resources: 470
 - Categories: 15
-- Mix: article: 122, guide: 21, project: 152, gem: 152, talk: 4, news: 18
+- Mix: article: 122, guide: 21, project: 153, gem: 152, talk: 4, news: 18
 
 ## Contents
 
@@ -22,7 +22,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
 - [Gems & Libraries](#gems-libraries) (21)
 - [Testing & Quality](#testing-quality) (46)
-- [Tooling & Developer Experience](#tooling-developer-experience) (40)
+- [Tooling & Developer Experience](#tooling-developer-experience) (41)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (28)
 - [Security & Authentication](#security-authentication) (20)
@@ -426,6 +426,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [RubyInstaller for Windows](https://rubyinstaller.org/) | Windows distribution and installer tooling for Ruby developers. |
 | [RubyMine](https://www.jetbrains.com/ruby/) | Ruby and Rails IDE with debugging, refactoring, code insight, and remote development tools. |
 | [Textbringer](https://github.com/shugo/textbringer) | Emacs-like text editor written in Ruby for people who enjoy hackable tools. |
+| [vscode-sorbetto](https://github.com/damolinx/vscode-sorbetto) | VS Code extension that provides Ruby language services through Sorbet. |
 | [Windows 3.11 in the Browser](https://pieter.com) | Browser-based retro computing environment with Ruby-adjacent developer curiosity value. |
 | [WP2TXT](https://github.com/yohasebe/wp2txt) | Command-line converter that turns WordPress exports into portable text archives. |
 | [Zed](https://zed.dev) | Fast open-source code editor suited to Ruby and general development. |
