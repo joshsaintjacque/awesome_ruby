@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 459
+- Resources: 460
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 150, gem: 146, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 150, gem: 147, talk: 3, news: 18
 
 ## Contents
 
@@ -21,7 +21,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
-- [Testing & Quality](#testing-quality) (41)
+- [Testing & Quality](#testing-quality) (42)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
@@ -359,6 +359,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [RBS::Inline](https://github.com/soutaro/rbs-inline) | Tool for writing RBS type declarations inline with Ruby comments. |
 | [RSpec](https://github.com/rspec/rspec) | Ruby testing framework built around readable examples and expectations. |
 | [rspec/rspec-rails](https://github.com/rspec/rspec-rails) | RSpec integration that makes Rails models, controllers, requests, and views testable. |
+| [rubocop-rbs_inline](https://github.com/tk0miya/rubocop-rbs_inline) | RuboCop extension for checking RBS::Inline annotation comments in Ruby code. |
 | [RuboCop::GraphQL](https://github.com/DmitryTsepelev/rubocop-graphql) | RuboCop extension for enforcing GraphQL schema and query conventions. |
 | [RubyCritic](https://github.com/whitesmith/rubycritic) | Code-quality reporter that highlights churn, complexity, duplication, and smell hotspots. |
 | [SingleCov](https://github.com/grosser/single_cov) | Coverage helper that ensures every Ruby file has a dedicated test file. |
