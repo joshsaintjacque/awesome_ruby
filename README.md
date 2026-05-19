@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 464
+- Resources: 465
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 152, gem: 149, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 152, gem: 149, talk: 4, news: 18
 
 ## Contents
 
@@ -21,7 +21,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
-- [Testing & Quality](#testing-quality) (45)
+- [Testing & Quality](#testing-quality) (46)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
@@ -370,6 +370,12 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [teamcapybara/capybara](https://github.com/teamcapybara/capybara) | Acceptance-testing framework for driving browsers like a user in Ruby tests. |
 | [Thanos](https://github.com/redneckbeard/thanos) | Ruby test helper for deleting half a codebase to reveal missing coverage. |
 | [Typelizer](https://github.com/skryukov/typelizer) | Bridge from Ruby types to TypeScript definitions for safer frontend contracts. |
+
+### Talks
+
+| Name | Description |
+| --- | --- |
+| [Types as Policy](https://andygauge.github.io/types-as-policy/) | Rails World talk about using types as enforceable policy in Ruby systems. |
 
 ## Tooling & Developer Experience
 
