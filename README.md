@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 461
+- Resources: 462
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 150, gem: 148, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 150, gem: 149, talk: 3, news: 18
 
 ## Contents
 
@@ -21,7 +21,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
-- [Testing & Quality](#testing-quality) (43)
+- [Testing & Quality](#testing-quality) (44)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
@@ -357,6 +357,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) | Consumer-driven contract testing toolkit for Ruby services and APIs. |
 | [RBS](https://github.com/ruby/rbs) | Type signature language for documenting Ruby APIs and interfaces. |
 | [RBS::Inline](https://github.com/soutaro/rbs-inline) | Tool for writing RBS type declarations inline with Ruby comments. |
+| [RBS::Siggen](https://github.com/kozy4324/rbs-siggen) | Generator that creates RBS signatures for methods defined through Ruby DSL calls. |
 | [rbs_activesupport](https://github.com/tk0miya/rbs_activesupport) | RBS generator for Active Support concerns, delegation, and class attributes. |
 | [RSpec](https://github.com/rspec/rspec) | Ruby testing framework built around readable examples and expectations. |
 | [rspec/rspec-rails](https://github.com/rspec/rspec-rails) | RSpec integration that makes Rails models, controllers, requests, and views testable. |
