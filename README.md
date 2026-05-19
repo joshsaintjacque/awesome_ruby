@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 463
+- Resources: 464
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 151, gem: 149, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 152, gem: 149, talk: 3, news: 18
 
 ## Contents
 
@@ -27,7 +27,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Performance & Observability](#performance-observability) (27)
 - [Security & Authentication](#security-authentication) (20)
 - [DevOps & Deployment](#devops-deployment) (22)
-- [AI & LLMs](#ai-llms) (20)
+- [AI & LLMs](#ai-llms) (21)
 - [Frontend, Assets & UI](#frontend-assets-ui) (32)
 - [Data, APIs & Integration](#data-apis-integration) (23)
 - [Community, News & Events](#community-news-events) (25)
@@ -595,6 +595,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 | Name | Description |
 | --- | --- |
+| [claude-ruby-plugins](https://github.com/stevegeek/claude-ruby-plugins) | Claude Code skills, commands, and agents for writing Ruby RBS type signatures. |
 | [Gemini](https://deepmind.google/models/gemini/) | Google DeepMind model family worth knowing when Ruby apps need multimodal LLM features. |
 | [Node.js Debate Over AI-Assisted Contributions](https://github.com/indutny/no-slop-in-nodejs-core) | Concrete policy discussion for teams deciding how to review AI-assisted code contributions. |
 | [raullenchai/homebrew-rapid-mlx](https://github.com/raullenchai/homebrew-rapid-mlx) | Homebrew tap for quickly installing MLX tooling on Apple Silicon development machines. |
