@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 462
+- Resources: 463
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 150, gem: 149, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 151, gem: 149, talk: 3, news: 18
 
 ## Contents
 
@@ -21,7 +21,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
-- [Testing & Quality](#testing-quality) (44)
+- [Testing & Quality](#testing-quality) (45)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
@@ -335,6 +335,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [HAML-Lint](https://github.com/sds/haml-lint) | Static analyzer for keeping Haml templates consistent and error-free. |
 | [RuboCop](https://github.com/rubocop/rubocop) | Static analyzer and formatter for Ruby style, lint, and autocorrection. |
 | [Rubydex: A Static Analysis Toolkit for Ruby](https://github.com/Shopify/rubydex) | Static-analysis toolkit from Shopify for inspecting Ruby code at scale. |
+| [sentinel-rb](https://github.com/AndyGauge/sentinel-rb) | Rust-powered watcher for keeping Ruby code and generated RBS signatures in sync. |
 | [Shopify/tapioca](https://github.com/Shopify/tapioca) | Sorbet RBI generator that makes dynamic Ruby APIs visible to static type checking. |
 | [Sorbet](https://github.com/sorbet/sorbet) | Fast Ruby type checker and signature system for larger codebases. |
 | [Spectator Sport](https://github.com/bensheldon/spectator_sport) | Rails-friendly tooling for watching specs and keeping feedback tight. |
