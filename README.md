@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 458
+- Resources: 459
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 149, gem: 146, talk: 3, news: 18
+- Mix: article: 121, guide: 21, project: 150, gem: 146, talk: 3, news: 18
 
 ## Contents
 
@@ -22,7 +22,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Web Frameworks & APIs](#web-frameworks-apis) (30)
 - [Gems & Libraries](#gems-libraries) (20)
 - [Testing & Quality](#testing-quality) (41)
-- [Tooling & Developer Experience](#tooling-developer-experience) (39)
+- [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (27)
 - [Security & Authentication](#security-authentication) (20)
@@ -397,6 +397,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) | Package manager for ChromeOS that uses Ruby for install recipes and tooling. |
 | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | Dependency update engine that understands Ruby ecosystems and many other package managers. |
 | [Difftastic](https://difftastic.wilfred.me.uk) | Syntax-aware diff tool that understands Ruby and other languages. |
+| [docscribe](https://github.com/unurgunite/docscribe) | AST-based documentation tool that generates YARD-style comments for Ruby code. |
 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | Open dataset and site for tracking software end-of-life dates. |
 | [Gem in a Box](https://github.com/geminabox/geminabox) | Tiny private gem host for teams that need simple internal package distribution. |
 | [JSLinux](https://bellard.org/jslinux) | Browser-based Linux environment handy for quick runtime experiments and demos. |
