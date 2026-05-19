@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 465
+- Resources: 466
 - Categories: 15
-- Mix: article: 121, guide: 21, project: 152, gem: 149, talk: 4, news: 18
+- Mix: article: 122, guide: 21, project: 152, gem: 149, talk: 4, news: 18
 
 ## Contents
 
@@ -24,7 +24,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Testing & Quality](#testing-quality) (46)
 - [Tooling & Developer Experience](#tooling-developer-experience) (40)
 - [Databases, Search & Storage](#databases-search-storage) (12)
-- [Performance & Observability](#performance-observability) (27)
+- [Performance & Observability](#performance-observability) (28)
 - [Security & Authentication](#security-authentication) (20)
 - [DevOps & Deployment](#devops-deployment) (22)
 - [AI & LLMs](#ai-llms) (21)
@@ -468,6 +468,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [How We Improved Rails Response Times by 87%](https://fastretro.app/blog/how-we-improved-rails-response-times-by-87-percent) | Rails performance case study with concrete response-time wins. |
 | [Introducing Upright: 37signals' Synthetic Monitoring System](https://dev.37signals.com/introducing-upright) | 37signals monitoring system for checking production behavior from a user's view. |
 | [Monitoring Cron Jobs with Whenever](https://gorails.com/episodes/monitoring-cron-jobs-with-whenever) | GoRails lesson on monitoring scheduled jobs created with the Whenever gem. |
+| [One Engine, Many Tools](https://railsatscale.com/2026-05-12-one-engine-many-tools/) | Rails at Scale article explaining Rubydex as a shared engine for Ruby analysis tools. |
 | [Optimizations for Rails Apps](https://www.driftingruby.com/episodes/optimizations) | Drifting Ruby episode packed with practical Rails performance cleanup ideas. |
 | [Setting Up AppSignal Server Monitoring for a Rails App on Hatchbox](https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html) | Step-by-step production monitoring setup for a Rails app hosted on Hatchbox. |
 | [Use jemalloc by Default Proposal](https://bugs.ruby-lang.org/issues/14718) | Ruby feature proposal exploring jemalloc as a default allocator for better runtime memory behavior. |
