@@ -10,9 +10,9 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 471
+- Resources: 472
 - Categories: 15
-- Mix: article: 122, guide: 21, project: 154, gem: 152, talk: 4, news: 18
+- Mix: article: 122, guide: 21, project: 155, gem: 152, talk: 4, news: 18
 
 ## Contents
 
@@ -22,7 +22,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
 - [Gems & Libraries](#gems-libraries) (21)
 - [Testing & Quality](#testing-quality) (46)
-- [Tooling & Developer Experience](#tooling-developer-experience) (42)
+- [Tooling & Developer Experience](#tooling-developer-experience) (43)
 - [Databases, Search & Storage](#databases-search-storage) (12)
 - [Performance & Observability](#performance-observability) (28)
 - [Security & Authentication](#security-authentication) (20)
@@ -427,6 +427,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [RubyMine](https://www.jetbrains.com/ruby/) | Ruby and Rails IDE with debugging, refactoring, code insight, and remote development tools. |
 | [steep-vscode](https://github.com/soutaro/steep-vscode) | VS Code extension that integrates Steep diagnostics into the editor. |
 | [Textbringer](https://github.com/shugo/textbringer) | Emacs-like text editor written in Ruby for people who enjoy hackable tools. |
+| [vscode-rbs-syntax](https://github.com/soutaro/vscode-rbs-syntax) | VS Code syntax highlighting extension for Ruby RBS signature files. |
 | [vscode-sorbetto](https://github.com/damolinx/vscode-sorbetto) | VS Code extension that provides Ruby language services through Sorbet. |
 | [Windows 3.11 in the Browser](https://pieter.com) | Browser-based retro computing environment with Ruby-adjacent developer curiosity value. |
 | [WP2TXT](https://github.com/yohasebe/wp2txt) | Command-line converter that turns WordPress exports into portable text archives. |
