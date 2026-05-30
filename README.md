@@ -10,13 +10,13 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 
 ## Snapshot
 
-- Resources: 473
+- Resources: 474
 - Categories: 15
-- Mix: article: 122, guide: 21, project: 156, gem: 152, talk: 4, news: 18
+- Mix: article: 123, guide: 21, project: 156, gem: 152, talk: 4, news: 18
 
 ## Contents
 
-- [Ruby Language & Internals](#ruby-language-internals) (36)
+- [Ruby Language & Internals](#ruby-language-internals) (37)
 - [Rails & Hotwire](#rails-hotwire) (73)
 - [Applications & Reference Codebases](#applications-reference-codebases) (38)
 - [Web Frameworks & APIs](#web-frameworks-apis) (31)
@@ -56,6 +56,7 @@ This catalog favors recent, actively maintained, or newly useful Ruby resources 
 | [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) | Version-by-version Ruby feature map for understanding how the language evolved. |
 | [Ruby Release Cycle Guide](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799) | Maintainer-oriented reference for deciding which Ruby versions still deserve support. |
 | [Ruby::Box](https://prateekcodes.com/ruby-4-introduces-ruby-box-for-in-process-isolation-part-1) | Experimental Ruby isolation mechanism for separated code loading and execution. |
+| [Ruby::Box: Rethinking Code Reloading with Isolated Namespaces](https://rubyelders.com/writings/2026-01-ruby-box-reload.html) | Ruby Elders exploration of using Ruby::Box namespaces to reload Rack code without constant unloading or process forks. |
 | [Use StringInquirer for Readable Predicate Methods](https://andycroll.com/ruby/use-stringinquirer-for-readable-predicate-methods) | Tiny Rails idiom for turning string states into readable predicate methods. |
 | [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit) | Rails at Scale note on using Perfetto traces to understand ZJIT behavior. |
 | [Zero-Copy String Constructor Proposal for Ruby C Extensions](https://bugs.ruby-lang.org/issues/22056) | Ruby C-extension proposal for creating strings without unnecessary memory copies. |
